@@ -1,0 +1,3129 @@
+Registering endpoint: /
+Registering endpoint: /um
+Registering endpoint: /dois
+Registering endpoint: /tres
+Registering endpoint: /clientes
+Registering endpoins: /cliente/:idcliente
+Servidor iniciado em localhost:8888. Ctrl+C para encerrar!
+Select * from clientes where idcliente = 7101
+connected as id null
+TextRow {
+  idcliente: 7101,
+  nome: 'DUNIT TEST CLIENT',
+  bucket: 'zscan1-sp',
+  nrserie: '9999-9999-99',
+  documento: 'RG 3682810 SSP-GO',
+  telefone1: '(62) 8552-4165',
+  telefone2: '(62) 8552-4165',
+  telefone3: '(62) 3273-8034',
+  email: 'cleidson@zscansoftware.com',
+  email2: null,
+  endereco1: 'Rua Cruz Alta, 1724',
+  endereco2: 'Chacara 357 - Jardim Novo Mundo',
+  cidade: 'GoiÃ¢nia',
+  estado: 'Goias',
+  pais: 'BRASIL',
+  cep: '74715-160',
+  idioma: 'pt_BR',
+  importado: null,
+  latitude: null,
+  longitude: null,
+  ImportPostgres: 'S',
+  CidadeEncontrada: 'S' }
+connected as id 28
+TextRow { idcliente: 1045, nome: 'HECTOR ADOLFO POLANIA' }
+TextRow { idcliente: 1049, nome: 'GASTRONEW LTDA' }
+TextRow { idcliente: 4889, nome: 'CLEIDSON B SILVA 232119' }
+TextRow { idcliente: 4890, nome: 'REGIS DEWES' }
+TextRow { idcliente: 4891, nome: 'JOSELMA ROSAL ALVES' }
+TextRow { idcliente: 4893, nome: 'JULIANA GOMES PAULINO' }
+TextRow { idcliente: 4894, nome: 'ALBERTO IORIO ARUZZO' }
+TextRow { idcliente: 4895, nome: 'VANDREIA DE FIGUEIREDO SILVA ALVES' }
+TextRow { idcliente: 4896, nome: 'DALTON MUNIZ SANTOS' }
+TextRow { idcliente: 4897, nome: 'NEY SALDANHA' }
+TextRow { idcliente: 4898, nome: 'SIDON OLIVEIRA CARDOSO' }
+TextRow { idcliente: 4899, nome: 'JULIO AREAS DEMARIA DA SILVA' }
+TextRow { idcliente: 4900, nome: 'GASTRO IMAGEM ENDOSCOPIA DIGESTIVA' }
+TextRow { idcliente: 4901, nome: 'GASTRO IMAGEM ENDOSCOPIA DIGESTIVA' }
+TextRow { idcliente: 4902, nome: 'IGESP' }
+TextRow { idcliente: 4903, nome: 'ZAMIR ANJOS' }
+TextRow { idcliente: 4905, nome: 'BRUNO MORAIS TORRES' }
+TextRow { idcliente: 4906, nome: 'JORGE VARGAS' }
+TextRow { idcliente: 4907, nome: 'CIRUMEDICAL' }
+TextRow { idcliente: 4908, nome: 'JOSE FERNANDO DE SOUZA SALES JUNIOR' }
+TextRow { idcliente: 4909, nome: 'MIGUEL MELENDEZ' }
+TextRow { idcliente: 4910, nome: 'MARCELO SERGIO' }
+TextRow { idcliente: 4911, nome: 'AUTARQUIA HOSPITALAR MUNICIPAL' }
+TextRow { idcliente: 4912, nome: 'CLAUDIO PORTO PEREIRA' }
+TextRow {
+  idcliente: 4913,
+  nome: 'AMI - ASSISTENCIA MEDICA INTEGRADA/CLINI' }
+TextRow { idcliente: 4914, nome: 'LARISSA ROBERTA CAMPOS DE SOUZA' }
+TextRow { idcliente: 4915, nome: 'RONALDO GOMES BERNARDO' }
+TextRow { idcliente: 4916, nome: 'HABIB JADOON' }
+TextRow { idcliente: 4917, nome: 'TAIANA MESSIAS MIRANDA' }
+TextRow { idcliente: 4918, nome: 'ENRIQUE FERNANDEZ MADRID' }
+TextRow { idcliente: 4919, nome: 'ARNALDO DANTAS TELES' }
+TextRow { idcliente: 4920, nome: 'JOSE AUGUSTO DE OLIVEIRA MESCOUTO' }
+TextRow { idcliente: 4921, nome: 'PAULO ROBERTO DURO GUIMARAES' }
+TextRow { idcliente: 4922, nome: 'IVAN HUMBERTO SANCHES' }
+TextRow { idcliente: 4923, nome: 'ALEXANDRE MAGNO CARDOSO OLIVEIRA' }
+TextRow { idcliente: 4924, nome: 'CEZAR LUIS GUINDANI' }
+TextRow { idcliente: 4925, nome: 'MARCELO MOTTA MODESTO' }
+TextRow { idcliente: 4926, nome: 'RONAN G. DOS REIS JUNIOR' }
+TextRow { idcliente: 4927, nome: 'CENTRO DE ENDOSCOPIA ELO CLINICA' }
+TextRow { idcliente: 4928, nome: 'NONATO' }
+TextRow { idcliente: 4929, nome: 'SIMTEC PRUEBA' }
+TextRow { idcliente: 4930, nome: 'NONATO' }
+TextRow { idcliente: 4931, nome: 'HOSPITAL AMERICO CHAGAS' }
+TextRow { idcliente: 4932, nome: 'FABIO HONDO' }
+TextRow { idcliente: 4933, nome: 'FRANCISCO CARLOS DE OLIVEIRA LOPES' }
+TextRow { idcliente: 4934, nome: 'ELTON HUGO MAIA TEIXEIRA' }
+TextRow { idcliente: 4935, nome: 'DEMO' }
+TextRow { idcliente: 4936, nome: 'CIRUMEDICAL' }
+TextRow { idcliente: 4937, nome: 'VERA LUCIA SDEPANIAN' }
+TextRow { idcliente: 4938, nome: 'INSTITUTO RUBEN BERTA' }
+TextRow { idcliente: 4940, nome: 'MASSAF' }
+TextRow { idcliente: 4941, nome: 'MOACIR COELHO' }
+TextRow { idcliente: 4942, nome: 'WESLEY PEREIRA NASCIMENTO' }
+TextRow { idcliente: 4943, nome: 'HOSPITAL AMPARO' }
+TextRow { idcliente: 4944, nome: 'FRANCISCO DAS CHAGAS CAMPELO ARRUDA' }
+TextRow { idcliente: 4945, nome: 'CAIXA DOS POBRES DE NATIVIDADE' }
+TextRow { idcliente: 4946, nome: 'ALESSANDRA VIEIRA FRANCO' }
+TextRow { idcliente: 4947, nome: 'MANOEL FLORENTINO DE MEDEIROS NETO' }
+TextRow { idcliente: 4948, nome: 'YANNE LEAL NUNES' }
+TextRow { idcliente: 4949, nome: 'GEANE REGINA FERNANDES COSTA' }
+TextRow { idcliente: 4950, nome: 'JOAO DOS SANTOS JUNIOR' }
+TextRow { idcliente: 4951, nome: 'BENEDITO BORGES DE ALMEIDA FILHO' }
+TextRow { idcliente: 4952, nome: 'DANIELA BILLER' }
+TextRow {
+  idcliente: 4953,
+  nome: 'PREFEITURA MUNICIPAL DE SANTO ANTONIO DOS LOPES' }
+TextRow { idcliente: 4954, nome: 'ANA MARIA CARVALHO BRAGA' }
+TextRow {
+  idcliente: 4955,
+  nome: 'REJANE LINHARES DALBONI DE ALBUQUERQUE' }
+TextRow {
+  idcliente: 4956,
+  nome: 'MARIA DO SOCORRO ALBUQUERQUE DE SANTANA' }
+TextRow { idcliente: 4957, nome: 'KATHYA ELIZABETH DO MONTE TEIXEIRA' }
+TextRow { idcliente: 4958, nome: 'CLINOR' }
+TextRow { idcliente: 4959, nome: 'DRA ROSANGELA PIOVESAN FARIAS' }
+TextRow { idcliente: 4960, nome: 'JORGE BASTOS VILLELA' }
+TextRow { idcliente: 4961, nome: 'MARCELO SERGIO ARAUJO BAIRROS' }
+TextRow { idcliente: 4962, nome: 'MIRIAN RODRIGUES DONATO' }
+TextRow { idcliente: 4963, nome: 'HELBIO BONIFACIO FERREIRA' }
+TextRow { idcliente: 4964, nome: 'LUIZ FERNANDO VELOSO SILVEIRA' }
+TextRow {
+  idcliente: 4965,
+  nome: 'PRONTO SOCORRO MUNICIPAL DE ARTHUR NOGUEIRA' }
+TextRow { idcliente: 4966, nome: 'PAULO DE FIGUEIREDO RODRIGUES' }
+TextRow {
+  idcliente: 4967,
+  nome: 'ARLON BRENO FIGUEIREDO NUNES DA SILVEIRA' }
+TextRow { idcliente: 4968, nome: 'FABIO ALVES DA SILVA' }
+TextRow { idcliente: 4969, nome: 'GASTRO-SERVICE' }
+TextRow { idcliente: 4970, nome: 'ROGERIO LUCENA DE ALMEIDA' }
+TextRow { idcliente: 4971, nome: 'JULIO CESAR ESCOCARD MATOS' }
+TextRow { idcliente: 4972, nome: 'BRUNO BITENCOURT DE ALMEIDA' }
+TextRow { idcliente: 4973, nome: 'DEISE MARQUES' }
+TextRow { idcliente: 4974, nome: 'SEVERINO ORSATTO JUNIOR' }
+TextRow { idcliente: 4975, nome: 'ZSCAN SOFTWARE' }
+TextRow { idcliente: 4976, nome: 'MARIA CRISTINA SOUBHIA' }
+TextRow { idcliente: 4977, nome: 'ANA PAULA RODRIGUES REZENDE' }
+TextRow { idcliente: 4978, nome: 'EDMUNDO DE OLIVEIRA SOUZA' }
+TextRow { idcliente: 4979, nome: 'RHINOMED  RCI CLINICA MEDICA LTDA' }
+TextRow { idcliente: 4981, nome: 'HENRIQUE DE ARAUJO ALVARENGA' }
+TextRow { idcliente: 4982, nome: 'MARIA LUIZA M. NEGRAO' }
+TextRow { idcliente: 4983, nome: 'DANIEL BERNARDES ARAUJO' }
+TextRow { idcliente: 4984, nome: 'LUCAS DE ALMEIDA REIS' }
+TextRow { idcliente: 4985, nome: 'SAMUEL MORAES IELO' }
+TextRow { idcliente: 4986, nome: 'MARCIO FESTUGATO' }
+TextRow { idcliente: 4987, nome: 'JAQUELINE MARTA DE OLIVEIRA' }
+TextRow { idcliente: 4988, nome: 'MAURICIO DISESSA ASSAF' }
+TextRow { idcliente: 4989, nome: 'HELCIO LOBO' }
+TextRow { idcliente: 4990, nome: 'WANDERLENE JORGE PAULO' }
+TextRow { idcliente: 4991, nome: 'FRANCISCO BARBOSA' }
+TextRow { idcliente: 4992, nome: 'TARCISIO CARNEIRO DA COSTA' }
+TextRow { idcliente: 4993, nome: 'SATURNINO DIOGO VALIM JR' }
+TextRow { idcliente: 4994, nome: 'GASTRONEW' }
+TextRow {
+  idcliente: 4995,
+  nome: 'INSTITUTO DE RADIOLOGIA HELIO PONCE DE ARRUDA' }
+TextRow { idcliente: 4996, nome: 'RODRIGO CESAR DE CARVALHO' }
+TextRow { idcliente: 4997, nome: 'MARIA LILIANA ARAGAO' }
+TextRow { idcliente: 4998, nome: 'GASTRONEW' }
+TextRow { idcliente: 4999, nome: 'SIDNEY PEARCE FURTADO' }
+TextRow { idcliente: 5001, nome: 'WILLIAM MACEDO LIMA' }
+TextRow { idcliente: 5002, nome: 'BRUNO WEYMAN' }
+TextRow { idcliente: 5003, nome: 'MARTEC' }
+TextRow { idcliente: 5004, nome: 'DR RAFAEL TORRES DE MELO' }
+TextRow { idcliente: 5005, nome: 'MARCELO FERREIRA DELA COLETA' }
+TextRow { idcliente: 5006, nome: 'INSTITUTO DE COLOPROCTOLOGIA' }
+TextRow { idcliente: 5007, nome: 'CARLOS HENRIQUE CASTRO' }
+TextRow { idcliente: 5008, nome: 'MARIA DE FATIMA ABRANTES' }
+TextRow { idcliente: 5009, nome: 'MARCUS TULIO BASSUL HADDAD FILHO' }
+TextRow { idcliente: 5010, nome: 'ADLM SERVICOS MEDICOS S/C LTDA' }
+TextRow { idcliente: 5011, nome: 'LEONARDO ARAUJO GOMES' }
+TextRow { idcliente: 5012, nome: 'GASTROCENTRO' }
+TextRow { idcliente: 5013, nome: 'LUIZ GONCALVES' }
+TextRow { idcliente: 5014, nome: 'GUSTAVO ABDANUR DE CARVALHO' }
+TextRow { idcliente: 5015, nome: 'LUCIANA CUNHA RODRIGUES' }
+TextRow { idcliente: 5016, nome: 'CENTRO GOIANO DE OTORRINO LTDA' }
+TextRow { idcliente: 5017, nome: 'MR EQUIPAMENTOS MEDICOS' }
+TextRow { idcliente: 5018, nome: 'PREFEITURA MUNICIPAL DE SINOP' }
+TextRow { idcliente: 5019, nome: 'GASTRONEW' }
+TextRow { idcliente: 5020, nome: 'LINCOLN CRUZ DANTAS' }
+TextRow { idcliente: 5021, nome: 'DI COR' }
+TextRow { idcliente: 5022, nome: 'MARCIO TEIXEIRA LEONARDO' }
+TextRow { idcliente: 5023, nome: 'FERNANDO CANAVARROS' }
+TextRow { idcliente: 5024, nome: 'SOGASTRO' }
+TextRow { idcliente: 5025, nome: 'ALBER ZMED' }
+TextRow { idcliente: 5026, nome: 'EXAME CENTRO MEDICO' }
+TextRow { idcliente: 5027, nome: 'CLINICA BOCKUS' }
+TextRow { idcliente: 5028, nome: 'ANDERSON FREITAS DA SILVA' }
+TextRow { idcliente: 5029, nome: 'CLINICA  DO  INTESTINO' }
+TextRow { idcliente: 5030, nome: 'HOSPITAL GERAL DE PALMAS' }
+TextRow { idcliente: 5031, nome: 'PAULOGUIMARAES' }
+TextRow { idcliente: 5032, nome: 'DENNIS HOLANDA' }
+TextRow {
+  idcliente: 5033,
+  nome: 'STELIO CARVALHO CASTELO BRANCO JUNIOR' }
+TextRow { idcliente: 5034, nome: 'KELLY CHRISTIE GOMES FLAUSINO' }
+TextRow { idcliente: 5035, nome: 'CARLOS EDUARDO MARTINS AGUIAR' }
+TextRow { idcliente: 5036, nome: 'JOSE CLAUDIO NASCIMENTO' }
+TextRow { idcliente: 5037, nome: 'FRANCISCO CARLOS' }
+TextRow {
+  idcliente: 5038,
+  nome: 'GASTROMEDIC-CLINICA DE GASTROENTEROLOGIA E ENDOSCO' }
+TextRow { idcliente: 5039, nome: 'PAULO ROBERTO GUIMARAES' }
+TextRow { idcliente: 5040, nome: 'HUGO DE ALMEIDA FABRI' }
+TextRow { idcliente: 5041, nome: 'PAULO AUGUSTO CAMPELO BESSA' }
+TextRow { idcliente: 5042, nome: 'FABIO MARCONDES BRASILEIRO' }
+TextRow { idcliente: 5043, nome: 'MASSAF' }
+TextRow { idcliente: 5044, nome: 'IMED T' }
+TextRow { idcliente: 5045, nome: 'PROVIDA CLINICA MEDICA' }
+TextRow { idcliente: 5046, nome: 'ROGERIO DOS SANTOS RODRIGUES' }
+TextRow { idcliente: 5047, nome: 'GISELLE DE FREITAS TURIEL' }
+TextRow { idcliente: 5048, nome: 'HOSPITAL DAS FORCAS ARMADAS' }
+TextRow { idcliente: 5049, nome: 'MOISES COSTA BEBER JUNIOR' }
+TextRow { idcliente: 5050, nome: 'GIL NEY ELOI STABELINI' }
+TextRow { idcliente: 5051, nome: 'FLORINDO RIBEIRO COELHO' }
+TextRow { idcliente: 5052, nome: 'DANIELLE SILVA MACHADO' }
+TextRow { idcliente: 5053, nome: 'MARIA ANATOLIA CHAVES DOS REIS' }
+TextRow { idcliente: 5054, nome: 'CLINICA DR SUN' }
+TextRow {
+  idcliente: 5055,
+  nome: 'INSTITUTO DE OTORRINOLARINGOLOGIA DE MINAS GERAIS' }
+TextRow { idcliente: 5056, nome: 'HOSPITAL MEMORIAL ARCOVERDE' }
+TextRow { idcliente: 5057, nome: 'ERIVELTON TEIXEIRA NEVES' }
+TextRow {
+  idcliente: 5058,
+  nome: 'COLOPROCTOCLINICA SOCIEDADE SIMPLES LTDA' }
+TextRow { idcliente: 5059, nome: 'JUDITH JOSEFINA QUINBAQALA FERREIRA' }
+TextRow { idcliente: 5060, nome: 'MR EQUIPAMENTOS MEDICOS' }
+TextRow { idcliente: 5061, nome: 'JOAO CAETANO DALLEGRAVE MARCHESINI' }
+TextRow { idcliente: 5062, nome: 'MARIA DA CONCEICAO MOREIRA AZEVEDO' }
+TextRow { idcliente: 5063, nome: 'ADALBERTO PANKO' }
+TextRow { idcliente: 5064, nome: 'JOSE SECUNDINO V.BUENO SILBEIRA' }
+TextRow { idcliente: 5065, nome: 'CAMILA CORREA PEREIRA PAIM' }
+TextRow { idcliente: 5066, nome: 'MARIA DO SOCORRO RIBEIRO' }
+TextRow { idcliente: 5067, nome: 'BRUNA TEIXEIRA MACHADO' }
+TextRow {
+  idcliente: 5068,
+  nome: 'HOSPITAL SAO FRANCISCO DE ASSIS LTDA.' }
+TextRow { idcliente: 5069, nome: 'WILLIAM PAIVA MARQUES' }
+TextRow {
+  idcliente: 5070,
+  nome: 'FUNDO MUNICIPAL DE SAUDE DE PORTO UNIAO' }
+TextRow { idcliente: 5071, nome: 'JIMMY BRITO' }
+TextRow {
+  idcliente: 5072,
+  nome: 'DR. FRANCISCO BRUNNO MATIAS FIGUEIREDO' }
+TextRow { idcliente: 5073, nome: 'OSMAR TERENCIO DA SILVA JUNIOR' }
+TextRow {
+  idcliente: 5074,
+  nome: 'AMBULATORIO DE DIAGNOSTICO POR IMAGEM MAIOBAO LTDA' }
+TextRow { idcliente: 5075, nome: 'RICARDO EBECKEN' }
+TextRow {
+  idcliente: 5076,
+  nome: 'CENTRO INTEGRADO DE SAUDE SANTA CLARA LTDA' }
+TextRow { idcliente: 5077, nome: 'EDWI RICARDO' }
+TextRow { idcliente: 5078, nome: 'CLINISCOP' }
+TextRow { idcliente: 5079, nome: 'LADANIL FELIZ FONSECA JUNIOR' }
+TextRow { idcliente: 5080, nome: 'VITAL VIEIRA NETO' }
+TextRow { idcliente: 5081, nome: 'MARIA MAGDALA TOLENTINO' }
+TextRow { idcliente: 5082, nome: 'ANA PAULA DOS REIS MILHOMEM MIRANDA' }
+TextRow { idcliente: 5083, nome: 'WAGNER XAVIER' }
+TextRow { idcliente: 5084, nome: 'CLINICA PAULO VI' }
+TextRow { idcliente: 5085, nome: 'WLADIMIR SANTOS FERREIRA' }
+TextRow { idcliente: 5086, nome: 'CEDESP' }
+TextRow { idcliente: 5087, nome: 'TALES FONSECA' }
+TextRow { idcliente: 5088, nome: 'ALEXANDRE FELIX DE SOUZA PRUDENTE' }
+TextRow { idcliente: 5089, nome: 'JOSE CARLOS BIANCHINI' }
+TextRow { idcliente: 5090, nome: 'PPGDCH' }
+TextRow { idcliente: 5091, nome: 'MICHELANGELO ANTONIO MORTATI JR' }
+TextRow { idcliente: 5092, nome: 'ORIOSVALDO FERRAZ DE SOUSA' }
+TextRow { idcliente: 5093, nome: 'ZAMIR ANJOS' }
+TextRow { idcliente: 5094, nome: 'DALBERTO DASSOLER' }
+TextRow { idcliente: 5095, nome: 'ROBERTO CARLOS F.BARRETO' }
+TextRow { idcliente: 5096, nome: 'KEILA REGINA MATOS CANTANHEIDE' }
+TextRow { idcliente: 5097, nome: 'ZAMIR ANJOS' }
+TextRow { idcliente: 5098, nome: 'NUCLEO APARELHO DIGESTIVO' }
+TextRow { idcliente: 5099, nome: 'PERICLES BARBATO' }
+TextRow { idcliente: 5100, nome: 'RICARDO CAMPOS' }
+TextRow { idcliente: 5101, nome: 'ZAMIR ANJOS' }
+TextRow { idcliente: 5102, nome: 'GASTRONORTE' }
+TextRow { idcliente: 5103, nome: 'LUIZ HIROTOSHI OTA' }
+TextRow { idcliente: 5104, nome: 'EDUARDO HERREROS' }
+TextRow {
+  idcliente: 5105,
+  nome: 'CLAUDIA DENISE FACHETTI JUBE RIBEIRO' }
+TextRow { idcliente: 5107, nome: 'RICARDO WANDEGA CARDOSO' }
+TextRow {
+  idcliente: 5108,
+  nome: 'ANA HELENA DE SAMPAIO MATTOS CASTELLO BRANCO' }
+TextRow { idcliente: 5109, nome: 'LUCIANO OKAWA' }
+TextRow { idcliente: 5110, nome: 'PEDRO PAULO TORRANO' }
+TextRow { idcliente: 5111, nome: 'EMILIO PAULO LOPES GOMES' }
+TextRow { idcliente: 5112, nome: 'MARCOS AUGUSTO VERCESI' }
+TextRow { idcliente: 5113, nome: 'PEDRO PAULO TORRANO' }
+TextRow { idcliente: 5114, nome: 'RACHELLE DE BRITO FERNANDES' }
+TextRow { idcliente: 5115, nome: 'MARCIA DE ARAUJO MARRA' }
+TextRow { idcliente: 5116, nome: 'PEDRO PAULO TORRANO' }
+TextRow { idcliente: 5117, nome: 'ANA CAROLINA MARCHESINI DE CAMARGO' }
+TextRow { idcliente: 5118, nome: 'CARLOS EDUARDO MARTINS AGUIAR' }
+TextRow {
+  idcliente: 5120,
+  nome: 'LABORATORIO MARIA CRISTINA MENEGHETTI' }
+TextRow { idcliente: 5121, nome: 'CLINICA SANTO ANDRE' }
+TextRow { idcliente: 5122, nome: 'ZMED MULTIVIDEO' }
+TextRow { idcliente: 5123, nome: 'PAULO MACEDO DE OLIVEIRA LEITE' }
+TextRow { idcliente: 5124, nome: 'UNIASTRO-JARU' }
+TextRow { idcliente: 5125, nome: 'MARCELO SERGIO DE ARAUJO BARROS' }
+TextRow { idcliente: 5126, nome: 'KARINA AP. MELO FARINAZZO' }
+TextRow { idcliente: 5127, nome: 'FERNANDO MOTA' }
+TextRow { idcliente: 5128, nome: 'HALIM KHOURI' }
+TextRow { idcliente: 5129, nome: 'MASSAF' }
+TextRow { idcliente: 5130, nome: 'TANIA MARA VIEIRA SANTOS' }
+TextRow { idcliente: 5131, nome: 'PAULO SERGIO MARTINS DE OLIVEIRA' }
+TextRow { idcliente: 5132, nome: 'MASSAF' }
+TextRow { idcliente: 5133, nome: 'MAURO SOARES BANNI' }
+TextRow { idcliente: 5134, nome: 'FRANCISCO NILTOMAR LUCENA' }
+TextRow { idcliente: 5135, nome: 'MASSAF' }
+TextRow { idcliente: 5136, nome: 'MEDPLAN ASSISTENCIA MEDICA LTDA' }
+TextRow {
+  idcliente: 5137,
+  nome: 'ISABEL CRISTINA CHULVIS DO VAL GUIMARAES' }
+TextRow { idcliente: 5138, nome: 'ZMED TECNICA' }
+TextRow { idcliente: 5139, nome: 'GASTRO MED' }
+TextRow {
+  idcliente: 5140,
+  nome: 'FERNANDO RAFAEL CHUMPITAZ MALPARTIDA' }
+TextRow { idcliente: 5141, nome: 'DEUGECY ALVES DINIZ' }
+TextRow { idcliente: 5144, nome: 'ELIANA LODI' }
+TextRow { idcliente: 5145, nome: 'GLAUBER ZSCAN' }
+TextRow { idcliente: 5146, nome: 'BENJAMIM DE OLIVEIRA' }
+TextRow { idcliente: 5147, nome: 'ALTAIR DE CAMPOS' }
+TextRow { idcliente: 5148, nome: 'JOSE DO CARMO PEREIRA' }
+TextRow { idcliente: 5149, nome: 'HOSPITAL REGIONAL DE ARAGUAINA' }
+TextRow { idcliente: 5150, nome: 'ALTAIR DE CAMPOS' }
+TextRow { idcliente: 5151, nome: 'SYLVIA VILELA' }
+TextRow { idcliente: 5152, nome: 'LUIZ GONCALVES DA SILVA JUNIOR' }
+TextRow { idcliente: 5153, nome: 'DJALMA DO SANTOS' }
+TextRow { idcliente: 5154, nome: 'DEISE MARQUES' }
+TextRow { idcliente: 5155, nome: 'KEILON MACHADO SAMPAIO' }
+TextRow { idcliente: 5156, nome: 'FRANCO METZKER POGGIANI' }
+TextRow { idcliente: 5157, nome: 'CINTIA PEREIRA' }
+TextRow { idcliente: 5158, nome: 'HELYON NOGUEIRA VASCONCELOS' }
+TextRow { idcliente: 5159, nome: 'ELIFAS PAULO DA SILVA' }
+TextRow { idcliente: 5160, nome: 'FRANCISCO ALBINO REBOUCAS JUNIOR' }
+TextRow { idcliente: 5161, nome: 'ELIETE SANCHEZ DE ALMEIDA' }
+TextRow { idcliente: 5162, nome: 'HELYON NOGUEIRA VASCONCELOS' }
+TextRow {
+  idcliente: 5163,
+  nome: 'GASTRO PLAST CLINICA MEDICA ESPECIALIZADA LTDA' }
+TextRow { idcliente: 5164, nome: 'DANIEL AUGUSTO BARROSO LESSA' }
+TextRow { idcliente: 5165, nome: 'RAIMUNDO MACHADO DOS SANTOS JUNIOR' }
+TextRow { idcliente: 5166, nome: 'GASTRO GAVEA' }
+TextRow { idcliente: 5167, nome: 'CARLOS BELIZARIO PINTO DE MORAES' }
+TextRow { idcliente: 5168, nome: 'MANUEL MARCELO ANTEQUERA VILLAGRA' }
+TextRow { idcliente: 5169, nome: 'JOSE RENATO MENDES DA SILVA' }
+TextRow { idcliente: 5170, nome: 'HOSPITAL GERAL DR BEDA' }
+TextRow { idcliente: 5171, nome: 'DR. JOSE ERISTOTES NETO' }
+TextRow { idcliente: 5172, nome: 'OSANA SANCHES FROZI' }
+TextRow {
+  idcliente: 5173,
+  nome: 'HOSPITAL UNIVERSITARIO CLEMENTINO FRAGA FILHO' }
+TextRow { idcliente: 5174, nome: 'CARLOS ROBERTO MISSALI' }
+TextRow { idcliente: 5175, nome: 'PAULO PIRES DE MELLO' }
+TextRow { idcliente: 5176, nome: 'ARMELIM UTINO' }
+TextRow { idcliente: 5177, nome: 'FLAVIO ANTONIO ROBERTO RIBAS' }
+TextRow { idcliente: 5178, nome: 'NOVA IMAGEM' }
+TextRow { idcliente: 5179, nome: 'KATIA CRISTINA RIBEIRO DOS SANTOS' }
+TextRow {
+  idcliente: 5180,
+  nome: 'FREDERICO GUILHERME KECHE VIRMOND NETO' }
+TextRow { idcliente: 5181, nome: 'FERNANDO SANSONE RODRIGUES' }
+TextRow { idcliente: 5182, nome: 'HOSPITAL E MATERNIDADE SANTA RITA' }
+TextRow { idcliente: 5183, nome: 'TADAYOSHI' }
+TextRow { idcliente: 5184, nome: 'EVERARDO NUNES' }
+TextRow { idcliente: 5185, nome: 'NADIA DE OLIVEIRA SOUZA CASTRO' }
+TextRow { idcliente: 5186, nome: 'EVANDRO PEREIRA DOS SANTOS' }
+TextRow { idcliente: 5187, nome: 'MARIA DE JESUS GALVAO DE OLIVEIRA' }
+TextRow { idcliente: 5188, nome: 'MILENE OLIVIERA RODRIGUES' }
+TextRow { idcliente: 5189, nome: 'MR EQUIPAMENTOS MEDICOS LTDA' }
+TextRow { idcliente: 5190, nome: 'RITA CRISTINA CARVALHO RIOS' }
+TextRow { idcliente: 5191, nome: 'JULIO CESAR DA SILVA' }
+TextRow { idcliente: 5192, nome: 'RAYMUNDA MARANHAO' }
+TextRow { idcliente: 5193, nome: 'DRA CINTIA PEREIRA' }
+TextRow { idcliente: 5194, nome: 'DANIEL DELGADO FREIRE' }
+TextRow { idcliente: 5195, nome: 'VIDEO CLINICA' }
+TextRow { idcliente: 5196, nome: 'TIAGO MOREIRA SILVA' }
+TextRow { idcliente: 5197, nome: 'SUSUMU NIEKAWA' }
+TextRow { idcliente: 5198, nome: 'ALBERTO ALVES DE OLIVEIRA' }
+TextRow { idcliente: 5199, nome: 'WESLEY PEREIRANASCIMENTO' }
+TextRow { idcliente: 5200, nome: 'CLINICA DE CIRURGIA GERAL LTDA' }
+TextRow { idcliente: 5201, nome: 'GASTRONEW' }
+TextRow { idcliente: 5202, nome: 'FRANCISCO ANTONIO CARDOSO MOTA' }
+TextRow { idcliente: 5203, nome: 'HELIO DALLA LIBERA' }
+TextRow { idcliente: 5204, nome: 'GASTROCLINICA DE MANAUS LTDA' }
+TextRow { idcliente: 5205, nome: 'GASTRONEW' }
+TextRow { idcliente: 5206, nome: 'ANDRE LUIS FERREIRA SANTOS' }
+TextRow { idcliente: 5207, nome: 'ADILSON ANTONIO DE SOUZA' }
+TextRow { idcliente: 5208, nome: 'ANTONIO HENRIQUE  DE  FIGUEIREDO' }
+TextRow { idcliente: 5209, nome: 'RODRIGO RAMOS CAIADO' }
+TextRow { idcliente: 5210, nome: 'CENTRO GASTRO ENDOSCOPICO' }
+TextRow { idcliente: 5211, nome: 'JOAO LEAO PINTO NETO' }
+TextRow {
+  idcliente: 5212,
+  nome: 'CASA DE SAUDE E MATERNIDADE TEREZINHA DE JESUS LTD' }
+TextRow { idcliente: 5213, nome: 'JIMMY ALBERTO DE BRITO' }
+TextRow { idcliente: 5214, nome: 'GASTRO E FIGADO SERVICOS S/S LTDA' }
+TextRow { idcliente: 5215, nome: 'ELENICE DA SILVA TAGLIETA' }
+TextRow { idcliente: 5216, nome: 'PRISCILLA DE SOUZA MEDEIROS' }
+TextRow { idcliente: 5217, nome: 'CLINICA DR RICARDO XAVIER' }
+TextRow { idcliente: 5218, nome: 'CELSO RIBEIRO FERREIRA' }
+TextRow { idcliente: 5219, nome: 'OESTE DIAGNOSTICOS LTDA.' }
+TextRow { idcliente: 5220, nome: 'MARCO ANTONIO LIA' }
+TextRow { idcliente: 5221, nome: 'GASTROVIDEO' }
+TextRow { idcliente: 5222, nome: 'FERNANDO VIANA SILVA E FILHO' }
+TextRow {
+  idcliente: 5223,
+  nome: 'MARCIA REGINAAQUINO DE OLIVEIRA BAPTISTA' }
+TextRow { idcliente: 5224, nome: 'ELIZABETH MARIA MACEDO LIMA' }
+TextRow { idcliente: 5225, nome: 'REINALDO DE FARIA LIMA' }
+TextRow { idcliente: 5226, nome: 'ARTHUR VIANNA' }
+TextRow {
+  idcliente: 5227,
+  nome: 'HEALTH CARE MANAGEMENT ASSISTENCIA MEDICA LTDA' }
+TextRow { idcliente: 5228, nome: 'JOAO BATISTA BRITO FERREIRA' }
+TextRow { idcliente: 5229, nome: 'FLAVIO LUCIO DOS SANTOS ZANONI' }
+TextRow { idcliente: 5230, nome: 'MARCUS ANTONIO BARBOSA PEIXOTO LTDA' }
+TextRow { idcliente: 5231, nome: 'LANO ERMENSON MIRANDA MACEDO' }
+TextRow { idcliente: 5232, nome: 'ELZA CARVALHO SANT\'ANA DE ALMEIDA' }
+TextRow { idcliente: 5233, nome: 'REGINA MARIA AMORIM GRANDO' }
+TextRow { idcliente: 5235, nome: 'SERGIO HENRIQUE LOPES MARQUES' }
+TextRow { idcliente: 5236, nome: 'DENES RIBEIRO DE OLIVEIRA' }
+TextRow { idcliente: 5237, nome: 'PAULO J. M. MACHADO' }
+TextRow { idcliente: 5238, nome: 'YULO CESARE DE CASTRO ALVES' }
+TextRow { idcliente: 5239, nome: 'RICARDO DE ALMEIDA QUINTAIROS' }
+TextRow { idcliente: 5240, nome: 'ENDOSCOPIA BURITI' }
+TextRow { idcliente: 5241, nome: 'AMPARO' }
+TextRow {
+  idcliente: 5242,
+  nome: 'GERA GRUPO DE ENDOSCOPIA E REPRODUÃ§Ã£O ASSISTIDA' }
+TextRow { idcliente: 5243, nome: 'GASTRONEW' }
+TextRow { idcliente: 5244, nome: 'MARCIO ROBERTO IGLESIAS CABRAL' }
+TextRow { idcliente: 5245, nome: 'ALEXANDRE SOUZA NETO' }
+TextRow { idcliente: 5246, nome: 'HOSPITAL AMPARO CENTRO CIRURGICO' }
+TextRow { idcliente: 5247, nome: 'SANDRA AURELIANO PENA SIQUEIRA' }
+TextRow { idcliente: 5248, nome: 'ROGERIO DOS SANTOS RODRIGUES' }
+TextRow { idcliente: 5249, nome: 'JOEL COSTA FILHO' }
+TextRow { idcliente: 5250, nome: 'RODRIGO MENDES BARRETO' }
+TextRow { idcliente: 5251, nome: 'ALEXANDRE FRIEDRICH POSSER' }
+TextRow { idcliente: 5252, nome: 'MARTA MATIKO TOROHARA MISHINA' }
+TextRow { idcliente: 5253, nome: 'CID NOGUEIRA FRAGA M SOBRINHO' }
+TextRow { idcliente: 5254, nome: 'MICHEL BELUCHE' }
+TextRow { idcliente: 5255, nome: 'JORGE HUMBERTO ROSSETTI SALDANA' }
+TextRow { idcliente: 5256, nome: 'GRIPP CLIN SERVICOS MEDICOS' }
+TextRow { idcliente: 5257, nome: 'FABIO MURADAS GIRARDI' }
+TextRow { idcliente: 5258, nome: 'MARIA MAGDALA TOLENTINO' }
+TextRow { idcliente: 5259, nome: 'CLINICA PELA VIDA' }
+TextRow { idcliente: 5260, nome: 'JUAREZ LUIZ DONZELINI' }
+TextRow { idcliente: 5261, nome: 'ANA PAULA DE ARRUDA BUSICHIA' }
+TextRow { idcliente: 5262, nome: 'PAULO ROBERTO R RABELO' }
+TextRow {
+  idcliente: 5263,
+  nome: 'LUISA MARILLAC RAMOS LACERDA DE ANDRADE' }
+TextRow { idcliente: 5264, nome: 'FELIX ARENALES' }
+TextRow { idcliente: 5265, nome: 'JOSE ROVILSON RIBEIRO PINTO' }
+TextRow { idcliente: 5266, nome: 'BARTOLOMEU DE SA  BASILIO' }
+TextRow { idcliente: 5267, nome: 'LUCIRENE MATOS CARVALHO' }
+TextRow { idcliente: 5268, nome: 'HELMA LIEBERENZ FALLEIROS' }
+TextRow { idcliente: 5269, nome: 'WILLIAM DE SA LESSA' }
+TextRow { idcliente: 5270, nome: 'JEAN TISSIANI' }
+TextRow { idcliente: 5271, nome: 'TANIA MARIA TENORIO DE FARIAS' }
+TextRow { idcliente: 5272, nome: 'REUBEM ARAUJO GODINHO' }
+TextRow { idcliente: 5273, nome: 'ROSOMIRO ARRAIS' }
+TextRow { idcliente: 5274, nome: 'SEMPRE VIVA' }
+TextRow { idcliente: 5275, nome: 'MARCELO ANTONIO RAYMUNDO DE SOUZA' }
+TextRow { idcliente: 5276, nome: 'INSTITUTO DE PREVENCAO DO CANCER' }
+TextRow { idcliente: 5278, nome: 'LUIS ANTONIO DOS SANTOS' }
+TextRow { idcliente: 5279, nome: 'MARCELLO MONTESANTO' }
+TextRow { idcliente: 5280, nome: 'LAURO ROBERTO CAMPOS DE SOUSA' }
+TextRow { idcliente: 5281, nome: 'DENILSON DE ARAUJO CARNEIRO' }
+TextRow {
+  idcliente: 5282,
+  nome: 'INSTITUTO DE MEDICINA E CIRURGIA STOLF' }
+TextRow { idcliente: 5283, nome: 'RODRIGO GUIMARAES OLIVEIRA' }
+TextRow { idcliente: 5284, nome: 'ELDER ESPIRITU DIAZ' }
+TextRow { idcliente: 5285, nome: 'MARCIA MONTEIRO PINHO' }
+TextRow { idcliente: 5286, nome: 'ARMELIM UTINO' }
+TextRow { idcliente: 5287, nome: 'HOSPITAL SAO SEBASTIAO' }
+TextRow { idcliente: 5288, nome: 'DR. HELIO DELLE DONNE JUNIOR' }
+TextRow { idcliente: 5289, nome: 'ALINE SACCHI SORIANO' }
+TextRow { idcliente: 5290, nome: 'HUMBERTO JOSE PORTELLA GARCIA' }
+TextRow { idcliente: 5291, nome: 'SILVIO DELENO DE SOUSA BRITO' }
+TextRow { idcliente: 5292, nome: 'MULHER GINECOLOGIA E OBSTETRICIA' }
+TextRow {
+  idcliente: 5293,
+  nome: 'HOSPITAL MACRORREGIONAL ALEXANDRE MAMEDE' }
+TextRow { idcliente: 5294, nome: 'GRACILEIDY ALMEIDA DA COSTA BACELAR' }
+TextRow { idcliente: 5295, nome: 'HOSPITAL TARQUINIO LOPES FILHO' }
+TextRow { idcliente: 5296, nome: 'ADRIANO SOUZA' }
+TextRow { idcliente: 5297, nome: 'CLINICA ALEIXO' }
+TextRow { idcliente: 5298, nome: 'JEONI GOMES DOS SANTOS' }
+TextRow { idcliente: 5299, nome: 'JOSE CLAUDIO DE SA CARVALHO' }
+TextRow { idcliente: 5300, nome: 'GODOFREDO CAMPOS BORGES' }
+TextRow { idcliente: 5301, nome: 'FLORENTINA AZCUY' }
+TextRow { idcliente: 5302, nome: 'PAULO GOMES DE LIMA' }
+TextRow { idcliente: 5303, nome: 'NIVANILDO FIRMINO LIMA' }
+TextRow { idcliente: 5304, nome: 'RICARDO RAFFA VALENTE' }
+TextRow { idcliente: 5305, nome: 'MARCOS DE MEO BANCHER' }
+TextRow { idcliente: 5306, nome: 'HCM H CARLOS MACIEIRA' }
+TextRow { idcliente: 5307, nome: 'IARA CARVALHO DE SOUZA' }
+TextRow { idcliente: 5308, nome: 'JAEL GRACA DA JUSTA BOHADANA' }
+TextRow { idcliente: 5309, nome: 'LABCLIN' }
+TextRow { idcliente: 5310, nome: 'MURILLO LOBATO' }
+TextRow { idcliente: 5311, nome: 'AIRTON TORRES DE LACERDA' }
+TextRow { idcliente: 5312, nome: 'EDSON CARLOS SAMPAIO SILVA' }
+TextRow { idcliente: 5313, nome: 'CARLOS ROMUALDO BARBOSA GAMA' }
+TextRow { idcliente: 5314, nome: 'JOSELITO BARROS OLIVEIRA' }
+TextRow { idcliente: 5315, nome: 'VALDEON CAETANO RODRIGUES' }
+TextRow { idcliente: 5316, nome: 'NEY DOMINGOS DE MORAIS' }
+TextRow { idcliente: 5317, nome: 'AMERICO LUCIO NETO' }
+TextRow { idcliente: 5318, nome: 'RAUL RODRIGUES DA COSTA NETO' }
+TextRow { idcliente: 5319, nome: 'ANTONIO CARLOS MIRANDA' }
+TextRow { idcliente: 5320, nome: 'JORGE VITORINO OLIVEIRA BASTOS' }
+TextRow { idcliente: 5321, nome: 'GETULIO MALTA DE SOUZA' }
+TextRow { idcliente: 5322, nome: 'FRANCISCO DE OLIVEIRA LIMA FILHO' }
+TextRow { idcliente: 5323, nome: 'TANCREDO ALBERTO BICALHO BRETAS' }
+TextRow { idcliente: 5324, nome: 'MARIA CARLETE S. DINIZ' }
+TextRow { idcliente: 5325, nome: 'INSTITUTO GERAL DE PERICIA' }
+TextRow { idcliente: 5326, nome: 'LUIZ LAZARO RODRIGUES ALVES' }
+TextRow { idcliente: 5327, nome: 'RAIMUNDO SERGIO DE SOUZA MONTEIRO' }
+TextRow { idcliente: 5328, nome: 'CRISTINA CELIA ANDRADE ALVES' }
+TextRow { idcliente: 5329, nome: 'GIVALDO ARRAES' }
+TextRow { idcliente: 5330, nome: 'HIROSHI OKANO' }
+TextRow { idcliente: 5331, nome: 'VALDIVINO A. JUNQUEIRA' }
+TextRow { idcliente: 5332, nome: 'REVERSON ARAUJO MOTA' }
+TextRow {
+  idcliente: 5333,
+  nome: 'ANTONIO CARLOS DE AGUIAR TEIXEIRA JR.' }
+TextRow { idcliente: 5334, nome: 'GEDEAO DIAS CHAVES / DR YURI CHAVES' }
+TextRow { idcliente: 5335, nome: 'ALDAIR NOVATO SILVA' }
+TextRow { idcliente: 5336, nome: 'CEMEPI' }
+TextRow { idcliente: 5337, nome: 'CLINICA SANTA HELENA' }
+TextRow { idcliente: 5338, nome: 'MILTON CESAR DE OLIVEIRA' }
+TextRow { idcliente: 5339, nome: 'OSMAR TERENCIO' }
+TextRow { idcliente: 5340, nome: 'ALEX CURI ' }
+TextRow { idcliente: 5341, nome: 'FABIO MARTINEZ' }
+TextRow { idcliente: 5342, nome: 'JOSE ALUIZIO SOUZA VIEIRA' }
+TextRow { idcliente: 5343, nome: 'MANOEL CARLOS BATISTA' }
+TextRow { idcliente: 5344, nome: 'JOSE ERISTOTES NETO' }
+TextRow { idcliente: 5345, nome: 'DANIEL CONSTANTE ' }
+TextRow { idcliente: 5346, nome: 'ZOROASTRO HENRIQUE DE SANTANA' }
+TextRow { idcliente: 5347, nome: 'TULIO SANTOS DE MEDEIROS' }
+TextRow { idcliente: 5348, nome: 'PAULO SERGIO DE OLIVEIRA' }
+TextRow { idcliente: 5349, nome: 'PEDRO HENRIQUE ARAUJO PADUAM' }
+TextRow { idcliente: 5350, nome: 'KAREN ANELISE PASSOS TUSO' }
+TextRow { idcliente: 5351, nome: 'CARLOS ALBERTO FERNANDINE BARRUETA' }
+TextRow { idcliente: 5352, nome: 'LUIZ ROBERTO SILVA FILHO' }
+TextRow { idcliente: 5353, nome: 'JOSE BELARMINO DA GAMA FILHO' }
+TextRow { idcliente: 5354, nome: 'VALERIA LIRA COELHO' }
+TextRow { idcliente: 5355, nome: 'PAULO DE TARSO CRAVEIRO ALVES' }
+TextRow { idcliente: 5356, nome: 'MARTA ANGELICA LIMA OLIVEIRA' }
+TextRow { idcliente: 5357, nome: 'EVALDO REIS SILVA' }
+TextRow { idcliente: 5358, nome: 'ALESSANDRO' }
+TextRow { idcliente: 5359, nome: 'JOSIAS ALVARES DA NOBREGA NETO' }
+TextRow { idcliente: 5360, nome: 'WILSON NEVES CALAZANS' }
+TextRow { idcliente: 5361, nome: 'MARCIA CARDOSO MENDES' }
+TextRow { idcliente: 5362, nome: 'CLELMA PIRES BATISTA' }
+TextRow { idcliente: 5363, nome: 'RONALDO FARIAS GUIMARAES' }
+TextRow { idcliente: 5364, nome: 'HOSPITAL AMPARO - CENTRO CIRURGICO' }
+TextRow { idcliente: 5365, nome: 'NADIA DE OLIVEIRA SOUZA' }
+TextRow { idcliente: 5366, nome: 'MED PLAN ASSISTENCIA MEDICA LTDA' }
+TextRow { idcliente: 5367, nome: 'ANDERSON PEREIRA DOS SANTOS' }
+TextRow { idcliente: 5368, nome: 'MARCUS VINICIUS RIBEIRO FERNANDES' }
+TextRow { idcliente: 5369, nome: 'LUCIANO ALVES VERAS' }
+TextRow { idcliente: 5370, nome: 'LUCIANA DOS ANJOS' }
+TextRow { idcliente: 5371, nome: 'FELIX CRISTIANO FERREIRA DE CASTRO' }
+TextRow {
+  idcliente: 5372,
+  nome: 'GABRIELA DE CASTRO ARAUJO DE FREITAS' }
+TextRow { idcliente: 5373, nome: 'MAC MAHREON TAVORA DINIZ' }
+TextRow { idcliente: 5374, nome: 'BENIGNA MARIA MENDES SALLES' }
+TextRow { idcliente: 5375, nome: 'RENATA SANTANA ALBANO OLIVEIRA' }
+TextRow { idcliente: 5376, nome: 'EDILENE TEIXEIRA NUNES' }
+TextRow { idcliente: 5377, nome: 'MARIA DA CONCEICAO MOTA DE QUEIROS' }
+TextRow { idcliente: 5378, nome: 'ROSANGELA SAO JOSE DE FARIAS' }
+TextRow {
+  idcliente: 5379,
+  nome: 'CENTRO INTEGRADO DE MEDICINA INTERNA DE BRASILIA -' }
+TextRow { idcliente: 5380, nome: 'MURILO R. CALDAS / DRA. ISABEL' }
+TextRow { idcliente: 5381, nome: 'LEONARDO ARAUJO GOMES' }
+TextRow { idcliente: 5382, nome: 'RENATO ARGOLLO / JONATAS CAMELO' }
+TextRow {
+  idcliente: 5383,
+  nome: 'CENTRO DE ENDOSCOPIA DIGESTIVA DE SAO CARLOS' }
+TextRow { idcliente: 5384, nome: 'MARIO VICENTE GIORDANO' }
+TextRow { idcliente: 5385, nome: 'WILSON MOISES' }
+TextRow { idcliente: 5386, nome: 'LABORATORIO RUTHE BRAZAO' }
+TextRow { idcliente: 5387, nome: 'ALEXANDRE LUIZ DE SOUZA' }
+TextRow { idcliente: 5388, nome: 'NILSON DOMINGUES DE OLIVEIRA' }
+TextRow { idcliente: 5389, nome: 'ALSUERES MARIANO CORREA JUNIOR' }
+TextRow { idcliente: 5390, nome: 'JOSE EURIDES LIBERALINO' }
+TextRow { idcliente: 5391, nome: 'NOELI APARECIDA FARIA' }
+TextRow { idcliente: 5392, nome: 'GIL NEY ELOI STABELINI' }
+TextRow { idcliente: 5393, nome: 'SERGIO DA SILVA PEREIRA' }
+TextRow { idcliente: 5394, nome: 'AUREO COLOMBI CANGUSSU' }
+TextRow { idcliente: 5395, nome: 'SUPORTE ZSCAN 3' }
+TextRow { idcliente: 5396, nome: 'ANDREA ANGELA BAZZO' }
+TextRow { idcliente: 5397, nome: 'JORLANIO' }
+TextRow { idcliente: 5398, nome: 'ELVIRA BARBOSA DOS REIS DA SILVA' }
+TextRow { idcliente: 5399, nome: 'YRAPUAN REMIGIO DOS REIS' }
+TextRow { idcliente: 5400, nome: 'LADANIL FELIX FONSECA' }
+TextRow { idcliente: 5401, nome: 'SUPORTE ZSCAN 4' }
+TextRow {
+  idcliente: 5402,
+  nome: 'COLINS SOUZA CONSULTORIA MEDICA LTDA' }
+TextRow { idcliente: 5403, nome: 'FAUSTO MESSIAS DOS SANTOS' }
+TextRow { idcliente: 5404, nome: 'HOSPITAL SAO FRANCISCO' }
+TextRow { idcliente: 5405, nome: 'GLAYTON STANLEY LIMA COSTA' }
+TextRow { idcliente: 5406, nome: 'VAELMA DIAS DOS SANTOS' }
+TextRow { idcliente: 5407, nome: 'LAUANGEL VIEIRA FREZZA' }
+TextRow { idcliente: 5408, nome: 'JOHNNY MASSEY LEMOS' }
+TextRow { idcliente: 5409, nome: 'VALDEON CAETANO RODRIGUES' }
+TextRow { idcliente: 5410, nome: 'SUPORTE ZSCAN 5I' }
+TextRow { idcliente: 5411, nome: 'KAZUO MAKINO' }
+TextRow { idcliente: 5412, nome: 'RAIMUNDO NONATO GAIA PERES' }
+TextRow { idcliente: 5413, nome: 'PAULO GERALDO DA SILVA' }
+TextRow { idcliente: 5414, nome: 'RENATO ARAUJO' }
+TextRow { idcliente: 5415, nome: 'RODRIGO ESPCHT ' }
+TextRow { idcliente: 5416, nome: 'EDSON MARTINS MOURA' }
+TextRow { idcliente: 5417, nome: 'PAULA AMORIM NOVAIS' }
+TextRow { idcliente: 5418, nome: 'RENATO LOVATO MELO' }
+TextRow { idcliente: 5419, nome: 'FLAVIO MAURICIO KOWALSKI' }
+TextRow { idcliente: 5420, nome: 'FLAVIO EDUARDO FALCAO LEMOS' }
+TextRow { idcliente: 5421, nome: 'TEREZA NEUMA' }
+TextRow { idcliente: 5422, nome: 'JOSE SOARES DE SOUSA' }
+TextRow { idcliente: 5423, nome: 'JEANNE MONIQUE GUIMARAES PIMENTAL' }
+TextRow { idcliente: 5424, nome: 'MENILSON MENEZES' }
+TextRow { idcliente: 5425, nome: 'JOSE RODRIGUES ANDRADE' }
+TextRow { idcliente: 5426, nome: 'MANOEL LEMES DA SILVA NETO' }
+TextRow { idcliente: 5427, nome: 'CARLOS AUGUSTO ROMERO CARDENAS ' }
+TextRow { idcliente: 5428, nome: 'BELCHIOR BARBALHO SANTANA' }
+TextRow { idcliente: 5429, nome: 'ANA CRISTINA ZONATO' }
+TextRow { idcliente: 5430, nome: 'MARCO AURELIO PEREIRA GOMES' }
+TextRow { idcliente: 5431, nome: 'GUILHERME BRAZ MACEDO' }
+TextRow { idcliente: 5432, nome: 'REUBEM ARAUJO GODINHO' }
+TextRow { idcliente: 5433, nome: 'LUIZ CARLOS' }
+TextRow { idcliente: 5434, nome: 'OLENTINO GONCALVES DE MENEZES' }
+TextRow { idcliente: 5435, nome: 'WALKER PENEDO MONTEIRO' }
+TextRow { idcliente: 5436, nome: 'FABIO MAURICIO RODRIGUES LESSA' }
+TextRow { idcliente: 5437, nome: 'VERONICA MENDES SOARES' }
+TextRow { idcliente: 5438, nome: 'FRANCISCO FABIO LOPES MOUTINHO' }
+TextRow { idcliente: 5439, nome: 'GUISELLA ZE LATORRE' }
+TextRow { idcliente: 5440, nome: 'MARTA (CIRURGICA GERVASIO)' }
+TextRow { idcliente: 5441, nome: 'FLAVIO AUGUSTO BARROS GILBERTI' }
+TextRow { idcliente: 5442, nome: 'MANOEL LEMES DA SILVA NETO' }
+TextRow { idcliente: 5443, nome: 'PREFEITURA MUNICIPAL DE IPORA' }
+TextRow { idcliente: 5444, nome: 'ANTONIO RONALDO MAUES LOBATO' }
+TextRow {
+  idcliente: 5445,
+  nome: 'DIAGNOSE CENTRO DIAGNOSTICO EM MEDICINA' }
+TextRow { idcliente: 5446, nome: 'RINALDO EDUARDO DE ALMEIDA' }
+TextRow { idcliente: 5447, nome: 'VALDIR JUNQUEIRA' }
+TextRow { idcliente: 5448, nome: 'JOSE PEREIRA LEAO' }
+TextRow {
+  idcliente: 5449,
+  nome: 'SANTA CASA DE MISERICORDIA MONTE SANTO' }
+TextRow { idcliente: 5450, nome: 'FAUSTO MESSIAS DOS SANTOS' }
+TextRow { idcliente: 5451, nome: 'DILSON RIBEIRO DE ALMEIDA' }
+TextRow { idcliente: 5452, nome: 'CRISTIANE' }
+TextRow { idcliente: 5453, nome: 'JOSE OLIVEIRA CAVALCANTI' }
+TextRow { idcliente: 5454, nome: 'JAEL MULLER CORREA' }
+TextRow { idcliente: 5455, nome: 'AURELIO BATISTA PEREIRA' }
+TextRow { idcliente: 5456, nome: 'FABRICIO AYRES ESTORARY' }
+TextRow { idcliente: 5457, nome: 'ALBERTO BARBOSA CORREA' }
+TextRow { idcliente: 5458, nome: 'MARIA GORETTI FERREIRA BRAGA' }
+TextRow { idcliente: 5459, nome: 'EGILMARIO SILVA BEZERRA ' }
+TextRow { idcliente: 5460, nome: 'DOUGLAS FERREIRA BARBOSA' }
+TextRow { idcliente: 5461, nome: 'HOSPITAL AMPARO - ENDOSCOPIA' }
+TextRow { idcliente: 5462, nome: 'FABRICIO GOMES DE ARAUJO' }
+TextRow { idcliente: 5463, nome: 'PAULA AMORIM NOVAIS' }
+TextRow { idcliente: 5464, nome: 'WOLNEY MOREIRA' }
+TextRow { idcliente: 5465, nome: 'SORAYA SBARDELLOTO' }
+TextRow { idcliente: 5466, nome: 'HENRIQUE BRAGA' }
+TextRow { idcliente: 5467, nome: 'HERQUIMAS PEREIRA DA COSTA' }
+TextRow { idcliente: 5468, nome: 'ARIOSVALDO PINTO DOS SANTOS' }
+TextRow { idcliente: 5469, nome: 'FRANCISCO JORGE ABILIO DINIZ' }
+TextRow { idcliente: 5470, nome: 'ALEXANDRE COLARES BEZERRA JUNIOR' }
+TextRow { idcliente: 5471, nome: 'RODRIGO ROMANELLI DE SOUZA' }
+TextRow { idcliente: 5472, nome: 'RODRIGO FONSECA CAETANO' }
+TextRow { idcliente: 5473, nome: 'FABIO SANTANA BOLINJA RODRIGUES' }
+TextRow { idcliente: 5474, nome: 'ITAMAR PALMEIRA FIGUEIREDO' }
+TextRow { idcliente: 5475, nome: 'SERGIO CREMONINI DE CARVALHO' }
+TextRow { idcliente: 5476, nome: 'WANDERLAN AUGUSTO DE QUARESMA' }
+TextRow { idcliente: 5477, nome: 'CLAUDIO ALFREDO KONRAD' }
+TextRow { idcliente: 5478, nome: 'RONALDO CARNEIRO ZAGO' }
+TextRow { idcliente: 5479, nome: 'LEONIDAS OTAVIO CHAVES MELO' }
+TextRow { idcliente: 5480, nome: 'ALEX CURI ' }
+TextRow { idcliente: 5481, nome: 'PATRICIA COSTA BRUM' }
+TextRow { idcliente: 5482, nome: 'MAURICIO UBIRATAN DA SILVA FREIRE' }
+TextRow { idcliente: 5483, nome: 'LINDOMAR SILVA BORGES' }
+TextRow { idcliente: 5484, nome: 'JOSE FRANCISCO FRANCO DE SIQUEIRA' }
+TextRow { idcliente: 5485, nome: 'PAULO RAMPIM' }
+TextRow { idcliente: 5486, nome: 'TECIO DE ARAUJO COUTO' }
+TextRow { idcliente: 5487, nome: 'FERNANDO PERES DA SILVA' }
+TextRow { idcliente: 5488, nome: 'WANESSA GODOY ABREU CARVALHO' }
+TextRow { idcliente: 5489, nome: 'ANDRE MATTOS DE CARVALHO' }
+TextRow { idcliente: 5490, nome: 'YERY ROJAS VACA' }
+TextRow { idcliente: 5491, nome: 'BENJAMIN DOMINGOS DEQUI' }
+TextRow { idcliente: 5492, nome: 'LIOMAR RIBEIRO PENA' }
+TextRow { idcliente: 5493, nome: 'ALBERTO IGNACIO OLIVARES OLIVARES' }
+TextRow { idcliente: 5494, nome: 'ANTONIO MARCAL DE SOUZA VAL' }
+TextRow { idcliente: 5495, nome: 'ROBERTO LUIS KAISER JUNIOR' }
+TextRow { idcliente: 5496, nome: 'MARTA MARIA BERETA COELHO' }
+TextRow { idcliente: 5497, nome: 'CLICIE CRISTINA TURRA' }
+TextRow { idcliente: 5498, nome: 'MANOEL LEMES DA SILVA NETO' }
+TextRow { idcliente: 5499, nome: 'TIAGO COSTA CALIXTO' }
+TextRow { idcliente: 5500, nome: 'LUIS LEITE DE OLIVEIRA FILHO' }
+TextRow { idcliente: 5501, nome: 'PAULO SERGIO ALVES DE ARAUJO' }
+TextRow { idcliente: 5502, nome: 'AROLDO RODRIGUES ALVES' }
+TextRow { idcliente: 5503, nome: 'GILDO NERY PADILHA FILHO' }
+TextRow { idcliente: 5504, nome: 'LAURO HENRIQUE BARTOLINI' }
+TextRow { idcliente: 5505, nome: 'SANDRO LUIS LOPES DA SILVA' }
+TextRow { idcliente: 5506, nome: 'SANDRA PEREIRA DUARTE' }
+TextRow { idcliente: 5507, nome: 'EDUARDO BRAGA MOLINARI' }
+TextRow { idcliente: 5508, nome: 'CLAYTON BAETA DE OLIVEIRA' }
+TextRow { idcliente: 5509, nome: 'NELSON HORACIO MACEDO FONSECA' }
+TextRow { idcliente: 5510, nome: 'EDUARDO AIRES COELHO MARQUES' }
+TextRow { idcliente: 5511, nome: 'CARLOS AUGUSTO CAVALCANTE BARROS' }
+TextRow { idcliente: 5512, nome: 'CARLOS ALVES FERREIRA' }
+TextRow { idcliente: 5513, nome: 'UNIPROCTO' }
+TextRow { idcliente: 5514, nome: 'UNIGASTRO' }
+TextRow { idcliente: 5515, nome: 'FERNANDO PERES DA SILVA' }
+TextRow { idcliente: 5516, nome: 'VANDREA LIVIA DE SOUZA FERREIRA' }
+TextRow { idcliente: 5517, nome: 'WILIAN SOUSA LIMA' }
+TextRow { idcliente: 5518, nome: 'AILTON BORGES DE LIMA' }
+TextRow { idcliente: 5519, nome: 'JOSE DALVO MAIA NETO' }
+TextRow { idcliente: 5520, nome: 'RAN SHIN TAIR ' }
+TextRow { idcliente: 5521, nome: 'GIL CESAR FERREIRA' }
+TextRow { idcliente: 5522, nome: 'RUI FERREIRA BORGES' }
+TextRow { idcliente: 5523, nome: 'WALKER LEONARDO MARTINS CAIXETA' }
+TextRow { idcliente: 5524, nome: 'YHONALA SILVA DE OLIVEIRA' }
+TextRow { idcliente: 5525, nome: 'ELIAS COUTO ALMEIDA' }
+TextRow { idcliente: 5526, nome: 'ELIAS COUTO ALMEIDA' }
+TextRow { idcliente: 5527, nome: 'SONALY SANTIAGO PEREIRA' }
+TextRow { idcliente: 5528, nome: 'BRUNO MORAIS TORRES' }
+TextRow { idcliente: 5529, nome: 'LUCIANA DOS ANJOS' }
+TextRow { idcliente: 5530, nome: 'JUDITH JOSEFINA QUINBAQALA FERREIRA' }
+TextRow { idcliente: 5531, nome: 'JOSE GABRIEL LIMA BORGES' }
+TextRow { idcliente: 5532, nome: 'EUMAR LUIZ ALMEIDA DE BRITTO' }
+TextRow { idcliente: 5533, nome: 'LORENA RIBEIRO COSTA CORDEIRO' }
+TextRow {
+  idcliente: 5534,
+  nome: 'CENTRO INTEGRADO DE MEDICINA INTERNA' }
+TextRow { idcliente: 5535, nome: 'CARLOS ROBERTO SOUTO BATISTA' }
+TextRow { idcliente: 5536, nome: 'JOUBERT VIEIRA TOLEDO' }
+TextRow { idcliente: 5537, nome: 'KALYNKA SILVIA HIGINO' }
+TextRow { idcliente: 5538, nome: 'MAURO FERREIRA PACHECO FILHO' }
+TextRow { idcliente: 5539, nome: 'WILLIAM CESAR BENTO ' }
+TextRow { idcliente: 5540, nome: 'JOSE ALBERTO DE SOUSA BRANCO' }
+TextRow { idcliente: 5541, nome: 'RAIMUNDO NONATO FREITAS' }
+TextRow {
+  idcliente: 5542,
+  nome: 'MAURILLO ANTONIO BICHARA DA SILVEIRA' }
+TextRow { idcliente: 5543, nome: 'ALUIZIO PEREIRA DE FARIAS' }
+TextRow { idcliente: 5544, nome: 'POLICLINICA VIDA' }
+TextRow { idcliente: 5545, nome: 'ANDERSON FREITAS DA SILVA' }
+TextRow { idcliente: 5546, nome: 'JOAO MARCELLO BEDA GUEDES' }
+TextRow { idcliente: 5547, nome: 'ROBERT TADEUSZ PRZEMIOSLO' }
+TextRow { idcliente: 5548, nome: 'LEONARDO LOPES TONANI ' }
+TextRow { idcliente: 5549, nome: 'ANTONIO ROBERTO DE OLIVEIRA GOES' }
+TextRow {
+  idcliente: 5550,
+  nome: 'INGOH INSTITUTO GOIANO DE ONCOLOGIA E HEMATOLOGIA' }
+TextRow { idcliente: 5551, nome: 'DIOGENES C. DANTAS' }
+TextRow { idcliente: 5552, nome: 'RICARDO AUGUSTO NAHUZ DE OLIVEIRA' }
+TextRow { idcliente: 5553, nome: 'ROBERIO DE SOUSA DAMIAO' }
+TextRow { idcliente: 5554, nome: 'YHONALA SILVA DE OLIVEIRA' }
+TextRow { idcliente: 5555, nome: 'DEJAN RODRIGUES NONATO' }
+TextRow { idcliente: 5556, nome: 'HOSPITAL AMPARO - ENDOSCOPIA' }
+TextRow { idcliente: 5557, nome: 'ROMULO PEREIRA MAIA' }
+TextRow { idcliente: 5558, nome: 'GUSTAVO OLIVEIRA LUZ' }
+TextRow { idcliente: 5559, nome: 'HALISSON PEREIRA DUARTE' }
+TextRow { idcliente: 5560, nome: 'CRISTIANE MONTEIRO BAPTISTA' }
+TextRow { idcliente: 5561, nome: 'EDSON FRANCISCO DOS SANTOS' }
+TextRow { idcliente: 5562, nome: 'MARCO LINO DO CARMO VIEIRA' }
+TextRow { idcliente: 5563, nome: 'FRANCISCO IVAN DE ARAUJO' }
+TextRow { idcliente: 5564, nome: 'ANTONIO FAUSTO DE ALMEIDA FILHO' }
+TextRow { idcliente: 5565, nome: 'RODRIGO CAMPOS PEREIRA' }
+TextRow { idcliente: 5566, nome: 'HEYDER LINO FERREIRA' }
+TextRow { idcliente: 5567, nome: 'LUIS ALBERTO BERAUN MILLA' }
+TextRow { idcliente: 5568, nome: 'FRACISCO LICIO DE ARAUJO' }
+TextRow { idcliente: 5569, nome: 'VALDIR F ODORIZZI' }
+TextRow {
+  idcliente: 5570,
+  nome: 'ANITA MARIA DE CASTRO FERREIRA SIQUEIRA' }
+TextRow { idcliente: 5571, nome: 'HOSPITAL SANTA HELENA - GASTROSCOPE' }
+TextRow { idcliente: 5572, nome: 'JOSE AMERICO SIQUEIRA' }
+TextRow { idcliente: 5573, nome: 'RENATA OLIVEIRA REZENDE FONSECA' }
+TextRow { idcliente: 5574, nome: 'ANDRE CAMURCA DE ALMEIDA' }
+TextRow { idcliente: 5575, nome: 'BRUNO QUEIROZ SANDER' }
+TextRow { idcliente: 5576, nome: 'HOSPITAL AMPARO - CENTRO CIRURGICO' }
+TextRow {
+  idcliente: 5577,
+  nome: 'BERTHA LUCIA BANDEIRA MARTINS DA SILVA' }
+TextRow { idcliente: 5578, nome: 'MARCIO ALVES DUARTE' }
+TextRow { idcliente: 5579, nome: 'LUIZ GONÃ‡ALVES DA SILVA JUNIOR' }
+TextRow { idcliente: 5580, nome: 'KLEBER MOURA DE SOUZA' }
+TextRow { idcliente: 5581, nome: 'LUCIANI FIORI LEAO' }
+TextRow { idcliente: 5582, nome: 'KATIA CRISTINA RIBEIRO DOS SANTOS' }
+TextRow { idcliente: 5583, nome: 'FRANCISCO JAVIER CASTANO' }
+TextRow { idcliente: 5584, nome: 'CLELMA PIRES BATISTA' }
+TextRow { idcliente: 5585, nome: 'ANTONIO LOPES ALBUQUERQUE' }
+TextRow { idcliente: 5586, nome: 'RODRIGO PORPHIRIO SANTANA' }
+TextRow { idcliente: 5587, nome: 'IULHA GARCIA KYT' }
+TextRow {
+  idcliente: 5588,
+  nome: 'FERNANDO ANTONIO DO NASCIMENTO E NACIMENTO' }
+TextRow { idcliente: 5589, nome: 'FABIANA MELO DE REZENDE ALONSO' }
+TextRow { idcliente: 5590, nome: 'GILSON KYT' }
+TextRow { idcliente: 5591, nome: 'LEONARDO FIRMO DE CARVALHO CEO' }
+TextRow { idcliente: 5592, nome: 'JULIANA PEREIRA MATOS' }
+TextRow { idcliente: 5593, nome: 'HOSPITAL OTORRINO DE GOIANIA' }
+TextRow { idcliente: 5594, nome: 'KAIRO BARCELOS' }
+TextRow { idcliente: 5595, nome: 'ERIK AUGUSTO COSTA E SILVA' }
+TextRow { idcliente: 5596, nome: 'THAIS VINHAL COSTA' }
+TextRow { idcliente: 5597, nome: 'PAULO ROBERTO DAHER' }
+TextRow { idcliente: 5598, nome: 'JORGE DE FIGUEIREDO' }
+TextRow { idcliente: 5599, nome: 'LUIZ ROBERTO DO NASCIMENTO' }
+TextRow { idcliente: 5600, nome: 'GASTROPROCTO SERVICOS DE SAUDE LTDA' }
+TextRow { idcliente: 5601, nome: 'MUNZER KHAYAT DOUMIT' }
+TextRow { idcliente: 5602, nome: 'CARLOS BELIZARIO PINTO MORAIS' }
+TextRow { idcliente: 5603, nome: 'LUCIANA CABUS ARCOVERDE' }
+TextRow { idcliente: 5604, nome: 'MAERCIO CAPP HAMED' }
+TextRow { idcliente: 5605, nome: 'ENDOMASTER' }
+TextRow { idcliente: 5606, nome: 'WAGNER ROCHA PERFEITO' }
+TextRow { idcliente: 5607, nome: 'TACIANA THERESE BARBOSA MORAIS' }
+TextRow { idcliente: 5608, nome: 'GILBERTO AVELINO DE SOUSA' }
+TextRow { idcliente: 5609, nome: 'MURILO R. CALDAS / DRA. ISABEL' }
+TextRow { idcliente: 5610, nome: 'CARLOS ALBERTO VIEIRA E SILVA' }
+TextRow { idcliente: 5611, nome: 'MIGUEL PRESTES NACUL' }
+TextRow { idcliente: 5612, nome: 'CARLOS ALBERTO ROCHA DA COSTA' }
+TextRow { idcliente: 5613, nome: 'ARMANDO WAGMAN ' }
+TextRow { idcliente: 5614, nome: 'ALUISIO GAZAL ROCHA' }
+TextRow { idcliente: 5615, nome: 'CLINICA MEDICA SAO LUIS' }
+TextRow { idcliente: 5616, nome: 'ROGERIO LEONEL BORGES' }
+TextRow { idcliente: 5617, nome: 'ALESSANDRA CARVALHO CHARONE' }
+TextRow { idcliente: 5618, nome: 'MARCIO MARTINS RAFAEL' }
+TextRow { idcliente: 5619, nome: 'HOSPITAL CLEMENTINO FRAGA FILHO' }
+TextRow {
+  idcliente: 5620,
+  nome: 'CENTRO INTEGRADO DE MEDICINA INTERNA DE BRASILIA -' }
+TextRow { idcliente: 5621, nome: 'GLEN CARLO DE ARRUDA' }
+TextRow { idcliente: 5622, nome: 'DELFRANK ANANIAS DE SOUZA' }
+TextRow {
+  idcliente: 5623,
+  nome: 'JORGE BICHARA NETO / LUIZ CARLOS COSTA' }
+TextRow { idcliente: 5624, nome: 'ALBERTO NELIO BANDEIRA BARROS' }
+TextRow { idcliente: 5625, nome: 'MARIO VICENTE GIORDANO' }
+TextRow {
+  idcliente: 5626,
+  nome: 'PAULO GILBERTO DE LYRA RABELLO FILHO' }
+TextRow { idcliente: 5627, nome: 'ANTONIO PINHEIRO ' }
+TextRow { idcliente: 5628, nome: 'MANOEL CARLOS BATISTA' }
+TextRow { idcliente: 5629, nome: 'FERNANDO RAFAEL CHUMPITAZ' }
+TextRow { idcliente: 5630, nome: 'WULLER H. SCHZAIBER' }
+TextRow { idcliente: 5631, nome: 'ANTONIO CARLOS TOSHIHIRO NISIDA' }
+TextRow { idcliente: 5632, nome: 'MARCUS VINICIUS RIBEIRO FERNANDES' }
+TextRow { idcliente: 5633, nome: 'RONALDO DUTRA FONSECA' }
+TextRow { idcliente: 5634, nome: 'SIDNEY ROBERTO NADAL' }
+TextRow { idcliente: 5635, nome: 'GLAYTON STANLEY LIMA COSTA' }
+TextRow { idcliente: 5636, nome: 'FERNANDO PERES DA SILVA' }
+TextRow { idcliente: 5637, nome: 'PEDRO BRAZ DE MACEDO FILHO' }
+TextRow { idcliente: 5638, nome: 'JOAQUIM DELFINO NETO' }
+TextRow { idcliente: 5639, nome: 'JOAQUIM DELFINO NETO' }
+TextRow { idcliente: 5640, nome: 'ABEL DA CRUZ LOUREIRO ' }
+TextRow { idcliente: 5641, nome: 'GEORGE BONIFACIO CAVALCANTI' }
+TextRow { idcliente: 5642, nome: 'GIOVANA PEREIRA NOGUEIRA DA GAMA' }
+TextRow { idcliente: 5643, nome: 'GUSTAVO TRAVAGLHA SANTOS' }
+TextRow { idcliente: 5644, nome: 'MARCIO DEMONER BRANDAO' }
+TextRow { idcliente: 5645, nome: 'JOSE RICARDO CUNHA NEVES' }
+TextRow { idcliente: 5646, nome: 'MOZART ABRANTES NOBER JUNIOR' }
+TextRow { idcliente: 5647, nome: 'LUCIO SANTANA PITHON BRITO' }
+TextRow { idcliente: 5648, nome: 'ANTONIO JOSIVALDO SILVA LIMA' }
+TextRow {
+  idcliente: 5649,
+  nome: 'ROSEANE VALERIA BICALHO FERREIRA ASSIS' }
+TextRow {
+  idcliente: 5650,
+  nome: 'LORETA CANIVILO SALAS DE SOUZA MORAES' }
+TextRow { idcliente: 5651, nome: 'SERGIO SOUZA BARBOSA' }
+TextRow { idcliente: 5652, nome: 'ENILTON MONTEIRO MACHADO' }
+TextRow { idcliente: 5653, nome: 'MARCOS DE HOLANDA PESSOA' }
+TextRow { idcliente: 5654, nome: 'MIGUEL MOUREIRA DO AMARAL NETO' }
+TextRow { idcliente: 5655, nome: 'ABDIAS ROCHA SANTOS' }
+TextRow { idcliente: 5656, nome: 'HOSPITAL SANTA CASA DE MOGI MIRIM' }
+TextRow { idcliente: 5657, nome: 'MARCOS ANTONIO ROCHA DE OLIVEIRA' }
+TextRow { idcliente: 5658, nome: 'CLINICA BOCKUS' }
+TextRow { idcliente: 5659, nome: 'ADEMAR GARCIA' }
+TextRow { idcliente: 5660, nome: 'PARIZZA RAMOS DE LEU SAMPAIO' }
+TextRow { idcliente: 5661, nome: 'RODRIGO PORPHIRIO SANTANA' }
+TextRow { idcliente: 5662, nome: 'NEANDER S. LEMES CONTENTE' }
+TextRow { idcliente: 5663, nome: 'EDSON ARNAUD' }
+TextRow { idcliente: 5664, nome: 'MAURICIO ASSAF' }
+TextRow { idcliente: 5665, nome: 'ANTONIO BUENO JUNIOR' }
+TextRow { idcliente: 5666, nome: 'HOSPITAL VETERINARIO DA UFG' }
+TextRow { idcliente: 5667, nome: 'ELIANE DE BARROS ' }
+TextRow { idcliente: 5668, nome: 'ERNNAN TENORIO ALBUQUERQUE FILHO' }
+TextRow { idcliente: 5669, nome: 'JORGE COSTA FILHO' }
+TextRow { idcliente: 5670, nome: 'JOSE ALBERTO MAIA MOTA' }
+TextRow { idcliente: 5671, nome: 'VICTOR HUGO LAIGNIER' }
+TextRow { idcliente: 5672, nome: 'MARCOS MACHADO REUTER MOTTA' }
+TextRow { idcliente: 5673, nome: 'JORGE COSTA FILHO' }
+TextRow { idcliente: 5674, nome: 'DANIEL DELGADO FREIRE' }
+TextRow { idcliente: 5675, nome: 'LUIS ALBERTO CRUZADO LEIVA' }
+TextRow { idcliente: 5676, nome: 'ANTENOR GALINDO LIMA' }
+TextRow { idcliente: 5677, nome: 'FABIANO DE SOUZA FELTRIN' }
+TextRow { idcliente: 5678, nome: 'HUGO RICARDO VON EYE SCHUNEMANN' }
+TextRow { idcliente: 5679, nome: 'ANTENOR GALINDO LIMA' }
+TextRow { idcliente: 5680, nome: 'PATRICIA PEREIRA DE OLIVEIRA' }
+TextRow { idcliente: 5681, nome: 'FABIAN DA CAS LAVAL' }
+TextRow { idcliente: 5682, nome: 'CERNOSIRER DOS SANTOS NETO' }
+TextRow { idcliente: 5683, nome: 'ALBENIZ MARTINS SILVA' }
+TextRow { idcliente: 5684, nome: 'MARCUS VINICIUS RIBEIRO FERNANDES' }
+TextRow {
+  idcliente: 5685,
+  nome: 'JOSE SECONDINO VEIGA BUENO DA SILVEIRA' }
+TextRow { idcliente: 5686, nome: 'RAIMUNDO ALVES FILHO' }
+TextRow { idcliente: 5687, nome: 'ROSILENE LINHARES CUNHA' }
+TextRow { idcliente: 5688, nome: 'AQUILES LEITE VIANA' }
+TextRow { idcliente: 5689, nome: 'AQUILES LEITE VIANA' }
+TextRow { idcliente: 5690, nome: 'EVERSON AUTCON' }
+TextRow { idcliente: 5691, nome: 'EVERSON AUTCON' }
+TextRow { idcliente: 5692, nome: 'SERGIO ALEXANDRE BARRICHELLO JUNIOR' }
+TextRow { idcliente: 5693, nome: 'JOSE MARIA MENDES MORAES' }
+TextRow { idcliente: 5694, nome: 'ALCEU LUIZ OPOLSKI' }
+TextRow { idcliente: 5695, nome: 'LUIS MAURICIO SALAS CAMPOS' }
+TextRow { idcliente: 5696, nome: 'CILMARA MELO' }
+TextRow { idcliente: 5697, nome: 'CARLOS GONZALEZ' }
+TextRow { idcliente: 5698, nome: 'LUIS BERAUN MILLA' }
+TextRow { idcliente: 5699, nome: 'FABIAN DA CAS LAVAL' }
+TextRow { idcliente: 5700, nome: 'LAURA HELMAN ' }
+TextRow { idcliente: 5701, nome: 'NALISSON THIAGO NEVES ARAUJO' }
+TextRow { idcliente: 5702, nome: 'ALOISIO GAZAL ROCHA' }
+TextRow { idcliente: 5703, nome: 'MARCUS VINICIUS RIBEIRO FERNANDES' }
+TextRow { idcliente: 5704, nome: 'MARCOS PORTO DE OLIVEIRA' }
+TextRow { idcliente: 5705, nome: 'JORGE DE FIGUEIREDO' }
+TextRow { idcliente: 5706, nome: 'LUIZ AUGUSTO RICHARD' }
+TextRow { idcliente: 5707, nome: 'SAMUEL NASCIMENTO MARQUES' }
+TextRow { idcliente: 5708, nome: 'MARTA CRISTINA GOMES' }
+TextRow { idcliente: 5709, nome: 'ABDIAS ROCHA SANTOS' }
+TextRow { idcliente: 5710, nome: 'CARLOS ALBERTO CARVALHO' }
+TextRow { idcliente: 5711, nome: 'ANTONIO DE CASTRO ALVARENGA FILHO' }
+TextRow { idcliente: 5712, nome: 'PAULO DINIZ CLAUSEN DE ARAUJO' }
+TextRow { idcliente: 5713, nome: 'FERNANDO JOSE  DE ASSUNCAO COUTO' }
+TextRow { idcliente: 5714, nome: 'JOAO PERREIRA VALENTE ' }
+TextRow { idcliente: 5715, nome: 'SULANI SILVA DE SOUZA' }
+TextRow { idcliente: 5716, nome: 'LEVI PONTES DE AGUIAR' }
+TextRow { idcliente: 5717, nome: 'ORLANDO CATILLERO' }
+TextRow { idcliente: 5718, nome: 'JORGE FIGUEIREDO' }
+TextRow { idcliente: 5719, nome: 'ALEKSANDRO DE OLIVEIRA MARIUS' }
+TextRow { idcliente: 5720, nome: 'HUMBERTO BARBOSA DE SOUZA FILHO' }
+TextRow { idcliente: 5721, nome: 'PEDRO DE ARRUDA FONTES JR.' }
+TextRow { idcliente: 5722, nome: 'DANIEL CARDOSO ALVES FILHO' }
+TextRow { idcliente: 5723, nome: 'RUBENS BUCAR DOS SANTOS' }
+TextRow { idcliente: 5724, nome: 'MARCOS MACHADO REUTER MOTTA' }
+TextRow { idcliente: 5725, nome: 'CLINICA MEDICA SAO LUIS' }
+TextRow { idcliente: 5726, nome: 'VITOR MAIA PIRES' }
+TextRow { idcliente: 5727, nome: 'HERQUIMAS PEREIRA DA COSTA' }
+TextRow { idcliente: 5728, nome: 'SERGIO A. BARRICHELLO' }
+TextRow { idcliente: 5729, nome: 'LINDOLFO PEREIRA JUNIOR' }
+TextRow { idcliente: 5730, nome: 'MARCELO RAMOS MIRANDA' }
+TextRow { idcliente: 5731, nome: 'MARIO MARCOS ALBAGLI OLIVEIRA' }
+TextRow { idcliente: 5732, nome: 'GLAYTON STANLEY LIMA COSTA' }
+TextRow { idcliente: 5733, nome: 'CARLOS ALBERTO CARVALHO' }
+TextRow { idcliente: 5734, nome: 'MUNZER KHAYAT DOUMIT' }
+TextRow { idcliente: 5735, nome: 'JUAN CARLOS EGEA MONTERO' }
+TextRow { idcliente: 5736, nome: 'ZOROASTRO HENRIQUE DE SANTANA' }
+TextRow { idcliente: 5737, nome: 'POLICLINICA MILITAR DE NITEROI' }
+TextRow { idcliente: 5738, nome: 'RAIMUNDO SANTANA DE CARVALHO FILHO' }
+TextRow { idcliente: 5739, nome: 'TIAGO ALESSANDRO DE LIMA' }
+TextRow { idcliente: 5740, nome: 'JOAO PAULO DE SOUZA' }
+TextRow { idcliente: 5741, nome: 'KARLA MAZZINI DA CUNHA ROSA RIBEIRO' }
+TextRow { idcliente: 5742, nome: 'FABIA SILENE SILVEIRA DE BRITO' }
+TextRow { idcliente: 5743, nome: 'ANTONIO CELSO ANDRADE DOMINGUES' }
+TextRow { idcliente: 5744, nome: 'SUPORTE ZSCAN 5I' }
+TextRow {
+  idcliente: 5745,
+  nome: 'CLIMEDIC - CLINICA DE IMAGEM, EXAMES ' }
+TextRow { idcliente: 5746, nome: 'GUILHERME BRAZ MACEDO' }
+TextRow { idcliente: 5747, nome: 'NATALIA SILVA CORREA LEMOS' }
+TextRow { idcliente: 5748, nome: 'HOSPITAL DAS CLINICAS - GOIANIA' }
+TextRow { idcliente: 5749, nome: 'GABRIELA SIMAO DELORENZO' }
+TextRow { idcliente: 5750, nome: 'ESTERLIN N. OBEID' }
+TextRow { idcliente: 5751, nome: 'FERNANDA DA MATA' }
+TextRow {
+  idcliente: 5752,
+  nome: 'SORAYA ADRIANA GALVAO TEIXEIRA ALVES' }
+TextRow { idcliente: 5753, nome: 'DENNIS MENEZES BASTOS' }
+TextRow { idcliente: 5754, nome: 'JEAN CARLOS MELO SANTANA' }
+TextRow { idcliente: 5755, nome: 'CEBROM' }
+TextRow { idcliente: 5756, nome: 'EDSON PORTELA SILVA' }
+TextRow { idcliente: 5757, nome: 'PATRICIA LENN KOSAKO MARUYAMA' }
+TextRow { idcliente: 5758, nome: 'ANDRE RAMOS NORONHA' }
+TextRow { idcliente: 5759, nome: 'JOSE DEDSON MONTE DA SILVA' }
+TextRow { idcliente: 5760, nome: 'ABDIAS ROCHA SANTOS' }
+TextRow { idcliente: 5761, nome: 'CENTRO MEDICO DE PIANCO' }
+TextRow { idcliente: 5762, nome: 'ELISMAR PRIMO MOREIRA' }
+TextRow { idcliente: 5763, nome: 'ALEXANDRE COLARES BEZERRA JUNIOR' }
+TextRow { idcliente: 5764, nome: 'SARA CRISTINA PENZO SISTI' }
+TextRow { idcliente: 5765, nome: 'CARLOS GUSTAVO SILVA PENHA SAMPAIO' }
+TextRow { idcliente: 5766, nome: 'ANDRE LACERDA DE ABREU OLIVEIRA' }
+TextRow { idcliente: 5767, nome: 'NELIO VALENTE COSTA' }
+TextRow { idcliente: 5768, nome: 'CLINICA BANDEIRANTE S/C LTDA' }
+TextRow { idcliente: 5769, nome: 'DOMINGOS HIROSHI TSUJI' }
+TextRow { idcliente: 5770, nome: 'ARNALDO LUCENA MADEIRO' }
+TextRow { idcliente: 5771, nome: 'ROSANGELA ROCHA MONTEIRO' }
+TextRow { idcliente: 5772, nome: 'CARLOS EDUARDO VILELA BROSTEL' }
+TextRow { idcliente: 5773, nome: 'FERNANDA VALERIA DE SOUSA SILVA' }
+TextRow {
+  idcliente: 5774,
+  nome: 'UNIDADE DIAGNOSTICA TERAPIA DO AP. DIGESTORIO LTDA' }
+TextRow { idcliente: 5775, nome: 'HOSPITAL SANTA MARTA' }
+TextRow { idcliente: 5776, nome: 'PAULO GUIMARAES ' }
+TextRow { idcliente: 5777, nome: 'BRUNO LEANDRO NEVES BRANDAO' }
+TextRow { idcliente: 5778, nome: 'CARLOS ALBERTO DE ABREU' }
+TextRow { idcliente: 5779, nome: 'LUIZ EDUARDO OLIVEIRA DE ANDRADE' }
+TextRow { idcliente: 5780, nome: 'REGINA STELA ROLAND ORTEGA' }
+TextRow { idcliente: 5781, nome: 'JOAO EVANGELISTA BORGES RIBEIRO' }
+TextRow { idcliente: 5782, nome: 'LUIZ FELIPE PEREIRA DE LIMA' }
+TextRow { idcliente: 5783, nome: 'GIUSEPPE ARMINIO' }
+TextRow { idcliente: 5784, nome: 'VITOR JOSE DE SOUZA MACHADO' }
+TextRow { idcliente: 5785, nome: 'IZAIR FERREIRA DOS SANTOS' }
+TextRow { idcliente: 5786, nome: 'ANDRE LUIS EIGENHEER DA COSTA' }
+TextRow { idcliente: 5787, nome: 'ANA PAULA RODRIGUES GUIMARAES' }
+TextRow { idcliente: 5788, nome: 'MARCELO ARIMATEIA ESTEVES GUEDES' }
+TextRow { idcliente: 5789, nome: 'ANTHONY A. STARPOLI' }
+TextRow { idcliente: 5790, nome: 'CARLOS FRANCISCO MENENDEZ' }
+TextRow { idcliente: 5791, nome: 'FRANCISCO RODOLFO CUBIAS ANCHIETA' }
+TextRow { idcliente: 5792, nome: 'JOSE CARLOS AZEVEDO SIQUEIRA' }
+TextRow { idcliente: 5793, nome: 'DEMETRIO LOPES RODRIGUES NETO' }
+TextRow { idcliente: 5794, nome: 'ROSAMARIA RIBEIRO CARACAS' }
+TextRow { idcliente: 5795, nome: 'FELIPE PALUDO SALLES' }
+TextRow { idcliente: 5796, nome: 'JOSE LUIZ DE SOUZA' }
+TextRow { idcliente: 5797, nome: 'EUGENIA GLAUCY  MOURA FERREIRA' }
+TextRow {
+  idcliente: 5798,
+  nome: 'INTEGRAL DIFERENCIAL GRUPO DE ENS. FUND. MED. TEC.' }
+TextRow { idcliente: 5799, nome: 'LIVIO MEDEIROS COSTA' }
+TextRow { idcliente: 5800, nome: 'MARCIO CARVALHO SANTOS CORREIA' }
+TextRow { idcliente: 5801, nome: 'INSTITUTO DE COLOPROCTOLOGIA LTDA' }
+TextRow { idcliente: 5802, nome: 'ROBERTO LUIS KAISER JUNIOR' }
+TextRow { idcliente: 5803, nome: 'ROBERTO LUIS KAISER JUNIOR' }
+TextRow { idcliente: 5804, nome: 'EDGARD WILSON GRIPP' }
+TextRow { idcliente: 5805, nome: 'JUSSARA SCHADECK LOCATELLI' }
+TextRow { idcliente: 5806, nome: 'LAERTE BASSO JUNIOR' }
+TextRow { idcliente: 5807, nome: 'ROLANDO PAEZ' }
+TextRow { idcliente: 5808, nome: 'CLAUDIR EDUARDO MONTEIRO PERIA' }
+TextRow { idcliente: 5809, nome: 'SANDRA CHAVES MONGE' }
+TextRow { idcliente: 5810, nome: 'PAULO ALVES PERREIRA JR.' }
+TextRow { idcliente: 5811, nome: 'HABIB AHMED JADOON' }
+TextRow { idcliente: 5812, nome: 'RONALDO COUTINHO SEIXO DE BRITO JR.' }
+TextRow { idcliente: 5813, nome: 'ALBERTO VICUNA' }
+TextRow { idcliente: 5814, nome: 'JAVIER HERNANDEZ BLANCO' }
+TextRow { idcliente: 5815, nome: 'JORGE AGUILAR MENDOZA' }
+TextRow {
+  idcliente: 5816,
+  nome: 'NADJLA ANDREYA ALVES GONCALVES MACEDO' }
+TextRow { idcliente: 5817, nome: 'CLINICA  AMPARHO' }
+TextRow { idcliente: 5818, nome: 'CLINICA REUNIDAS DE BELEM' }
+TextRow { idcliente: 5819, nome: 'GILDO DIMAS FARIA' }
+TextRow { idcliente: 5820, nome: 'JOSE LUIZ SEBBA DE SOUZA' }
+TextRow { idcliente: 5821, nome: 'GLAUCIA AMARAL LIMA ' }
+TextRow { idcliente: 5822, nome: 'GLAYTON STANLEY LIMA COSTA' }
+TextRow {
+  idcliente: 5823,
+  nome: 'SOMED COOP. DE ASS. MED. ODONTO. ADM PLANOS SAUDE' }
+TextRow { idcliente: 5824, nome: 'FELIX CRISTIANO FERREIRA DE CASTRO' }
+TextRow { idcliente: 5825, nome: 'RAUL JOSE DE ABREU STURARI JR.' }
+TextRow { idcliente: 5826, nome: 'VALENTIN ROJAS MONTOYA' }
+TextRow { idcliente: 5827, nome: 'PAULO ROGERIO' }
+TextRow { idcliente: 5828, nome: 'PAULO ROGERIO' }
+TextRow { idcliente: 5829, nome: 'ELIANA PERREIRA DOS REIS' }
+TextRow { idcliente: 5830, nome: 'UROMEDICAL LTDA' }
+TextRow { idcliente: 5831, nome: 'JORGE ALBERTO CAPRA BIASUZ' }
+TextRow { idcliente: 5832, nome: 'JUPIRA MESQUITA ' }
+TextRow { idcliente: 5833, nome: 'SAMUEL OKORO' }
+TextRow { idcliente: 5834, nome: 'HUASCAR MELLO FERNANDES' }
+TextRow { idcliente: 5835, nome: 'GUILHERME JOSE DE BRITO' }
+TextRow { idcliente: 5836, nome: 'CLINICA BATISTA PEGGY PEMBLE' }
+TextRow { idcliente: 5837, nome: 'LEONIDAS BUENO FERNANDES' }
+TextRow {
+  idcliente: 5838,
+  nome: 'HOSPITAL UNIVERSITARIO DA UNIV. FEDERAL DE JUIZ DE' }
+TextRow { idcliente: 5839, nome: 'MAURY ANTONIO RIBEIRO SAMPAIO' }
+TextRow {
+  idcliente: 5840,
+  nome: 'CENTRO DE DIAGNOSTICO TERAPEUTICA ENDOSCOPICA S/A' }
+TextRow { idcliente: 5841, nome: 'FRANCISCO DE OLIVEIRA LIMA FILHO' }
+TextRow { idcliente: 5842, nome: 'RONALDO DE ALMEIDA SESCONETTO' }
+TextRow { idcliente: 5843, nome: 'JOAQUIM JOSE DE LUCENA' }
+TextRow { idcliente: 5844, nome: 'DEBORA REGINA DE MELO ROCHA' }
+TextRow { idcliente: 5845, nome: 'JORGE VARGAS MADRIGAL' }
+TextRow { idcliente: 5846, nome: 'LADEIRA  E ABDALA LTDA' }
+TextRow {
+  idcliente: 5847,
+  nome: 'HOSPITAL UNIVERSITARIO DA UNIV. FEDERAL DE JUIZ DE' }
+TextRow { idcliente: 5848, nome: 'FABIO MARTINEZ' }
+TextRow { idcliente: 5849, nome: 'JOAO BENTO DE MOURA NETO' }
+TextRow { idcliente: 5850, nome: 'HEBERT BURGOS QUIROS' }
+TextRow { idcliente: 5851, nome: 'HEBERT BURGOS QUIROS' }
+TextRow { idcliente: 5852, nome: 'HEBERT BURGOS QUIROS' }
+TextRow { idcliente: 5853, nome: 'HEBERT BURGOS QUIROS' }
+TextRow { idcliente: 5854, nome: 'HEBERT BURGOS QUIROS' }
+TextRow { idcliente: 5855, nome: 'WANER JOSEFA DE QUEIROZ MOURA' }
+TextRow { idcliente: 5856, nome: 'JOAO DELFINO COELHO' }
+TextRow { idcliente: 5857, nome: 'JOSE MARTINS DA COSTA' }
+TextRow { idcliente: 5858, nome: 'SIRLEU JORGE JUNIOR' }
+TextRow { idcliente: 5859, nome: 'IDMED DIAGNOSTICO' }
+TextRow { idcliente: 5860, nome: 'DOMINGOS HIROSHI TSUJI' }
+TextRow { idcliente: 5861, nome: 'CIRA DU SSAC VINELT' }
+TextRow { idcliente: 5862, nome: 'CENTRO MEDICO DE JACOBINA SC LTDA' }
+TextRow { idcliente: 5863, nome: 'HOSPITAL SANTA MARTA' }
+TextRow { idcliente: 5864, nome: 'MARCUS A.B PEIXOTO' }
+TextRow { idcliente: 5865, nome: 'WYLSON FERNANDES DE JESUS' }
+TextRow { idcliente: 5866, nome: 'RUBENS Y. TOSHIMA ' }
+TextRow { idcliente: 5867, nome: 'SYDNEY DE SOUZA RIBEIRO' }
+TextRow { idcliente: 5868, nome: 'JOAO AGUIAR LIRA' }
+TextRow { idcliente: 5869, nome: 'FABIO MARTINS GONCALVES' }
+TextRow { idcliente: 5870, nome: 'YHONALA SILVA DE OLIVEIRA' }
+TextRow { idcliente: 5871, nome: 'MARCELO REZENDE MONTEIRO' }
+TextRow { idcliente: 5872, nome: 'SANTA CASA DE SUZANO' }
+TextRow { idcliente: 5873, nome: 'FRANCISCO NOGUEIRA CHAVES' }
+TextRow { idcliente: 5874, nome: 'JAEL MULLER CORREA' }
+TextRow { idcliente: 5875, nome: 'JOSE CARLOS BARBOZA GAMA FILHO' }
+TextRow { idcliente: 5876, nome: 'HELBERT ABE RODRIGUES' }
+TextRow { idcliente: 5877, nome: 'CELIO JOSE PANSERA' }
+TextRow { idcliente: 5878, nome: 'MARTHA CALAND' }
+TextRow {
+  idcliente: 5879,
+  nome: 'INSTITUTO DE CLINICAS ESPECIALIZADAS DE OSASCO' }
+TextRow { idcliente: 5880, nome: 'ALEXANDRE AUGUSTO FERREIRA' }
+TextRow { idcliente: 5881, nome: 'NOE RODRIGUES DE HOLANDA' }
+TextRow { idcliente: 5882, nome: 'FABRICIO GAYER MACHADO DE ARAUJO' }
+TextRow { idcliente: 5883, nome: 'HELIO HIOSHIMOTO' }
+TextRow { idcliente: 5884, nome: 'EDMUNDO JOSE VELOSO DE LIMA' }
+TextRow { idcliente: 5885, nome: 'JOSE MARIA MENDES MORAES' }
+TextRow { idcliente: 5886, nome: 'MARCELO SERGIO DE ARAUJO BARROS' }
+TextRow { idcliente: 5887, nome: 'EUDES RODRIGUES FERREIRA' }
+TextRow { idcliente: 5888, nome: 'FRANCISCO DE OLIVEIRA LIMA FILHO' }
+TextRow { idcliente: 5889, nome: 'KEIDMAR VALERIO DE OLIVEIRA' }
+TextRow {
+  idcliente: 5890,
+  nome: 'HOSPITAL E MATERNIDADE SANTA BARBARA' }
+TextRow { idcliente: 5891, nome: 'CICERO LOPES DA SILVA' }
+TextRow { idcliente: 5892, nome: 'MARCELO DE SOUSA ANDRADE' }
+TextRow { idcliente: 5893, nome: 'ALANE AZEVEDO BRITO' }
+TextRow { idcliente: 5894, nome: 'RITA DE CASSIA POZZATI' }
+TextRow { idcliente: 5895, nome: 'ANA DINA BERTHOUD' }
+TextRow { idcliente: 5896, nome: 'SALUSTIANO GABRIEL NETO' }
+TextRow { idcliente: 5897, nome: 'SALUSTIANO GABRIEL NETO' }
+TextRow { idcliente: 5898, nome: 'SALUSTIANO GABRIEL NETO' }
+TextRow { idcliente: 5899, nome: 'ROBERTO NASCIMENTO COSTA' }
+TextRow {
+  idcliente: 5900,
+  nome: 'SANTA CASA DE MISERICORDIA DE GOIANIA' }
+TextRow { idcliente: 5901, nome: 'NINA LUCIA BARBOSA GIVIGI' }
+TextRow { idcliente: 5902, nome: 'JOSE MOREIRA SAMPAIO' }
+TextRow { idcliente: 5903, nome: 'EDICEU JUSTINO DOS SANTOS' }
+TextRow { idcliente: 5904, nome: 'SYDNEY DE SOUZA RIBEIRO' }
+TextRow { idcliente: 5905, nome: 'GIOVANNI ZUCOLOTO LOUREIRO' }
+TextRow { idcliente: 5906, nome: 'LUIZ HENRIQUE CURY SAAD' }
+TextRow { idcliente: 5907, nome: 'CICERO CARDOSO DE SOUZA' }
+TextRow { idcliente: 5908, nome: 'RICARDO LUIZ SANTOS GARCIA' }
+TextRow { idcliente: 5909, nome: 'RICARDO LUIZ SANTOS GARCIA' }
+TextRow { idcliente: 5910, nome: 'OLENTINO GONCALVES DE MENEZES' }
+TextRow { idcliente: 5911, nome: 'JUVENAL DA ROCHA TORRES NETO' }
+TextRow { idcliente: 5912, nome: 'RICARDO LAMBERT COSTA PINTO' }
+TextRow { idcliente: 5913, nome: 'DENILTON VILLANI' }
+TextRow { idcliente: 5914, nome: 'MARIA EDUARDA MAGALHAES CASTRO' }
+TextRow { idcliente: 5915, nome: 'MULTICLIN' }
+TextRow { idcliente: 5916, nome: 'RICARDO SAMPAIO BOAVENTURA' }
+TextRow { idcliente: 5917, nome: 'FRANCISCO ERISTOW NOGUEIRO ' }
+TextRow { idcliente: 5918, nome: 'GIOVANI ZANINI BALDISSERA' }
+TextRow { idcliente: 5919, nome: 'EUDES FREIRES CARDOSO' }
+TextRow { idcliente: 5920, nome: 'AUGUSTO RODRIGUES' }
+TextRow { idcliente: 5921, nome: 'AURELIO FABIANO RIBEIRO ZAGO' }
+TextRow { idcliente: 5922, nome: 'MARIO ENRIQUE MORENO AGUILAR' }
+TextRow { idcliente: 5923, nome: 'HEYDER LINO FERREIRA' }
+TextRow { idcliente: 5924, nome: 'RENE RAMOS PINHEIRO' }
+TextRow { idcliente: 5925, nome: 'UNIGASTRO' }
+TextRow { idcliente: 5926, nome: 'UNIGASTRO' }
+TextRow { idcliente: 5927, nome: 'JOSE CARLOS COMAR' }
+TextRow { idcliente: 5928, nome: 'SERGIO ALEXANDRE BARRICHELLO JUNIOR' }
+TextRow { idcliente: 5929, nome: 'JORGE ALEXANDRE FERREIRA CAVENDISH' }
+TextRow { idcliente: 5930, nome: 'JACINTO LAY' }
+TextRow { idcliente: 5931, nome: 'GUSTAVO HIDEO TANAKA' }
+TextRow { idcliente: 5932, nome: 'GIOVANNA PARRA GIL' }
+TextRow { idcliente: 5933, nome: 'LUIS FABIÃ N CUEVAS HERRERA' }
+TextRow { idcliente: 5934, nome: 'RILDO DE ASIS ARAUJO' }
+TextRow { idcliente: 5935, nome: 'JOAO EVANGELISTA BORGES RIBEIRO' }
+TextRow { idcliente: 5936, nome: 'DANILO BORGES NOGUEIRA' }
+TextRow { idcliente: 5937, nome: 'FERNANDA SILVEIRA CHRISPIM' }
+TextRow { idcliente: 5938, nome: 'RICARDO ENRIQUE RIBEIRO' }
+TextRow { idcliente: 5939, nome: 'PAULO HENRIQUE CASSIMIRO VIEIRA' }
+TextRow { idcliente: 5940, nome: 'FLAVIO LUIS ALMEIDA' }
+TextRow { idcliente: 5941, nome: 'HOSPITAL COPSAUDE' }
+TextRow { idcliente: 5942, nome: 'CLINICA SANTA CLARA' }
+TextRow { idcliente: 5943, nome: 'JOAO ELIAS SADALA' }
+TextRow {
+  idcliente: 5944,
+  nome: 'FRANCIOMAR MADSON NATIVIDADE MENDONCA' }
+TextRow {
+  idcliente: 5945,
+  nome: 'HOSPITAL PROFESSOR EDMUNDO VASCONCELOS' }
+TextRow { idcliente: 5946, nome: 'AUGUSTO ELIAS AGE TAVARES' }
+TextRow { idcliente: 5947, nome: 'MARCELLO NIEK MACHADO LEAL' }
+TextRow { idcliente: 5948, nome: 'FERNANDO ZARONI SEWAYBRICKER ' }
+TextRow {
+  idcliente: 5949,
+  nome: 'HOSPITAL PROFESSOR EDMUNDO VASCONCELOS' }
+TextRow { idcliente: 5950, nome: 'LUIZ CARLOS DE ALVARENGA JUNIOR' }
+TextRow {
+  idcliente: 5951,
+  nome: 'ALICE RUBERTI SCHMAL / LAURA SCOFIELD FONSECA' }
+TextRow { idcliente: 5952, nome: 'MARCELO COSTA CRONEMBERGER MARQUES' }
+TextRow {
+  idcliente: 5953,
+  nome: 'INSTITUTO ESPECIALIZADO EM ONCOLIGIA CLINICA' }
+TextRow { idcliente: 5954, nome: 'DEUGECY ALVES DINIZ' }
+TextRow { idcliente: 5955, nome: 'RENATO ARGOLLO / JONATAS CAMELO' }
+TextRow { idcliente: 5956, nome: 'RODRIGO TEIXEIRA ZAIDEN' }
+TextRow {
+  idcliente: 5957,
+  nome: 'HOSPITAL DE MATERNIDADE MODELO ANANINDEUA' }
+TextRow { idcliente: 5958, nome: 'FLAVIO SOARES COSTA' }
+TextRow { idcliente: 5959, nome: 'GILMAR MARCO VRECH COELHO' }
+TextRow { idcliente: 5960, nome: 'AGOSTINHO MANUEL CORREA MADEIRA' }
+TextRow {
+  idcliente: 5961,
+  nome: 'CLINICA DA MULHER ASSIST MEDICA S/S LTDA.  ' }
+TextRow { idcliente: 5962, nome: 'CLAUDIA OPPERMANN ROCHA' }
+TextRow { idcliente: 5963, nome: 'CARLOS AUGUSTO GOMES NESPOLI' }
+TextRow { idcliente: 5964, nome: 'DALVA TORDIN' }
+TextRow { idcliente: 5965, nome: 'HERBERT MARCONDES PEREIRA' }
+TextRow { idcliente: 5966, nome: 'SIMONE SILVA PEREIRA' }
+TextRow { idcliente: 5967, nome: 'AGUIDA MARIA BARATA DA SILVA' }
+TextRow { idcliente: 5968, nome: 'ELIZABETE CRISTINA OLIVEIRA LEITAO' }
+TextRow { idcliente: 5969, nome: 'JOSE RONALDO DA SILVA ESPINDOLA' }
+TextRow { idcliente: 5970, nome: 'FERNANDO BRANDAO CAMPOS' }
+TextRow { idcliente: 5971, nome: 'GUSTAVO MOREIRA NUNES' }
+TextRow { idcliente: 5972, nome: 'ALTAIR DE CAMPOS' }
+TextRow { idcliente: 5973, nome: 'ALEXSANDRA FARIAS DA SILVA NOVAES' }
+TextRow {
+  idcliente: 5974,
+  nome: 'SERVMED SERVICOS DE DIAGNOSTICOS LTDA' }
+TextRow { idcliente: 5975, nome: 'PEDRO CARLOS DE SOUZA NETO' }
+TextRow { idcliente: 5976, nome: 'VERA PONTES DE OLIVEIRA REZENDE' }
+TextRow { idcliente: 5977, nome: 'WILLIAM KONDO' }
+TextRow { idcliente: 5978, nome: 'ANTONIO CARLOS CORREA XAVIER' }
+TextRow { idcliente: 5979, nome: 'GUILLERMO GARCIA' }
+TextRow { idcliente: 5980, nome: 'VALDEMIR SIDNEI LEMO' }
+TextRow {
+  idcliente: 5981,
+  nome: 'BARBARA TEODORO VASCONCELOS RODRIGUES' }
+TextRow { idcliente: 5982, nome: 'JULIO CESAR BARROS PESSOA' }
+TextRow { idcliente: 5983, nome: 'JOSE FRANCISCO LIMA NERES' }
+TextRow { idcliente: 5984, nome: 'JOSE MARIA MENDES MORAES' }
+TextRow { idcliente: 5985, nome: 'GILBERTO GOMES CORDEIRO FILHO' }
+TextRow { idcliente: 5986, nome: 'EDVALDO SILVA LIMA' }
+TextRow { idcliente: 5987, nome: 'LEONARDO MARTINS CAMPBELL' }
+TextRow { idcliente: 5988, nome: 'ADEMAR AURELIANO DUARTE' }
+TextRow {
+  idcliente: 5989,
+  nome: 'CONSORCIO INTERMUNICIPAL DE SAUDE DO ALTO JEQUITIN' }
+TextRow { idcliente: 5990, nome: 'DARLLON MARQUES GOMIDES RAMOS' }
+TextRow { idcliente: 5991, nome: 'CARLOS LUIZ ALBA' }
+TextRow { idcliente: 5992, nome: 'WALTER SEDLACEK MACHADO' }
+TextRow { idcliente: 5993, nome: 'ELOY SIMOES JR.' }
+TextRow { idcliente: 5994, nome: 'CEDOCAPE ' }
+TextRow { idcliente: 5995, nome: 'FACULDADE DE MEDICINA DA USP ' }
+TextRow { idcliente: 5996, nome: 'TARCIMARA MOREIRA DA SILVA' }
+TextRow { idcliente: 5997, nome: 'CLAUDIO DE PAULA SANTANA' }
+TextRow { idcliente: 5998, nome: 'ABSOLOM DUQUE DOS SANTOS' }
+TextRow { idcliente: 5999, nome: 'FRANCISCO DE SOUZA AMORIM FILHO' }
+TextRow { idcliente: 6000, nome: 'ANA CRISTINA ZONATO' }
+TextRow { idcliente: 6001, nome: 'DOMINGOS ANTONIO FRANCISCO ZANGAO' }
+TextRow { idcliente: 6002, nome: 'FACULDADE DE MEDICINA DA USP ' }
+TextRow { idcliente: 6003, nome: 'PIRES E GRATIVOL ASSOCIADOS LTD' }
+TextRow { idcliente: 6004, nome: 'RAIANE DE BARROS BOSQUETTI' }
+TextRow { idcliente: 6005, nome: 'ANA LUCIA MAIA DA SILVA' }
+TextRow { idcliente: 6006, nome: 'DANIELLA CRISTINA VALENCA' }
+TextRow { idcliente: 6007, nome: 'BENEDITO BORGES ALMEIDA' }
+TextRow { idcliente: 6008, nome: 'LAURO OTACILIO CAMPOS DE SOUZA' }
+TextRow { idcliente: 6009, nome: 'ANDERSON FREITAS DA SILVA' }
+TextRow { idcliente: 6010, nome: 'GILDEVANIA COELHO DE MELO' }
+TextRow { idcliente: 6011, nome: 'AUGUSTO ZAGO' }
+TextRow { idcliente: 6012, nome: 'HELSIMONE ALVES RODRIGUES' }
+TextRow { idcliente: 6013, nome: 'TATIANA MARA ANDRE CORDEIRO' }
+TextRow { idcliente: 6014, nome: 'GERARDO ABENDAÃ±O ALVARADO' }
+TextRow { idcliente: 6015, nome: 'PAULA BARBOZA CARNEIRO PENNA CHAVES' }
+TextRow { idcliente: 6016, nome: 'YULO CESARE DE CASTRO ALVES' }
+TextRow {
+  idcliente: 6017,
+  nome: 'FLAVIO SAKAMOTO / ANTONIO HENRIQUE FIGUEIREDO' }
+TextRow { idcliente: 6018, nome: 'MAURICIO FERREIRA CARVALHO' }
+TextRow { idcliente: 6019, nome: 'FABIANA GONCALES DÂ´OTTAVIANO' }
+TextRow { idcliente: 6020, nome: 'OSWALDO MARTUCCI JR' }
+TextRow { idcliente: 6021, nome: 'JULIO CESAR MONTEIRO DOS SANTOS JR' }
+TextRow { idcliente: 6022, nome: 'LUIZ CARLOS FRANCA DA NOVA' }
+TextRow { idcliente: 6023, nome: 'MARCOS VEIGA' }
+TextRow { idcliente: 6024, nome: 'ROGERIO PEREIRA BOPP' }
+TextRow { idcliente: 6025, nome: 'CENTRO MEDICO DE JACOBINA SC LTDA' }
+TextRow { idcliente: 6026, nome: 'JOAO ARMANDO PADOVANI JUNIOR' }
+TextRow { idcliente: 6027, nome: 'JOSE ALEXANDRE MEDICIS DA SILVEIRA' }
+TextRow { idcliente: 6028, nome: 'MILTON NAKAO' }
+TextRow { idcliente: 6029, nome: 'MAURICIO COSTA E PEIXOTO' }
+TextRow { idcliente: 6030, nome: 'ALEXANDRE BRITO DA SILVA' }
+TextRow { idcliente: 6031, nome: 'DANNILO BRITO SILVEIRA' }
+TextRow { idcliente: 6032, nome: 'MARCOS DE SOUZA ANTONIALLI' }
+TextRow { idcliente: 6033, nome: 'PEDRO JULIO MOTA DE QUEIROZ' }
+TextRow { idcliente: 6034, nome: 'CARLOS AUGUSTO ROMERO CARDENAS ' }
+TextRow {
+  idcliente: 6035,
+  nome: 'CARDIOFITNESS EMPREENDIMENTO HOSPITALAR LTDA' }
+TextRow { idcliente: 6036, nome: 'SAMIR BITAR' }
+TextRow { idcliente: 6037, nome: 'VICENTE VIEIRA NETO' }
+TextRow { idcliente: 6038, nome: 'LEANDRO GUGEL' }
+TextRow { idcliente: 6039, nome: 'ADALBERTO PANKO' }
+TextRow { idcliente: 6040, nome: 'LINCOLN DANTAS ' }
+TextRow { idcliente: 6041, nome: 'ALBERTO BARBOSA CORREA' }
+TextRow { idcliente: 6042, nome: 'CARLOS BEYRUTH' }
+TextRow { idcliente: 6043, nome: 'HUMBERTO JOSE BETTI SANTANA' }
+TextRow { idcliente: 6044, nome: 'RICARDO DIB' }
+TextRow { idcliente: 6045, nome: 'EDUARDO ENRIQUE OVIEDO' }
+TextRow { idcliente: 6046, nome: 'HEITOR FATOSHI DE OKAMOTO' }
+TextRow { idcliente: 6047, nome: 'PEDRO HENRIQUE DE FARIA' }
+TextRow { idcliente: 6048, nome: 'GODOFREDO CAMPOS BORGES' }
+TextRow { idcliente: 6049, nome: 'LUIZ GUSTAVO SCHWALM ANDRADE' }
+TextRow { idcliente: 6050, nome: 'HENRIQUE JOSE ALEXANDRE' }
+TextRow { idcliente: 6051, nome: 'MEDICAL ASSISTENCIA MEDICA LTDA' }
+TextRow {
+  idcliente: 6052,
+  nome: 'HOSPITAL E MATERNIDADE SAO FRANCISCO LTDA' }
+TextRow { idcliente: 6053, nome: 'ALBERTINA MARIA PIRES PADILHA RAMOS' }
+TextRow { idcliente: 6054, nome: 'JULIVANA PESSOA BADARO' }
+TextRow { idcliente: 6055, nome: 'FRANCISCO BRAGA DE ALBUQUERQUE' }
+TextRow { idcliente: 6056, nome: 'FELIPE DE BUSTAMANTE CARIM' }
+TextRow { idcliente: 6057, nome: 'ANA LUIZA CONDE LUZ MARTINS' }
+TextRow { idcliente: 6058, nome: 'JOSE RICARDO V. BERTAZZO' }
+TextRow { idcliente: 6059, nome: 'LIDIA MARTINS SPADONI' }
+TextRow { idcliente: 6060, nome: 'FABIO KASSAB' }
+TextRow { idcliente: 6061, nome: 'GUSTAVO LEAL DE LUCENA TAVARES' }
+TextRow { idcliente: 6062, nome: 'PROINSALUD Y CIA S EN C' }
+TextRow { idcliente: 6063, nome: 'RAIMUNDO NONATO FREITAS' }
+TextRow { idcliente: 6064, nome: 'ANTONIO SERGIO DA SILVA CARVALHO' }
+TextRow { idcliente: 6065, nome: 'AROLDO LOPES FERRAZ GIGANTE' }
+TextRow { idcliente: 6066, nome: 'AROLDO DA SILVA CARVALHO' }
+TextRow { idcliente: 6067, nome: 'MASSAHIRO ONO' }
+TextRow { idcliente: 6068, nome: 'WENDEL DOS SANTOS FURTADO' }
+TextRow { idcliente: 6069, nome: 'RONALDO GOMES BERNARDO' }
+TextRow { idcliente: 6070, nome: 'MARCUS TULLIUS FARIA' }
+TextRow { idcliente: 6071, nome: 'JOSE LUIS DO AMARAL' }
+TextRow { idcliente: 6072, nome: 'JOSE RICARDO LORENCO GERRA ' }
+TextRow { idcliente: 6073, nome: 'JOSE ANTONIO DE PAULA DE FELIX' }
+TextRow { idcliente: 6074, nome: 'CID OLAVO SCARPA VASCONCELLOS' }
+TextRow { idcliente: 6075, nome: 'VINICIUS ANTUNES MENEZES' }
+TextRow { idcliente: 6076, nome: 'JOHNNY SILVA RODRIGUES' }
+TextRow { idcliente: 6077, nome: 'RDO DIAGNOSTICOS MEDICOS LTDA' }
+TextRow { idcliente: 6078, nome: 'MICHELANGELO ANTONIO MORTATI' }
+TextRow { idcliente: 6079, nome: 'OTHOCLINICA LTDA' }
+TextRow { idcliente: 6080, nome: 'GUSTAVO MAFALDO' }
+TextRow { idcliente: 6081, nome: 'CESAR AUGUSTO DELGADO' }
+TextRow { idcliente: 6082, nome: 'ALMIR ABDALA SALOMAO ' }
+TextRow { idcliente: 6083, nome: 'HERQUIMAS PEREIRA DA COSTA' }
+TextRow { idcliente: 6084, nome: 'ABIUD PONCIANO DIAS JUNIOR' }
+TextRow { idcliente: 6085, nome: 'NAGILSON RODRIGUES AMOURY' }
+TextRow { idcliente: 6086, nome: 'HOSPITAL SAO FRANCISCO' }
+TextRow { idcliente: 6087, nome: 'HOSPITAL RIBEIRAO PIRES' }
+TextRow { idcliente: 6088, nome: 'ANTONIO AMILCAR BEZERRA LIMA' }
+TextRow { idcliente: 6089, nome: 'HIROSHI OKANO' }
+TextRow { idcliente: 6090, nome: 'LUCIANO GUERRA' }
+TextRow { idcliente: 6091, nome: 'HENRIQUE DOUGLAS NOLETO DE AZEVEDO' }
+TextRow { idcliente: 6092, nome: 'JORGE ORILLAC' }
+TextRow { idcliente: 6093, nome: 'HUGO ANTONELLI BRAGA' }
+TextRow { idcliente: 6094, nome: 'JOSE DO CARMO PEREIRA' }
+TextRow { idcliente: 6095, nome: 'LUCAS SANTANA' }
+TextRow { idcliente: 6096, nome: 'JORGE CURRY' }
+TextRow { idcliente: 6097, nome: 'WALTER PEREIRA BORGES' }
+TextRow { idcliente: 6098, nome: 'DILSON DA SILVA PEREIRA FILHO' }
+TextRow { idcliente: 6099, nome: 'AUTARQUIA HOSPITALAR MUNICIPAL' }
+TextRow { idcliente: 6100, nome: 'ALDAIR NOVATO DA SILVA' }
+TextRow { idcliente: 6101, nome: 'WILLIAM PIEDRA CARVAJAL' }
+TextRow { idcliente: 6102, nome: 'ALEXANDRE AUGUSTO FERREIRA' }
+TextRow { idcliente: 6103, nome: 'WALMIR MUNIZ NANTES' }
+TextRow { idcliente: 6104, nome: 'MARCELO HERREROS' }
+TextRow { idcliente: 6105, nome: 'HOSPITAL SAO PAULO SS LTDA' }
+TextRow {
+  idcliente: 6106,
+  nome: 'FRANCISCO ANTONIO GUIMARAES DE ALMEIDA' }
+TextRow { idcliente: 6107, nome: 'VALMIR ABREU LIMA' }
+TextRow { idcliente: 6108, nome: 'FERNANDO MARTINS DA NOBREGA' }
+TextRow { idcliente: 6109, nome: 'MARCELO DONIZETE MACHADO' }
+TextRow { idcliente: 6110, nome: 'SEBASTIAO FERREIRA PAES NETO' }
+TextRow {
+  idcliente: 6111,
+  nome: 'AMI - ASSISTENCIA MEDICA INTEGRADA/CLINICA GASTROS' }
+TextRow { idcliente: 6112, nome: 'MARCIANO DE PAULA DA SILVEIRA NETO' }
+TextRow { idcliente: 6113, nome: 'CESAR PATEZ FIGUEIREDO' }
+TextRow { idcliente: 6114, nome: 'VANDREIA DE FIGUEIREDO SILVA ALVES' }
+TextRow { idcliente: 6115, nome: 'JOSE LUIS LOPEZ HOLGUIN' }
+TextRow {
+  idcliente: 6116,
+  nome: 'COLINS SOUZA CONSULTORIA MEDICA LTDA' }
+TextRow { idcliente: 6117, nome: 'UNIVERSIDADE FEDERAL VICOSA' }
+TextRow { idcliente: 6118, nome: 'REGIS DEWES' }
+TextRow { idcliente: 6119, nome: 'ADRIANO SERGIO FREIRE MEIRA' }
+TextRow { idcliente: 6120, nome: 'LUIZ ROBERTO SILVA FILHO' }
+TextRow { idcliente: 6121, nome: 'SERGIO HENRIQUE MENESES' }
+TextRow { idcliente: 6122, nome: 'HOSPITAL SEMINA' }
+TextRow { idcliente: 6123, nome: 'JOSE FLORISVAL DE ORNELAS' }
+TextRow { idcliente: 6124, nome: 'BRENO MELO FERREIRA COSTA' }
+TextRow { idcliente: 6125, nome: 'CLAUDIO PORTO PEREIRA' }
+TextRow { idcliente: 6126, nome: 'LEANDRO MONZA GONCALVES' }
+TextRow { idcliente: 6127, nome: 'JOAO RICARDO PINHEIRO CAMPOS SOUSA' }
+TextRow { idcliente: 6128, nome: 'AILTON MOREIRA AMORIM' }
+TextRow { idcliente: 6129, nome: 'ANA MARIA WELP ALFREDO' }
+TextRow { idcliente: 6130, nome: 'CRISTIANO OLIVEIRA ANDRADE' }
+TextRow { idcliente: 6131, nome: 'SIDON OLIVEIRA CARDOSO' }
+TextRow { idcliente: 6132, nome: 'FRANCISCO MEIRELLES' }
+TextRow { idcliente: 6133, nome: 'NEY SALDANHA / DR. FELIPE MADEIRA' }
+TextRow { idcliente: 6134, nome: 'JULIANA GOMES PAULINO' }
+TextRow {
+  idcliente: 6135,
+  nome: 'VERA LUCIA RIBEIRO FUESS / SR. MAURICIO' }
+TextRow { idcliente: 6136, nome: 'ROSALVO MOURA NETO' }
+TextRow { idcliente: 6137, nome: 'ROSALVO MOURA NETO' }
+TextRow { idcliente: 6138, nome: 'TAIANA MESSIAS MIRANDA' }
+TextRow {
+  idcliente: 6139,
+  nome: 'NEWTON DIOGO PERES CAVALCANTI DE ALBUQUERQUE' }
+TextRow { idcliente: 6140, nome: 'JOSE FERNANDO DE SOUZA SALES JUNIOR' }
+TextRow { idcliente: 6141, nome: 'DALTON MUNIZ SANTOS' }
+TextRow { idcliente: 6142, nome: 'ALBERTO IORIO ARUZZO' }
+TextRow { idcliente: 6143, nome: 'JOSE AUGUSTO DE OLIVEIRA MESCOUTO' }
+TextRow { idcliente: 6144, nome: 'ALEXANDRE MAGNO CARDOSO OLIVEIRA' }
+TextRow { idcliente: 6145, nome: 'CEZAR LUIS GUINDANI' }
+TextRow { idcliente: 6146, nome: 'JOSE MARQUES PINA JUNIOR' }
+TextRow { idcliente: 6147, nome: 'MARCUS TULIO HADDAD FILHO' }
+TextRow { idcliente: 6148, nome: 'SAULO DE CASTRO BARBOSA' }
+TextRow { idcliente: 6149, nome: 'EDILSON SARKIS GONCALVES' }
+TextRow { idcliente: 6150, nome: 'LARISSA ROBERTA CAMPOS DE SOUZA' }
+TextRow { idcliente: 6151, nome: 'IVAN HUMBERTO SANCHES' }
+TextRow { idcliente: 6152, nome: 'SERGIO DOMINGOS DE PAOLI' }
+TextRow { idcliente: 6153, nome: 'VIVIANE RODRIGUES LIMO TEIXEIRA' }
+TextRow { idcliente: 6154, nome: 'IGESP' }
+TextRow { idcliente: 6155, nome: 'JOSIAS ALVARES DA NOBREGA NETO' }
+TextRow { idcliente: 6156, nome: 'FABIANO FABRIS' }
+TextRow { idcliente: 6157, nome: 'CARLOS ALEXANDRE PESSOA' }
+TextRow { idcliente: 6158, nome: 'ALDAIR NOVATO SILVA' }
+TextRow { idcliente: 6159, nome: 'GASTRO IMAGEM ENDOSCOPIA DIGESTIVA' }
+TextRow { idcliente: 6160, nome: 'SILVANIA MAURICIO DE SOUSA' }
+TextRow { idcliente: 6161, nome: 'JORGE VITORINO OLIVEIRA BASTOS' }
+TextRow { idcliente: 6162, nome: 'RONAN GARCIA DOS REIS JUNIOR ' }
+TextRow { idcliente: 6163, nome: 'ANA PAULA TELLES PIRES DIAS' }
+TextRow { idcliente: 6164, nome: 'HELYON NOGUEIRA VASCONCELOS' }
+TextRow { idcliente: 6165, nome: 'RAIMUNDO NONATO MIRANDA LOPES' }
+TextRow { idcliente: 6166, nome: 'RAIMUNDO NONATO MIRANDA LOPES' }
+TextRow { idcliente: 6167, nome: 'WIDEX APARELHOS AUDITIVOS' }
+TextRow { idcliente: 6168, nome: 'ARNALDO DANTAS TELES' }
+TextRow { idcliente: 6169, nome: 'FABIO YUJI HONDO' }
+TextRow { idcliente: 6170, nome: 'REINALDO AZEVEDO VIANA' }
+TextRow { idcliente: 6171, nome: 'NELSON MARTINS DE CASTRO TEIXEIRA' }
+TextRow { idcliente: 6172, nome: 'MABEL MUNIZ ARAUJO' }
+TextRow { idcliente: 6173, nome: 'ANA CLAUDIA BARROS DA SILVA VIEIRA' }
+TextRow {
+  idcliente: 6174,
+  nome: 'GEDAB GASTROENTEROLOGIA E ENDOSCOPIA DIGESTIVA AVA' }
+TextRow { idcliente: 6175, nome: 'ELTON' }
+TextRow {
+  idcliente: 6176,
+  nome: 'CENTRO DE ENDOSCOPIA DIGESTIVA DE SAO CARLOS' }
+TextRow { idcliente: 6177, nome: 'ORLANDO MARLOS OLIVEIRA' }
+TextRow { idcliente: 6178, nome: 'LUIZ ANTONIO HOOPER SOUZA' }
+TextRow {
+  idcliente: 6179,
+  nome: 'IMAD INSTITUTO MEDICO DO APARELHO DIGESTIVO' }
+TextRow { idcliente: 6180, nome: 'YOSHIKO AIHARA YONEDA' }
+TextRow { idcliente: 6181, nome: 'CENTRO AUDITIVO AUDIUS LTDA' }
+TextRow { idcliente: 6182, nome: 'MARIO LUIS BUSCHINELLI DELLAVANZI' }
+TextRow { idcliente: 6183, nome: 'JOAO CAETANO MARCHESINI ' }
+TextRow { idcliente: 6184, nome: 'MARA LUCIA STURZENEKER' }
+TextRow { idcliente: 6185, nome: 'ANDRE LUIZ GIOVANNETTI COROA' }
+TextRow { idcliente: 6186, nome: 'TEREZA DE CARVALHO VILARINO' }
+TextRow { idcliente: 6187, nome: 'MARICY TACLA ALVES BARBOSA' }
+TextRow { idcliente: 6188, nome: 'JOSE SERGIO AMORIM DE MEDEIROS' }
+TextRow { idcliente: 6189, nome: 'HOSPITAL METROPOLITANO' }
+TextRow { idcliente: 6190, nome: 'CRISTIANE GUIRADO DA SILVEIRA' }
+TextRow { idcliente: 6191, nome: 'WELINGTON ALBERTO BALLA' }
+TextRow { idcliente: 6192, nome: 'MIGUEL MOUREIRA DO AMARAL NETO' }
+TextRow { idcliente: 6193, nome: 'FRANCISCO CARLOS DE OLIVEIRA LOPES' }
+TextRow { idcliente: 6194, nome: 'MARTIN VARELA VINDAS' }
+TextRow { idcliente: 6195, nome: 'CHRISTIAN SPALLA LEPESTEUR MOREIRA' }
+TextRow { idcliente: 6196, nome: 'ROBERTO ALCANTARA ZARATE' }
+TextRow { idcliente: 6197, nome: 'KELVE JANNED DOS PASSOS FERREIRA' }
+TextRow { idcliente: 6198, nome: 'OSVALDO LUIS PAVAN JR.' }
+TextRow { idcliente: 6199, nome: 'JOAO CLIMERIO DA CUNHA PORTO' }
+TextRow { idcliente: 6200, nome: 'HERICO ARSIE FILHO' }
+TextRow { idcliente: 6201, nome: 'RODRIGO CAIADO' }
+TextRow { idcliente: 6202, nome: 'RODRIGO CAIADO' }
+TextRow {
+  idcliente: 6203,
+  nome: 'GUMAIA E AMORIM CENTRO CLINICO DO OESTE LTDA' }
+TextRow { idcliente: 6204, nome: 'TRAJANO SALGADO NETO' }
+TextRow { idcliente: 6205, nome: 'REINALDO YAZAKI' }
+TextRow { idcliente: 6206, nome: 'ERNANDES OLIVEIRA DUARTE JUNIOR' }
+TextRow { idcliente: 6207, nome: 'EURIPEDES DE OLIVEIRA MARINHO' }
+TextRow { idcliente: 6208, nome: 'JOSE ROBERTO PODESTA' }
+TextRow {
+  idcliente: 6209,
+  nome: 'CENTRO DE CIRURGIA DIGESTIVA DO DF LTDA' }
+TextRow { idcliente: 6210, nome: 'KANTARO PAULO TAMAKI' }
+TextRow { idcliente: 6211, nome: 'HOSPITAL EVANGELICO DE IPORA LTDA.' }
+TextRow {
+  idcliente: 6212,
+  nome: 'UNIMED NATAL- SOC. COOP. DO TRABALHO MEDICO' }
+TextRow { idcliente: 6213, nome: 'MARCIO POLO DE CASTRO' }
+TextRow { idcliente: 6214, nome: 'VICTOR FONSECA RODRIGUES HADDAD' }
+TextRow { idcliente: 6215, nome: 'MANUEL ALVARO / SANDRA LIMA' }
+TextRow { idcliente: 6216, nome: 'VERONICA MARIA FERREIRA SOARES' }
+TextRow { idcliente: 6217, nome: 'HBR MEDICAL' }
+TextRow { idcliente: 6218, nome: 'ANTONIO HENRIQUE DURAN' }
+TextRow { idcliente: 6219, nome: 'HELIO LUCIO DE SOUZA FILHO' }
+TextRow { idcliente: 6220, nome: 'ALARICO NUNES AZEVEDO FILHO' }
+TextRow { idcliente: 6221, nome: 'MARCLEI B. LUZARDO' }
+TextRow { idcliente: 6222, nome: 'FRANCISCO ROMANO' }
+TextRow { idcliente: 6223, nome: 'DORIVAL GOMIDE RAMOS' }
+TextRow { idcliente: 6224, nome: 'MARCIAL BRETTAS NETO' }
+TextRow {
+  idcliente: 6225,
+  nome: 'SOC. DE PROTECAO MATERNIDADE E INFANCIA PARNAIBA' }
+TextRow { idcliente: 6226, nome: 'MARCELO ANGENICA ' }
+TextRow { idcliente: 6227, nome: 'CARLOS ANTONIO GARCIA DA COSTA ' }
+TextRow { idcliente: 6228, nome: 'UNIMED VALE DO CAI' }
+TextRow { idcliente: 6229, nome: 'PAULO ROBERTO DURO GUIMARAES' }
+TextRow { idcliente: 6230, nome: 'MIRIAN ESTER W. ROSTIROLLA' }
+TextRow { idcliente: 6231, nome: 'MARIA DAS GRACAS DIAS DA SILVA' }
+TextRow { idcliente: 6232, nome: 'ESLEY JOSE RAULINO AMARAL' }
+TextRow { idcliente: 6233, nome: 'AUREO COLOMBI CANGUSSU' }
+TextRow { idcliente: 6234, nome: 'KARINA MARTINS DE CAMPOS' }
+TextRow { idcliente: 6235, nome: 'LUCIANA DE ALMEIDA SORCI M. DOURADO' }
+TextRow { idcliente: 6236, nome: 'EUGENIO CORREA LOUREIRO' }
+TextRow { idcliente: 6237, nome: 'PAULO ANNICCHINO' }
+TextRow { idcliente: 6238, nome: 'GABRIEL CARDOSO RAMALHO NETO' }
+TextRow { idcliente: 6239, nome: 'HOSPITAL DOS ACIDENTADOS ' }
+TextRow { idcliente: 6240, nome: 'SILVIA DRUMOND NOLETO' }
+TextRow { idcliente: 6241, nome: 'RODRIGO TEIXEIRA ZAIDEN' }
+TextRow { idcliente: 6242, nome: 'GASTRONEW' }
+TextRow { idcliente: 6243, nome: 'ROBERVAL MARTINS GUIMARAES' }
+TextRow { idcliente: 6244, nome: 'CARLOS RAFAEL JORGE JIMENEZ' }
+TextRow {
+  idcliente: 6245,
+  nome: 'AFONSO DIAS DA SILVA FILHO / LUIZ LEITE' }
+TextRow {
+  idcliente: 6246,
+  nome: 'ANTONIO JOAO DE OLIVEIRA SANTOS JUNIOR' }
+TextRow { idcliente: 6247, nome: 'MARIA AELMA PEREIRA DELGADO LIMA' }
+TextRow { idcliente: 6248, nome: 'ANDRE LUIS SEABRA RODRIGUES' }
+TextRow { idcliente: 6249, nome: 'ELIZA HIROKO IWASHITA' }
+TextRow { idcliente: 6250, nome: 'RICARDO EBCKEN' }
+TextRow { idcliente: 6251, nome: 'THALES  SANTANA DAMANTE' }
+TextRow {
+  idcliente: 6252,
+  nome: 'UNICLINICA SERVICOS MEDICOS E IMAGEM LTDA' }
+TextRow { idcliente: 6253, nome: 'CARLOS EDUARDO MIRANDA DE BARROS' }
+TextRow { idcliente: 6254, nome: 'MARCOS CESAR DE MORAES' }
+TextRow {
+  idcliente: 6255,
+  nome: 'LUISA MARILLAC RAMOS LACERDA DE ANDRADE' }
+TextRow {
+  idcliente: 6256,
+  nome: 'HOSPITAL NOSSA SENHORA DE APARECIDA DE VALPARAISO' }
+TextRow { idcliente: 6257, nome: 'ELTON HUGO MAIA TEIXEIRA' }
+TextRow { idcliente: 6258, nome: 'JOELMA CAVALCANTE MARTINS' }
+TextRow { idcliente: 6259, nome: 'ADRIANO DE BRITO DOURADO' }
+TextRow { idcliente: 6260, nome: 'MARCOS SILVA DE MORAIS' }
+TextRow { idcliente: 6261, nome: 'APOSTOLO FERREIRA MARTINS' }
+TextRow { idcliente: 6262, nome: 'EDUARDO FONCECA' }
+TextRow { idcliente: 6263, nome: 'SILVANO DA SILVA LOPES' }
+TextRow { idcliente: 6264, nome: 'LORENA APOLINARIO MARTINS' }
+TextRow { idcliente: 6265, nome: 'JOSE AFONSO DA COSTA MONTEIRO' }
+TextRow { idcliente: 6266, nome: 'GRUPO SONIMED' }
+TextRow {
+  idcliente: 6267,
+  nome: 'ERIK DE FREITAS FORTES BUSTAMANTE ME' }
+TextRow { idcliente: 6268, nome: 'PEDRO RICARDO DIAS' }
+TextRow { idcliente: 6269, nome: 'FAUZE HASSAN MAHMOUD' }
+TextRow { idcliente: 6270, nome: 'MARCUS VINICIUS RIBEIRO FERNANDES' }
+TextRow { idcliente: 6271, nome: 'ROBERIO DE SOUSA DAMIAO' }
+TextRow { idcliente: 6272, nome: 'MARIA CLAUDIA CRUZ LINS' }
+TextRow { idcliente: 6273, nome: 'JESUS MIRANDA' }
+TextRow { idcliente: 6274, nome: 'RENATA DE PAULA FERNANDES' }
+TextRow { idcliente: 6275, nome: 'HOSPITAL MONTE KLINICUM' }
+TextRow { idcliente: 6276, nome: 'CERES LEONIDIA LEAO MAGALHAES' }
+TextRow { idcliente: 6277, nome: 'RAIMUNDO SERGIO DE SOUZA MONTEIRO' }
+TextRow { idcliente: 6278, nome: 'JULIANA BARCELOS DIAS FUTURO' }
+TextRow { idcliente: 6279, nome: 'JURACI L. MIRANDA JUNIOR' }
+TextRow { idcliente: 6280, nome: 'CARLOS AUGUSTO SGUISSARDI NUNES' }
+TextRow { idcliente: 6281, nome: 'SERVICOS MEDICOS LTDA.' }
+TextRow { idcliente: 6282, nome: 'JOSE BONFIM BEZERRA' }
+TextRow { idcliente: 6283, nome: 'PEDRO ADRIANO MARTINS BRANCO' }
+TextRow { idcliente: 6284, nome: 'FERRAZ TORRES E FLORENCIO' }
+TextRow { idcliente: 6285, nome: 'ALEXANDRE PESSOA' }
+TextRow { idcliente: 6286, nome: 'DIEGO GIOVANNI DE MELO SILVA' }
+TextRow { idcliente: 6287, nome: 'GIGLIOLA VALERIO LIMA BUBLITZ' }
+TextRow { idcliente: 6288, nome: 'MANOEL CARLOS BATISTA' }
+TextRow { idcliente: 6289, nome: 'EWERTON BENASSULY' }
+TextRow { idcliente: 6290, nome: 'ANTONIO MIZIARA NETO' }
+TextRow { idcliente: 6291, nome: 'IGNACIO VICUNA' }
+TextRow { idcliente: 6292, nome: 'RITA DE CASSIA VAZ PORTO' }
+TextRow { idcliente: 6293, nome: 'FRANCISCO AQUINO NASCIMENTO' }
+TextRow { idcliente: 6294, nome: 'SAMEL ASSISTENCIA MEDICA HOSPITALAR' }
+TextRow { idcliente: 6295, nome: 'GASTROCLINICA' }
+TextRow { idcliente: 6296, nome: 'FEME MEDICINA FEMININA LTDA' }
+TextRow { idcliente: 6297, nome: 'MARA LUCIA STURZENEKER' }
+TextRow { idcliente: 6298, nome: 'GASTROCLINICA' }
+TextRow { idcliente: 6299, nome: 'FEME MEDICINA FEMININA' }
+TextRow { idcliente: 6300, nome: 'CLINICA LOCKS' }
+TextRow {
+  idcliente: 6301,
+  nome: 'INSTITUTO DE CLINICAS ESPECIALIZADAS DE OSASCO' }
+TextRow {
+  idcliente: 6302,
+  nome: 'MAMOCENTER CENTRO DE DIAGNOSTICO MAMOGRAFICO' }
+TextRow { idcliente: 6303, nome: 'FLAVIO VECCHI BARBOSA JUNIOR' }
+TextRow { idcliente: 6304, nome: 'GIL NEY ELOI STABELINI' }
+TextRow { idcliente: 6305, nome: 'LUIZ GUSTAVO DE OLIVEIRA BUENO' }
+TextRow { idcliente: 6306, nome: 'JOAO ITANI CAVALCANTE' }
+TextRow { idcliente: 6307, nome: 'ANDRE LUIS SEABRA RODRIGUES' }
+TextRow {
+  idcliente: 6308,
+  nome: 'MAMOCENTER CENTRO DE DIAGNOSTICO MAMOGRAFICO' }
+TextRow { idcliente: 6309, nome: 'RICARDO GOULART GALVAO' }
+TextRow { idcliente: 6310, nome: 'MAURICIO COSTA E PEIXOTO' }
+TextRow { idcliente: 6311, nome: 'HOSPITAL DA FORCA AEREA DO GALEAO' }
+TextRow { idcliente: 6312, nome: 'GECAD CLINICA DO APARELHO DIGESTIVO' }
+TextRow { idcliente: 6313, nome: 'ANTONIO RONALDO MAUES LOBATO' }
+TextRow { idcliente: 6314, nome: 'OSWALDO COLOMBINI NETO' }
+TextRow { idcliente: 6315, nome: 'CARLOS EDUARDO ALVES DA COSTA' }
+TextRow { idcliente: 6316, nome: 'LEYLANE PEIXOTO ELIAS' }
+TextRow { idcliente: 6317, nome: 'MAYKON ATILA CARVALHO GOMES' }
+TextRow { idcliente: 6318, nome: 'LEANDRO CARVALHO VITORINO' }
+TextRow { idcliente: 6319, nome: 'RENATA DE FREITAS FACHADA' }
+TextRow { idcliente: 6320, nome: 'ALINE FARRAS' }
+TextRow { idcliente: 6321, nome: 'MOACIR SAMPAIO' }
+TextRow { idcliente: 6322, nome: 'NANCY CORREA SANTANA' }
+TextRow { idcliente: 6323, nome: 'TEDIMPORT' }
+TextRow { idcliente: 6324, nome: 'GUSTAVO FIGUEIREDO MORAES' }
+TextRow { idcliente: 6325, nome: 'DANILO ALENCAR DE ANDRADE' }
+TextRow { idcliente: 6326, nome: 'EDUARDO VIEIRA' }
+TextRow { idcliente: 6327, nome: 'LEONARDO AUGUSTO DA FONSECA' }
+TextRow { idcliente: 6328, nome: 'ENILSON MAX MARINS' }
+TextRow { idcliente: 6329, nome: 'HOSPITAL AMPARO' }
+TextRow { idcliente: 6330, nome: 'DIGEST' }
+TextRow {
+  idcliente: 6331,
+  nome: 'CENTRO DIAGNOSTICO RIBEIRO GOMES LTDA' }
+TextRow { idcliente: 6332, nome: 'JOSENALDA FELIX DAS FLORES ARATANI' }
+TextRow { idcliente: 6333, nome: 'CINTIA CLEMENTE' }
+TextRow { idcliente: 6334, nome: 'ROBERTO MARTINEZ ALVAREZ' }
+TextRow {
+  idcliente: 6335,
+  nome: 'FUNDO MUNICIPAL DE SAUDE DE PIRACURUCA' }
+TextRow { idcliente: 6336, nome: 'ELCIO CARLOS HENRIQUES DA SILVA' }
+TextRow {
+  idcliente: 6337,
+  nome: 'SOGASTRO SOCIEDADE DE GASTROENTEROLOGIA LTDA' }
+TextRow { idcliente: 6339, nome: 'LEONARDO DE CASTRO DURAES' }
+TextRow { idcliente: 6340, nome: 'ODAIR JOSE DE ASSIS' }
+TextRow { idcliente: 6341, nome: 'ADOLFO LIMA DE SOUSA ARAUJO' }
+TextRow { idcliente: 6342, nome: 'HELIO CURADO FROES' }
+TextRow { idcliente: 6343, nome: 'LUIZ CARLOS DE MORAIS' }
+TextRow { idcliente: 6344, nome: 'CIANDRA TAUIL VITORINO SOARES' }
+TextRow { idcliente: 6345, nome: 'JOSE FRANCISCO LIMA NERES' }
+TextRow { idcliente: 6346, nome: 'GEDAB GASTROENTEROLOGIA' }
+TextRow { idcliente: 6347, nome: 'RAFAEL MARTINS DA COSTA' }
+TextRow { idcliente: 6348, nome: 'EXPEDITO DE ALMEIDA SOARES' }
+TextRow { idcliente: 6349, nome: 'JULIO CESAR M SANTOS JR' }
+TextRow {
+  idcliente: 6350,
+  nome: 'MARIA CAROLINA COUTINHO XAVIER SOARES' }
+TextRow { idcliente: 6351, nome: 'RONALDO MACEDO MASCARENHAS' }
+TextRow { idcliente: 6352, nome: 'RENATO MADRID BALDASSARE' }
+TextRow { idcliente: 6353, nome: 'NEIDSON CRUZ DE MENEZES' }
+TextRow { idcliente: 6354, nome: 'LUIS CLAUDIO BARRETO PESSOA' }
+TextRow { idcliente: 6355, nome: 'NIVALDO BARBOSA LADEIRA FILHO' }
+TextRow { idcliente: 6356, nome: 'FERNANDA' }
+TextRow { idcliente: 6357, nome: 'CRISTIANA MANZOTTI' }
+TextRow { idcliente: 6358, nome: 'CLINICA UNIGASTRO' }
+TextRow { idcliente: 6359, nome: 'NIVALDO BARBOSA LADEIRA FILHO' }
+TextRow { idcliente: 6360, nome: 'REDE D\'OR SAO LUIZ S.A.' }
+TextRow { idcliente: 6361, nome: 'DANTE TEJERINA' }
+TextRow { idcliente: 6362, nome: 'OLENTINO GONCALVES DE MENEZES' }
+TextRow { idcliente: 6364, nome: 'RICARDO LAMBERT COSTA PINTO' }
+TextRow { idcliente: 6365, nome: 'HOSPITAL ANA COSTA SA' }
+TextRow { idcliente: 6366, nome: 'OLENTINO GONCALVES DE MENEZES' }
+TextRow { idcliente: 6367, nome: 'NEY FABRICIO BENIGNO SIMOES' }
+TextRow { idcliente: 6368, nome: 'OTORRINOS CLINIC' }
+TextRow { idcliente: 6369, nome: 'HOSPITAL ANA COSTA SA' }
+TextRow { idcliente: 6370, nome: 'JOSE FRANCISCO LIMA NERES' }
+TextRow { idcliente: 6371, nome: 'CLINICA INTEGRADA HOMO LTDA' }
+TextRow { idcliente: 6372, nome: 'GASTROSCOPE' }
+TextRow { idcliente: 6373, nome: 'GASTROMEDIC' }
+TextRow { idcliente: 6374, nome: 'HOSPITAL ANA COSTA S A' }
+TextRow { idcliente: 6375, nome: 'PATRYCK LIMA GOMES' }
+TextRow { idcliente: 6376, nome: 'CLINICA IMMA' }
+TextRow { idcliente: 6377, nome: 'SALUSTIANO GABRIEL NETO' }
+TextRow { idcliente: 6378, nome: 'JOSE ANTONIO PINTO' }
+TextRow { idcliente: 6379, nome: 'FELIPE ALVES MOTA' }
+TextRow { idcliente: 6380, nome: 'BENEDITO BORGES DE ALMEIDA FILHO' }
+TextRow { idcliente: 6381, nome: 'NICOLI FRANCINI ESTEVAM BRIOSCHI' }
+TextRow { idcliente: 6382, nome: 'ELIO FERREIRA DA SILVA' }
+TextRow {
+  idcliente: 6383,
+  nome: 'CLINICA PRO NASCER ASSISTENCIA MEDICA LAB. LTDA' }
+TextRow { idcliente: 6384, nome: 'DR JOSE ROBERTO LOZANO LARA' }
+TextRow { idcliente: 6385, nome: 'JOAO EVANGELISTA CHAVES DE FREITAS' }
+TextRow { idcliente: 6386, nome: 'RUBENS RIBEIRO DA COSTA JUNIOR' }
+TextRow { idcliente: 6387, nome: 'DR. PEDRO IVO BASTOS PEREIRA' }
+TextRow { idcliente: 6388, nome: 'HOSPITAL ANA COSTA S A' }
+TextRow { idcliente: 6389, nome: 'ALEX CURI' }
+TextRow { idcliente: 6390, nome: 'LIVIA FERNANDES SAMPAIO GUSMAO' }
+TextRow { idcliente: 6391, nome: 'ROGERIA TEIXEIRA COELHO' }
+TextRow {
+  idcliente: 6393,
+  nome: 'LORETA CANIVILO SALAS DE SOUZA MORAES' }
+TextRow { idcliente: 6394, nome: 'FLAVIO LUZ FERREIRA' }
+TextRow { idcliente: 6395, nome: 'RAFAEL MAIA DE SOUSA' }
+TextRow { idcliente: 6397, nome: 'MED-SUL SERVICOS MEDICOS LTDA' }
+TextRow { idcliente: 6398, nome: 'MARCUS TULIO BASSUL HADDAD FILHO' }
+TextRow { idcliente: 6399, nome: 'CLINICA ENDOSCOPICA' }
+TextRow { idcliente: 6400, nome: 'BRUCE MASON' }
+TextRow { idcliente: 6401, nome: 'ERVELTON LEAL GUIMARAES' }
+TextRow { idcliente: 6402, nome: 'ANTONIO CANDIDO NEVES NETO' }
+TextRow { idcliente: 6403, nome: 'FERTILE DIAGNOSTICOS' }
+TextRow { idcliente: 6404, nome: 'LEONARDO SOARES LAGES GONCALVES' }
+TextRow { idcliente: 6405, nome: 'JUVENCIO PASSAMANE JUNIOR' }
+TextRow { idcliente: 6406, nome: 'MARCO AURELIO CAMPANA' }
+TextRow { idcliente: 6407, nome: 'BRUCE MASON' }
+TextRow { idcliente: 6408, nome: 'CARDOSO MOTA' }
+TextRow { idcliente: 6409, nome: 'WALTER CRUZ COILA' }
+TextRow { idcliente: 6410, nome: 'KALIL JACOB' }
+TextRow { idcliente: 6411, nome: 'JOSE CORREA LIMA NETTO' }
+TextRow { idcliente: 6412, nome: 'REVERSON ARAUJO MOTA' }
+TextRow { idcliente: 6413, nome: 'AURELIO BATISTA PEREIRA' }
+TextRow { idcliente: 6414, nome: 'POLICLINICA RCS' }
+TextRow { idcliente: 6415, nome: 'FRANCISCO FLAVIO ROCHA E SILVA' }
+TextRow { idcliente: 6416, nome: 'TRINDADE E LUNA LTDA / CENTOVET' }
+TextRow { idcliente: 6417, nome: 'RAIMUNDO NONATO CHAVES DE FREITAS' }
+TextRow { idcliente: 6418, nome: 'MARCOS ANTONIO DE MEDEIROS ROCHA' }
+TextRow { idcliente: 6419, nome: 'CLINICA VIVA' }
+TextRow { idcliente: 6420, nome: 'LINDOMAR SILVA BORGES' }
+TextRow { idcliente: 6421, nome: 'CLINICA IBED' }
+TextRow { idcliente: 6422, nome: 'HUGO ANTONIELLI BRAGA' }
+TextRow { idcliente: 6423, nome: 'SERVICOS HOSPITALARES YUGE' }
+TextRow { idcliente: 6424, nome: 'MATIAS BARBOSA DE MIRANDA NETO' }
+TextRow { idcliente: 6425, nome: 'ELSA FREDERICO' }
+TextRow { idcliente: 6426, nome: 'ALBERTO VICUNA POBLETE' }
+TextRow { idcliente: 6427, nome: 'GASTROSCOPE' }
+TextRow { idcliente: 6428, nome: 'IGNACIO VICUNA' }
+TextRow { idcliente: 6429, nome: 'ODAIR JOSE DE ASSIS' }
+TextRow { idcliente: 6430, nome: 'HELDER SILVA BONFIM' }
+TextRow { idcliente: 6431, nome: 'RONALDO CANEIRO ZAGO' }
+TextRow { idcliente: 6432, nome: 'CLINICA MEDICA SAO LUIS LTDA' }
+TextRow {
+  idcliente: 6433,
+  nome: 'GEORGIA CRISTINA ALLAN DE OLIVEIRA SILVA' }
+TextRow { idcliente: 6434, nome: 'ADALBERTO PANKO' }
+TextRow { idcliente: 6435, nome: 'FRANCISCO AQUINO NASCIMENTO' }
+TextRow { idcliente: 6436, nome: 'FRANCISCO GOMES DA SILVA' }
+TextRow {
+  idcliente: 6437,
+  nome: 'CLINICA PROF. MILTON SOUZA LEAO LTDA.' }
+TextRow { idcliente: 6438, nome: 'JOAO EVANGELISTA CHAVES DE FREITAS' }
+TextRow { idcliente: 6439, nome: 'ALUIZIO PEREIRA DE FARIAS' }
+TextRow { idcliente: 6440, nome: 'VILMA CARLA  SARMENTO DOS REIS' }
+TextRow { idcliente: 6441, nome: 'WILLIAN DE SA LESSA' }
+TextRow { idcliente: 6442, nome: 'DILSON RIBEIRO DE ALMEIDA' }
+TextRow { idcliente: 6443, nome: 'ENILTON MONTEIRO MACHADO' }
+TextRow { idcliente: 6444, nome: 'CARLOS RAFAEL JORGE JIMENEZ' }
+TextRow { idcliente: 6446, nome: 'MIGUEL NEVES DA SILVA NETO' }
+TextRow { idcliente: 6447, nome: 'MASSAF' }
+TextRow { idcliente: 6448, nome: 'CHARLES ARRUDA DE SOUZA' }
+TextRow { idcliente: 6449, nome: 'PEREIRA COELHO & LIRA LTDA' }
+TextRow {
+  idcliente: 6450,
+  nome: 'CENTRO DE DIAGNOSTICO E TER. END. DE MACAE LTDA' }
+TextRow { idcliente: 6451, nome: 'MASSAF' }
+TextRow { idcliente: 6452, nome: 'UNIFONO LTDA' }
+TextRow { idcliente: 6453, nome: 'RONALDO DUTRA FONSECA' }
+TextRow { idcliente: 6454, nome: 'MASSAF' }
+TextRow { idcliente: 6455, nome: 'FULVIO CALICE FERREIRA' }
+TextRow { idcliente: 6456, nome: 'ARIOSVALDO PINTO DOS SANTOS' }
+TextRow { idcliente: 6457, nome: 'MASSAF' }
+TextRow { idcliente: 6458, nome: 'PAULA FABRINI' }
+TextRow { idcliente: 6459, nome: 'DEISE MARA BERTOLINO' }
+TextRow { idcliente: 6460, nome: 'MARCUS VINICIUS RIBERIRO FERNANDES' }
+TextRow { idcliente: 6461, nome: 'CEDI-CENTRO DE ENDOSCOPIA ICARAI' }
+TextRow { idcliente: 6462, nome: 'MULTMED CLINICA DE DIAGNOSE LTDA' }
+TextRow { idcliente: 6463, nome: 'RONALDO VIEIRA E PAIVA' }
+TextRow { idcliente: 6464, nome: 'CEMA HOSPITAL ESPECIALIZADO' }
+TextRow { idcliente: 6465, nome: 'LESSANDRO CURCIO' }
+TextRow { idcliente: 6466, nome: 'FRANCISCO LUIZ OLIVEIRA SALES' }
+TextRow { idcliente: 6467, nome: 'CELSO SATORU KURIKE' }
+TextRow { idcliente: 6468, nome: 'FREDERICO SANTOS DAVID' }
+TextRow { idcliente: 6469, nome: 'MARTULIO NUNES GOMES' }
+TextRow { idcliente: 6470, nome: 'ORTOSPORT CLINICA MEDICA LTDA' }
+TextRow { idcliente: 6471, nome: 'MOTONAGA' }
+TextRow { idcliente: 6472, nome: 'LESSANDRO CURCIO' }
+TextRow { idcliente: 6473, nome: 'LUIZ LAZARO RODRIGUES ALVES' }
+TextRow { idcliente: 6474, nome: 'ALEXANDRE LUIZ DE SOUZA' }
+TextRow { idcliente: 6475, nome: 'GIOVANA PEREIRA NOGUEIRA DA GAMA' }
+TextRow { idcliente: 6476, nome: 'LUCIA DE FATIMA DAVI LEMOS' }
+TextRow { idcliente: 6477, nome: 'MOACYR PINTO DA COSTA' }
+TextRow { idcliente: 6478, nome: 'RAMODNIL DE MOURA SANTOS' }
+TextRow { idcliente: 6479, nome: 'CLINICA RICARDO XAVIER' }
+TextRow { idcliente: 6480, nome: 'NELSON EDUARDO PARIS COLOMBINI' }
+TextRow {
+  idcliente: 6481,
+  nome: 'IMAD - INSTITUTO MEDICO DO APARELHO DIGESTIVO' }
+TextRow { idcliente: 6482, nome: 'CLINICA VIDA VALE' }
+TextRow { idcliente: 6483, nome: 'SANTA HELENA' }
+TextRow { idcliente: 6484, nome: 'IVANNA PINA DEZEN' }
+TextRow { idcliente: 6485, nome: 'CLINICA HOSPITAL SAN FERNANDO' }
+TextRow { idcliente: 6486, nome: 'LEANDRO GUGEL' }
+TextRow { idcliente: 6487, nome: 'CLAUDIO POLO' }
+TextRow { idcliente: 6488, nome: 'IONE RODRIGUES BRUM' }
+TextRow { idcliente: 6489, nome: 'CLINICA BATISTA PEGGY PEMBLE' }
+TextRow { idcliente: 6490, nome: 'CICERO CARDOSO DE SOUZA' }
+TextRow { idcliente: 6491, nome: 'SONIA MARIA COELHO' }
+TextRow { idcliente: 6492, nome: 'GASTROCLINICA GOIANIA LTDA' }
+TextRow { idcliente: 6493, nome: 'FILIPE AZEVEDO E SILVA' }
+TextRow { idcliente: 6494, nome: 'BENEDITO BORGES DE ALMEIDA FILHO' }
+TextRow { idcliente: 6495, nome: 'GASTROCLINICA GOIANIA LTDA' }
+TextRow { idcliente: 6496, nome: 'ELIDE DE JESUS NOGUEIRA GARCIA' }
+TextRow { idcliente: 6498, nome: 'EDSON JUNIOR DE MELO FERNANDES' }
+TextRow { idcliente: 6499, nome: 'MARCELO RODOLFO MARCIANO' }
+TextRow { idcliente: 6500, nome: 'WILSON MOISES OLIVEIRA MARTINS' }
+TextRow { idcliente: 6501, nome: 'FERNANDA BALEEIRO NEVES' }
+TextRow { idcliente: 6502, nome: 'WILLIAM SANTOS' }
+TextRow {
+  idcliente: 6503,
+  nome: 'ENDOTOP - ENDOSCOPIA DIAGNOSTICA E TERAPEUTICA' }
+TextRow { idcliente: 6504, nome: 'JOSUE GOMES C. LEITE' }
+TextRow { idcliente: 6506, nome: 'PATRICIA COSTA BRUM' }
+TextRow { idcliente: 6507, nome: 'ZOROASTRO HENRIQUE DE SANTANA' }
+TextRow { idcliente: 6508, nome: 'MEDIMAGEM' }
+TextRow { idcliente: 6509, nome: 'FABIANA GONCALEZ D\'OTTAVIANO' }
+TextRow { idcliente: 6510, nome: 'MARCUS JOSE DA SILVA BARROS' }
+TextRow { idcliente: 6511, nome: 'JOSE ANTONIO MARTINS' }
+TextRow { idcliente: 6512, nome: 'CLARISSA BARRETO CARVALHO' }
+TextRow { idcliente: 6513, nome: 'ADNAN HADDAD' }
+TextRow { idcliente: 6514, nome: 'PAULO FERNANDO DE CARVALHO' }
+TextRow { idcliente: 6515, nome: 'GETULIO TEIXEIRA E SILVA FILHO' }
+TextRow { idcliente: 6516, nome: 'ARTHUR SANTANA VACARO' }
+TextRow {
+  idcliente: 6517,
+  nome: 'UROGYN-CLINICA MEDICA ESPECIALIZADA LTDA' }
+TextRow { idcliente: 6518, nome: 'PATRICIA COSTA BRUM' }
+TextRow { idcliente: 6519, nome: 'QUALITYMED HOSPITALAR LTDA' }
+TextRow { idcliente: 6520, nome: 'TATIANA VIEGAS RANGEL' }
+TextRow { idcliente: 6521, nome: 'MARCUS TULIO BASSUL HADDAD FILHO' }
+TextRow { idcliente: 6522, nome: 'GUSTAVO FERNANDEZ' }
+TextRow { idcliente: 6524, nome: 'TECNOLAB' }
+TextRow { idcliente: 6572, nome: 'ADRIANO COSTA' }
+TextRow { idcliente: 6573, nome: 'JAIRO COSTA' }
+TextRow { idcliente: 6576, nome: 'MARCOS LAMIM DE MORAES' }
+TextRow { idcliente: 6577, nome: 'ARY BRAGA' }
+TextRow { idcliente: 6580, nome: 'MIGUEL MELENDEZ CORRALES' }
+TextRow { idcliente: 6582, nome: 'PRODUTO NÃƒO REGISTRADO' }
+TextRow { idcliente: 6584, nome: 'EDUARDO ZSCAN SOFTWARE' }
+TextRow { idcliente: 6588, nome: 'PROVISÃ“RIO - CLIENTES' }
+TextRow { idcliente: 6590, nome: 'ANDRE MAURICIO FERRARI BELTRAO' }
+TextRow { idcliente: 6623, nome: 'SANTIAGO PLATA' }
+TextRow { idcliente: 6624, nome: 'SANTIAGO PLATA' }
+TextRow { idcliente: 6639, nome: 'NATALIA BALBI FLORES' }
+TextRow { idcliente: 6642, nome: 'JULIO CESAR DO EGITO' }
+TextRow { idcliente: 6643, nome: 'EDUARDO ZSCAN SOFTWARE' }
+TextRow { idcliente: 6647, nome: 'CLINICA BOCKUS' }
+TextRow { idcliente: 6657, nome: 'EDUARDO MELO' }
+TextRow { idcliente: 6658, nome: 'SANTIAGO' }
+TextRow { idcliente: 6674, nome: 'ZAMIR' }
+TextRow { idcliente: 6675, nome: 'MASSAF' }
+TextRow { idcliente: 6679, nome: 'LUIZ CARLOS ALMEIDA COSTA' }
+TextRow { idcliente: 6680, nome: 'MAYKON ATILA CARVALHO GOMES' }
+TextRow { idcliente: 6681, nome: 'GASTRONEW LTDA' }
+TextRow { idcliente: 6682, nome: 'TECNOLAB' }
+TextRow { idcliente: 6683, nome: 'ZSCAN SOFTWARE TESTE' }
+TextRow { idcliente: 6684, nome: 'ADDSON MATIAS DE LUCENA' }
+TextRow { idcliente: 6685, nome: 'OTOCLINICA' }
+TextRow { idcliente: 6687, nome: 'PEDRO CINTRA' }
+TextRow { idcliente: 6688, nome: 'LUIZ AUGUSTO RICHARD' }
+TextRow { idcliente: 6690, nome: 'MASSAF MEDICAL' }
+TextRow { idcliente: 6691, nome: 'DR. FERES ABRAO' }
+TextRow { idcliente: 6697, nome: 'ADALBERTO NOVAES SILVA' }
+TextRow { idcliente: 6698, nome: 'POLIBIO GUEDES FERREIRA LOPES' }
+TextRow { idcliente: 6699, nome: 'DANIEL PEIXOTO SILVA' }
+TextRow { idcliente: 6700, nome: 'DRA. CELINA GUZMAN' }
+TextRow { idcliente: 6701, nome: 'ADALBERTO CESARIO PEREIRA JUNIOR' }
+TextRow { idcliente: 6702, nome: 'TATIANA TATIM' }
+TextRow { idcliente: 6703, nome: 'HOSPITAL SAN RAFAEL DE ALAJUELA' }
+TextRow { idcliente: 6704, nome: 'ERNANI SOUZA E SILVA JR' }
+TextRow {
+  idcliente: 6705,
+  nome: 'CENTRO DE OTORRINOLARINGOLOGIA DE GUARULHOS' }
+TextRow { idcliente: 6706, nome: 'HU-UFSC' }
+TextRow { idcliente: 6707, nome: 'POLICLINICA SAO MIGUEL' }
+TextRow { idcliente: 6708, nome: 'WLADIMIR SANTOS FERREIRA' }
+TextRow { idcliente: 6709, nome: 'ATTILA DA SILVA COUTO' }
+TextRow { idcliente: 6710, nome: 'SAULYA MATOS' }
+TextRow { idcliente: 6711, nome: 'C.S.S DR. ALNULFO ARIAS MADRID' }
+TextRow { idcliente: 6712, nome: 'C.S.S DR. ALNUNFO ARIAS MADRID' }
+TextRow { idcliente: 6713, nome: 'FUNBRASIL' }
+TextRow { idcliente: 6714, nome: 'EVERALDO MASCARENHAS BARBOSA' }
+TextRow { idcliente: 6715, nome: 'JOAO TELES JR.' }
+TextRow { idcliente: 6716, nome: 'PAULO MACHADO DO COUTO SOARES' }
+TextRow { idcliente: 6717, nome: 'SAMUEL OKORO' }
+TextRow { idcliente: 6718, nome: 'EDIL LOPES' }
+TextRow { idcliente: 6719, nome: 'RODRIGO FRANCISCO PINTEL CRUZ' }
+TextRow { idcliente: 6720, nome: 'RAFAEL PONTES RIBEIRO' }
+TextRow { idcliente: 6721, nome: 'SABAS CARLOS VIEIRA' }
+TextRow { idcliente: 6722, nome: 'JEFERSON SAMPAIO DAVILA' }
+TextRow { idcliente: 6723, nome: 'MARIA ISABEL MARQUES SESA' }
+TextRow { idcliente: 6724, nome: 'MARCOS IGNACIO ALMEIDA DA LUZ' }
+TextRow { idcliente: 6725, nome: 'LUIZ NELSON FONTELES CRUZ' }
+TextRow { idcliente: 6726, nome: 'GISELLE FACHETTI MACHADO' }
+TextRow { idcliente: 6727, nome: 'SILVANA KIRSCHNICK' }
+TextRow {
+  idcliente: 6728,
+  nome: 'PREFEITURA MUNICIPAL DE NOVA ARACA - RS' }
+TextRow { idcliente: 6729, nome: 'RODRIGO SANT\'ANA' }
+TextRow { idcliente: 6730, nome: 'ANALICE DOUTOR INACIO DE BRITO' }
+TextRow { idcliente: 6731, nome: 'MARCELO HERMANN TAVARES VALERIANO' }
+TextRow { idcliente: 6732, nome: 'THADEU ARAUJO GONCALVES VIANA' }
+TextRow { idcliente: 6733, nome: 'DIAGNOSE CERES' }
+TextRow { idcliente: 6734, nome: 'MARCELO VISTOR RIBEIRO SALES' }
+TextRow { idcliente: 6735, nome: 'LEONARDO SARMENTO PIRES DE SA' }
+TextRow { idcliente: 6736, nome: 'MASSAF' }
+TextRow { idcliente: 6737, nome: 'CESAR AUGUSTO FONSECA' }
+TextRow { idcliente: 6738, nome: 'MASSAF' }
+TextRow {
+  idcliente: 6740,
+  nome: 'GASTRO-SERVICE SERV MED DIAG E SIRURGICOS LTDA' }
+TextRow { idcliente: 6741, nome: 'MASSAF' }
+TextRow { idcliente: 6742, nome: 'UGO GUIMARAES FILHO' }
+TextRow { idcliente: 6743, nome: 'ORESTES MAZZARIOL JUNIOR' }
+TextRow { idcliente: 6744, nome: 'INSTITUTO DO RIM DE GOIANIA' }
+TextRow { idcliente: 6745, nome: 'VALDIVINO APARECIDO JUNQUEIRA' }
+TextRow { idcliente: 6746, nome: 'BRUNO FABRICIO AVILA' }
+TextRow { idcliente: 6747, nome: 'BERTOLDO E GIGLIO LTDA' }
+TextRow { idcliente: 6748, nome: 'GENILDA CABRAL DE SOUZA' }
+TextRow { idcliente: 6749, nome: 'MARCELO VIEIRA BARROS DE LIMA' }
+TextRow { idcliente: 6750, nome: 'CLELMA PIRES BATISTA' }
+TextRow { idcliente: 6751, nome: 'CARLOS LUIZ ALBA' }
+TextRow { idcliente: 6752, nome: 'ANDRE ARAUJO DE MEDEIROS DA SILVA' }
+TextRow { idcliente: 6753, nome: 'HOSPITAL SAO BERNARDO S/A' }
+TextRow { idcliente: 6754, nome: 'WALMIR MUNIZ NANTES' }
+TextRow { idcliente: 6755, nome: 'WILLIAM SALESA' }
+TextRow { idcliente: 6756, nome: 'HOSPITAL REGIONAL DE CACERES' }
+TextRow { idcliente: 6757, nome: 'LEONARDO' }
+TextRow { idcliente: 6758, nome: 'FABIO MARTINS GONCALVES' }
+TextRow { idcliente: 6759, nome: 'MUZETTI SILVEIRA & SILVEIRA LTDA' }
+TextRow { idcliente: 6760, nome: 'PREFEITURA MUNICIPAL DE ITARUMA' }
+TextRow {
+  idcliente: 6761,
+  nome: 'SOGASTRO SOCIEDADES DE GASTROENTEROLOGIA LTDA' }
+TextRow { idcliente: 6762, nome: 'ANDRE DOMINGOS PIPPA TOMAZELLA' }
+TextRow { idcliente: 6763, nome: 'JOSE PABLO CORTES N' }
+TextRow { idcliente: 6764, nome: 'PEDRO SIMAO' }
+TextRow { idcliente: 6765, nome: 'NASO CENTRINHO' }
+TextRow { idcliente: 6766, nome: 'ISAAC TAYAH' }
+TextRow {
+  idcliente: 6767,
+  nome: 'SOCIEDADE PARNAIBA DE COMBATE AO CANCER' }
+TextRow { idcliente: 6768, nome: 'FRANCISCO BORGES' }
+TextRow { idcliente: 6769, nome: 'EDUARDO NIGRI' }
+TextRow { idcliente: 6770, nome: 'ADRIANO VANNUCCI' }
+TextRow { idcliente: 6771, nome: 'HRAC-USP' }
+TextRow { idcliente: 6772, nome: 'HENRRY DAVIDOVICH ROOS' }
+TextRow { idcliente: 6773, nome: 'OTORHINUS CLINICA MEDICA S/C LTDA' }
+TextRow {
+  idcliente: 6774,
+  nome: 'WALTER FRANCISCO CINTRA RABELO HOLANDA' }
+TextRow { idcliente: 6775, nome: 'RICHARD CALANCA' }
+TextRow { idcliente: 6776, nome: 'MAURICIO ADAM' }
+TextRow { idcliente: 6777, nome: 'SULINO TEIXEIRA FORTE' }
+TextRow { idcliente: 6778, nome: 'HELMUT WAGNER POTI MORAIS' }
+TextRow { idcliente: 6779, nome: 'REGINA YOSHIE IRIA' }
+TextRow { idcliente: 6780, nome: 'MAURICIO ADAM' }
+TextRow { idcliente: 6781, nome: 'PAULO NAZARENO' }
+TextRow { idcliente: 6782, nome: 'FRANCISCO CARLOS' }
+TextRow { idcliente: 6783, nome: 'FACULDADE DE MEDICINA DO ABC' }
+TextRow { idcliente: 6784, nome: 'REINALDO DE FARIA LIMA' }
+TextRow { idcliente: 6785, nome: 'GEDIAO CESAR SERAPHIM' }
+TextRow { idcliente: 6786, nome: 'MASSAF' }
+TextRow { idcliente: 6787, nome: 'SERGIO BARRICHELLO' }
+TextRow { idcliente: 6788, nome: 'MEDPEJ' }
+TextRow {
+  idcliente: 6789,
+  nome: 'FRANCISCO DE PAULA DE SOUZA LOUREIRO' }
+TextRow { idcliente: 6790, nome: 'PAULO REIS ESSELIN DE MELO' }
+TextRow { idcliente: 6791, nome: 'MAURICIO FERREIRA CARVALHO' }
+TextRow { idcliente: 6792, nome: 'EDSON BRITO MANUEL' }
+TextRow { idcliente: 6793, nome: 'ELOY SIMOES JUNIOR' }
+TextRow {
+  idcliente: 6794,
+  nome: 'CENTRO CLINICO DE GASTROENTEROLOGIA E ENDOSCOPIA' }
+TextRow { idcliente: 6795, nome: 'PEDRO DE ARRUDA FONTES JUNIOR' }
+TextRow { idcliente: 6797, nome: 'ARMELIM UTINO' }
+TextRow { idcliente: 6798, nome: 'CARMEM LUIZA LEITE' }
+TextRow { idcliente: 6799, nome: 'MARCUS TULLIUS FARIA' }
+TextRow { idcliente: 6800, nome: 'FLAVIO MENEZES SANCHES' }
+TextRow { idcliente: 6801, nome: 'PAULO TINOCO' }
+TextRow { idcliente: 6802, nome: 'GUSTAVO HENRIQUE BEZERRA' }
+TextRow { idcliente: 6803, nome: 'JARDIM AMERICA SAUDE LTDA' }
+TextRow { idcliente: 6804, nome: 'MARCUS AURELIO BESSA PAIVA' }
+TextRow { idcliente: 6806, nome: 'LUIZ GUSTAVO TAMEZAVA PITARELO' }
+TextRow { idcliente: 6807, nome: 'ANTHONY A STARPOLI MD' }
+TextRow { idcliente: 6808, nome: 'FABRICIO DOMINICI FERREIRA' }
+TextRow { idcliente: 6809, nome: 'RODRIGO DA SILVA SANTOS' }
+TextRow { idcliente: 6810, nome: 'GUIDO C CARLETTI' }
+TextRow { idcliente: 6811, nome: 'EVANDRO RIBEIRO DE OLIVEIRA' }
+TextRow { idcliente: 6812, nome: 'EDUARDO DE ALBUQUERQUE C FAJARDO' }
+TextRow { idcliente: 6813, nome: 'JUNIA RODRIGUES PEREIRA' }
+TextRow { idcliente: 6814, nome: 'JOSE LUIS DO AMARAL' }
+TextRow { idcliente: 6815, nome: 'SKOPIA ENDOSCOPIA E CIRURGIA LTDA' }
+TextRow { idcliente: 6816, nome: 'ALBERTO IORIO ARRUZZO' }
+TextRow { idcliente: 6817, nome: 'CARLOS MENENDEZ VELADO' }
+TextRow { idcliente: 6818, nome: 'ALSEMAR DA SILVA ALMEIDA' }
+TextRow { idcliente: 6819, nome: 'SARUZA SILVA FEREIRA DA COSTA' }
+TextRow { idcliente: 6820, nome: 'GILDENOR DE SOUZA A. CAVALCANTE' }
+TextRow { idcliente: 6821, nome: 'PEDRO IVO BASTOS PEREIRA' }
+TextRow { idcliente: 6822, nome: 'EDWARD MARCA OLIVEIRA' }
+TextRow { idcliente: 6823, nome: 'CLINICA ABE' }
+TextRow { idcliente: 6824, nome: 'ADALBERTO PANKO' }
+TextRow { idcliente: 6825, nome: 'VALDIR JUNQUEIRA' }
+TextRow { idcliente: 6826, nome: 'GEORGE ALVES BRITO' }
+TextRow { idcliente: 6827, nome: 'SANDRA DE ANDRADE GOUVEIA' }
+TextRow { idcliente: 6828, nome: 'SPEEDSERVICE' }
+TextRow { idcliente: 6829, nome: 'JOSUE GOMES SIRQUEIRA LEITE' }
+TextRow { idcliente: 6830, nome: 'AMARANTE DIAGNOSTICOS' }
+TextRow { idcliente: 6831, nome: 'FERNANDA FROSSARD' }
+TextRow { idcliente: 6832, nome: 'DR. GERSON VICENTE SANTOS' }
+TextRow { idcliente: 6833, nome: 'HONORIO SAKAYA' }
+TextRow { idcliente: 6834, nome: 'CELSO DE PAIVA MELO' }
+TextRow { idcliente: 6835, nome: 'MARCILIO SEVERINO DA SILVA' }
+TextRow { idcliente: 6836, nome: 'ONCO DIGESTIVA' }
+TextRow { idcliente: 6837, nome: 'CELSO RIBEIRO FERREIRA' }
+TextRow { idcliente: 6838, nome: 'FERNANDO ZARONI' }
+TextRow { idcliente: 6839, nome: 'MARCIO ALEXANDRE TERRA PASSOS' }
+TextRow { idcliente: 6840, nome: 'MR EQUIPAMENTOS MEDICOS LTDA' }
+TextRow { idcliente: 6841, nome: 'SKOPIA ENDOSCOPIA E CIRURGIA LTDA' }
+TextRow { idcliente: 6842, nome: 'UPAE PETROLINA' }
+TextRow { idcliente: 6843, nome: 'MARCOS VINICIUS UHEBE' }
+TextRow { idcliente: 6844, nome: 'GUSTAVO ANDRADE FRAGA' }
+TextRow { idcliente: 6845, nome: 'LUIZ HENRIQUE MAZZONETTO MESTIERI' }
+TextRow { idcliente: 6846, nome: 'CLINICA SAUDE & VIDA' }
+TextRow { idcliente: 6847, nome: 'GIOVANNA PARRA GIL' }
+TextRow { idcliente: 6848, nome: 'LAURO HENRIQUE BARTOLINI ALVES' }
+TextRow { idcliente: 6849, nome: 'ITAMAR AUGUSTO NONATO DE OLIVEIRA' }
+TextRow { idcliente: 6850, nome: 'ENILTON MONTEIRO MACHADO' }
+TextRow { idcliente: 6851, nome: 'ITAMAR AUGUSTO NONATO DE OLIVEIRA' }
+TextRow { idcliente: 6852, nome: 'ASTULIO INACIO COSTA' }
+TextRow { idcliente: 6853, nome: 'ELIZANGELA RODRIGUES DE OLIVEIRA' }
+TextRow { idcliente: 6854, nome: 'RAFAEL MARTINS DA COSTA' }
+TextRow { idcliente: 6855, nome: 'RAFAEL SIMIONATO SUSIN' }
+TextRow { idcliente: 6856, nome: 'CALIXTO ABRAO NETO' }
+TextRow { idcliente: 6857, nome: 'WILLIAM CESAR BENTO' }
+TextRow { idcliente: 6858, nome: 'FABIANA AMARAL DE SOUZA' }
+TextRow { idcliente: 6859, nome: 'JOAO MARCOS REZENDE MENDES' }
+TextRow { idcliente: 6860, nome: 'RUBINALDO ARAGAO DOS SANTOS' }
+TextRow { idcliente: 6861, nome: 'CLAUDIA REGINA RIBEIRO BERNARDES' }
+TextRow { idcliente: 6862, nome: 'EVANDRO MIRANDA COELHO JUNIOR' }
+TextRow { idcliente: 6863, nome: 'FERNANDO RAMALHO GUANABARA ARAUJO' }
+TextRow { idcliente: 6864, nome: 'EVANDRO MIRANDA COELHO JUNIOR' }
+TextRow { idcliente: 6865, nome: 'JOSE NILTON MOTA SIMOES' }
+TextRow { idcliente: 6866, nome: 'RONALDO FARIAS GUIMARAES' }
+TextRow { idcliente: 6867, nome: 'JOSE LAMARTENE PEREIRA DA COSTA' }
+TextRow { idcliente: 6868, nome: 'EURIPEDES DE OLIVEIRA MARINHO' }
+TextRow { idcliente: 6869, nome: 'WELINGTON ALBERTO BALLA' }
+TextRow { idcliente: 6870, nome: 'DANIELE MEMORIA RIBEIRO FERREIRA' }
+TextRow { idcliente: 6871, nome: 'CENTRO DE CIRURGIA DIGESTIVA DO DF' }
+TextRow { idcliente: 6878, nome: 'CALEBE MARQUES / HOSP. SÃ£O PAULO' }
+TextRow { idcliente: 6880, nome: 'JOSE OLIVEIRA CAVALCANTE' }
+TextRow { idcliente: 6884, nome: 'JOSE ALVES DE OLIVEIRA' }
+TextRow { idcliente: 6886, nome: 'JOSE AFONSO DA COSTA MONTEIRO' }
+TextRow { idcliente: 6887, nome: 'HOSPITAL UNIVESITARIO' }
+TextRow {
+  idcliente: 6888,
+  nome: 'EDNA DELABIO FERRAZ / HOSPITAL UNIVERSITARIO DA UFRJ' }
+TextRow { idcliente: 6889, nome: 'IDRIE FELIPE FARES' }
+TextRow { idcliente: 6890, nome: 'JULIANA RODRIGUES ZANATTA' }
+TextRow { idcliente: 6891, nome: 'ULYSES ARAUJO LIMA' }
+TextRow {
+  idcliente: 6892,
+  nome: 'CENTRO AVANÃ§ADO DE ENDOSCOPIA GINECOLOGICA LTDA' }
+TextRow {
+  idcliente: 6893,
+  nome: 'DIALINA DA CONCEICAO MARTINS MACHADO' }
+TextRow { idcliente: 6894, nome: 'ALEXANDRE OLIVEIRA' }
+TextRow {
+  idcliente: 6895,
+  nome: 'ANDREA KARINA SANTANA FONTES MENEZES' }
+TextRow { idcliente: 6896, nome: 'ERICO LUSTOZA FERREIRA' }
+TextRow { idcliente: 6897, nome: 'CENTRO MEDICO JOSE EURONILDES LTDA.' }
+TextRow {
+  idcliente: 6898,
+  nome: 'ANA LORENA MADRIGAL MENDEZ / CLÃ­NICA NICOYANA' }
+TextRow { idcliente: 6899, nome: 'SERGIO GODOY RODRIGUES' }
+TextRow {
+  idcliente: 6900,
+  nome: 'AMBULATORIO MEDICO DE ESPECIALIDADES AME PROMISSÃ£O / SANTA CASA DE MI' }
+TextRow { idcliente: 6906, nome: 'CLINICA ENDOGASTRO SC LTDA' }
+TextRow { idcliente: 6914, nome: 'EDSON PORTELA SILVA' }
+TextRow { idcliente: 6915, nome: 'ROBERTO ROSENSTEIN JUNIOR' }
+TextRow { idcliente: 6916, nome: 'CLEIDSON' }
+TextRow { idcliente: 6921, nome: 'IGECAD ' }
+TextRow { idcliente: 6922, nome: 'IGECAD ' }
+TextRow { idcliente: 6924, nome: 'OTORRINO FISIOCENTER LTDA' }
+TextRow { idcliente: 6925, nome: 'ZMED MULTIVIDEO' }
+TextRow { idcliente: 6926, nome: 'ELENICE DA SILVA TAGLIETA' }
+TextRow { idcliente: 6927, nome: 'CENTRO MEDICO ELDORADO' }
+TextRow { idcliente: 6929, nome: 'GEORGE BONIFACIO CAVALCANTI' }
+TextRow { idcliente: 6930, nome: 'RUI IMAMURA' }
+TextRow {
+  idcliente: 6931,
+  nome: 'SILVIO GERALDO GUIMARAES DE OLIVEIRA' }
+TextRow { idcliente: 6932, nome: 'MIGUEL NEVES DA SILVA NETO' }
+TextRow {
+  idcliente: 6933,
+  nome: 'IGC INSTITUTO DE GASTROENTEROLOGIA E CIRURGIA' }
+TextRow { idcliente: 6935, nome: 'PAULO NAZARENO SOARES ROSA' }
+TextRow { idcliente: 6936, nome: 'MARCOS TINOCO DE OLIVEIRA' }
+TextRow { idcliente: 6938, nome: 'FRANCISCO REALES NAVARRO' }
+TextRow { idcliente: 6939, nome: 'HUGO ANTONIELLI BRAGA' }
+TextRow { idcliente: 6941, nome: 'FERNANDA BALEEIRO NEVES' }
+TextRow { idcliente: 6942, nome: 'ORSON NORIO TAKEMOTO' }
+TextRow {
+  idcliente: 6944,
+  nome: 'CENTRO AVANCADO DE OTORRINOLARINGOLOGIA E INSTUTO DO SONO' }
+TextRow { idcliente: 6945, nome: 'FRANCISCO AQUINO NASCIMENTO' }
+TextRow { idcliente: 6946, nome: 'FABIO ALVES DA SILVA' }
+TextRow { idcliente: 6947, nome: 'ENGERS, REIS E SOUTO LTDA' }
+TextRow { idcliente: 6948, nome: 'HOSPITAL EVANGELICO DE IPORA' }
+TextRow { idcliente: 6950, nome: 'CONSULTORIO MEDICO ODONTOLOGICO' }
+TextRow { idcliente: 6952, nome: 'ALBENIZ MARTINS E SILVA' }
+TextRow { idcliente: 6956, nome: 'HOSPITAL ANCHIETA' }
+TextRow { idcliente: 6958, nome: 'ALBENIZ MARTINS E SILVA' }
+TextRow { idcliente: 6961, nome: 'ALBENIZ MARTINS E SILVA' }
+TextRow { idcliente: 6962, nome: 'UNIVERSIDADE DO ESTADO DE SC' }
+TextRow { idcliente: 6964, nome: 'RENATO MARINHO CORREA' }
+TextRow { idcliente: 6966, nome: 'CARLOS MAGNO MEDEIROS' }
+TextRow { idcliente: 6969, nome: 'RITA DE CASSIA OLIVEIRA BERRIEL' }
+TextRow { idcliente: 6970, nome: 'ROBERTO LUIZ KAISER JUNIOR' }
+TextRow { idcliente: 6971, nome: 'JOSE MARIA SOARES JUNIOR' }
+TextRow { idcliente: 6973, nome: 'KATIA SANDRA OLIVEIRA AQUINO' }
+TextRow { idcliente: 6974, nome: 'JOAO PAULO TADEU ALVES PRRA' }
+TextRow { idcliente: 6975, nome: 'GUSTAVO HIDEO TANAKA' }
+TextRow { idcliente: 6977, nome: 'AUDIOCLINICA DO RIO DE JANEIRO' }
+TextRow { idcliente: 6979, nome: 'RICARDO CEZAR TRABUCO DOREA' }
+TextRow { idcliente: 6980, nome: 'ANA PAULA VIEIRA MARTINS' }
+TextRow {
+  idcliente: 6982,
+  nome: 'IRMANDADE DE MISERICORDIA DE GUAXUPE' }
+TextRow { idcliente: 6985, nome: 'WILLIAM BACHEGA' }
+TextRow { idcliente: 6987, nome: 'SERGIO HENRIQUE LOPES MARQUES' }
+TextRow { idcliente: 6988, nome: 'FIRMINO RIBEIRO DOS SANTOS NETO' }
+TextRow { idcliente: 6989, nome: 'ADRIANO SERGIO FREIRE MEIRA' }
+TextRow { idcliente: 6990, nome: 'JOSE CLEIDSON FROTA SILVA' }
+TextRow { idcliente: 6993, nome: 'ADRIANO SERGIO FREIRE MEIRA' }
+TextRow { idcliente: 6994, nome: 'LUIZ NELSON FONTELES CRUZ' }
+TextRow {
+  idcliente: 6995,
+  nome: 'VIDEO GASTRO CLINICA   CELIO JOSE PANSERA' }
+TextRow { idcliente: 6996, nome: 'CLINICA BOCKUS' }
+TextRow { idcliente: 6998, nome: 'SULINO TEIXEIRA FORTE' }
+TextRow { idcliente: 6999, nome: 'HERQUIMAS PEREIRA' }
+TextRow { idcliente: 7000, nome: 'ALDO ROSA DA CRUZ' }
+TextRow {
+  idcliente: 7001,
+  nome: 'LUANA PAREDES LEITE DE BARROS PEREIRA' }
+TextRow { idcliente: 7002, nome: 'JAMES KLEBER LOPES PINHEIRO' }
+TextRow {
+  idcliente: 7007,
+  nome: 'INSTITUTO DE MEDICINA INTERNA E MATERNO INFANTIL' }
+TextRow { idcliente: 7008, nome: 'THALITA AZEVEDO FRACALOSSI' }
+TextRow { idcliente: 7010, nome: 'MASSAF MEDICAL' }
+TextRow { idcliente: 7011, nome: 'TAIANA MESSIAS MIRADA ' }
+TextRow {
+  idcliente: 7015,
+  nome: 'ASS. ADV. HOSPITAL ADVENTISTA DE BELEM' }
+TextRow { idcliente: 7016, nome: 'MARCELO VARGAS ARDENGHI' }
+TextRow { idcliente: 7019, nome: 'TARCISIO CARNEIRO DA COSTA' }
+TextRow { idcliente: 7020, nome: 'FLAVIO MAURICIO KOWALSKI' }
+TextRow { idcliente: 7023, nome: 'OSCAR BARROZO MARRA' }
+TextRow { idcliente: 7025, nome: 'UNIMED DE PIRASSUNUNGA' }
+TextRow { idcliente: 7028, nome: 'MASSAF MEDICAL' }
+TextRow { idcliente: 7029, nome: 'MASSAF MEDICAL' }
+TextRow { idcliente: 7030, nome: 'MASSAF MEDICAL' }
+TextRow { idcliente: 7031, nome: 'SANTIAGO ' }
+TextRow { idcliente: 7032, nome: 'HENRI CESAR CASTANHEIRA' }
+TextRow { idcliente: 7033, nome: 'MAURICIO FERREIRA CARVALHO' }
+TextRow {
+  idcliente: 7036,
+  nome: 'ANATOMO PATOLOGISTAS ASSOCIADOS SS LTDA' }
+TextRow { idcliente: 7038, nome: 'RENATA MIZUSAKI IYOMASA' }
+TextRow { idcliente: 7039, nome: 'FUNDACAO ABILIO ALVES MARQUES' }
+TextRow { idcliente: 7040, nome: 'RODRIGO SANTANA' }
+TextRow { idcliente: 7041, nome: 'DEISE LUCIA MARQUES DOS SANTOS' }
+TextRow { idcliente: 7042, nome: 'GUSTAVO HENRIQUE DE SOUZA BEZERRA' }
+TextRow { idcliente: 7044, nome: 'MASSAF MEDICAL' }
+TextRow { idcliente: 7045, nome: 'ZSCAN CURSO CCDO' }
+TextRow { idcliente: 7046, nome: 'DINALVA BARROS' }
+TextRow { idcliente: 7048, nome: 'ELOY ANDERSON MENDES' }
+TextRow { idcliente: 7049, nome: 'EGILMÃ¡RIO SILVA BEZERRA' }
+TextRow { idcliente: 7050, nome: 'DR. LUIZ UBIRAJARA SENNES' }
+TextRow { idcliente: 7052, nome: 'OBESIGASTRO' }
+TextRow { idcliente: 7053, nome: 'TATIANA LUZ ROCHA' }
+TextRow { idcliente: 7058, nome: 'EDUARDO HENRIQUE DA FONSECA ' }
+TextRow { idcliente: 7059, nome: 'JOELMA CAVALCANTE MARTINS' }
+TextRow { idcliente: 7061, nome: 'ROGERIA TEIXEIRA COELHO' }
+TextRow { idcliente: 7065, nome: 'GASTRO E FIGADO SERVICOS MEDICOS' }
+TextRow { idcliente: 7066, nome: 'GABRIELLE DO NASCIMENTO HOLANDA' }
+TextRow { idcliente: 7069, nome: 'CLINICA OTODIAGNOSTICOS' }
+TextRow { idcliente: 7070, nome: 'PEREIRA COELHO & LIRA LTDA' }
+TextRow { idcliente: 7072, nome: 'ZMED' }
+TextRow { idcliente: 7074, nome: 'EDSON LUIZ MIYAHIRA' }
+TextRow { idcliente: 7075, nome: 'ANTONIO GOMES LIMA JUNIOR' }
+TextRow { idcliente: 7077, nome: 'ERIK DE FREITAS FORTES BUSTAMANTE' }
+TextRow { idcliente: 7078, nome: 'DENISE MORETH SANTANA' }
+TextRow { idcliente: 7081, nome: 'MARIA FELISMINA' }
+TextRow { idcliente: 7082, nome: 'CLINICA GASTRO PROCTO' }
+TextRow { idcliente: 7083, nome: 'ANTONIO ABEL PAUPERIO' }
+TextRow { idcliente: 7085, nome: 'CARLOS EDUARDO VASCONCELOS DA SILVA' }
+TextRow { idcliente: 7087, nome: 'GIL NEY ELOI STABELINI' }
+TextRow { idcliente: 7089, nome: 'LUIZ CARLOS DE ALVARENGA JR' }
+TextRow { idcliente: 7090, nome: 'WALERIA MARIA CASE DE LIMA' }
+TextRow { idcliente: 7092, nome: 'RODRIGO DE PADUA SAFATLE SOARES' }
+TextRow { idcliente: 7098, nome: 'CENTRO MEDICO DE JACOBINA' }
+TextRow {
+  idcliente: 7099,
+  nome: 'DIAGNOSTIKA ENDOSCOPIA RADIOLOGIA LTDA' }
+TextRow { idcliente: 7100, nome: 'FRANCISCO ROMANO' }
+TextRow { idcliente: 7101, nome: 'DUNIT TEST CLIENT' }
+TextRow { idcliente: 7104, nome: 'ILCA MARIA ALVES' }
+TextRow { idcliente: 7106, nome: 'CLEIDSON VM-WARE' }
+TextRow { idcliente: 7107, nome: 'CLINICA GASTRO MEDICAL LTDA' }
+TextRow { idcliente: 7109, nome: 'AURELIO BATISTA PEREIRA' }
+TextRow { idcliente: 7112, nome: 'HOSPITAL ANCHIETA' }
+TextRow { idcliente: 7113, nome: 'HIGOR MACHADO BEZERRA' }
+TextRow { idcliente: 7115, nome: 'AURELIO BATISTA PEREIRA' }
+TextRow { idcliente: 7116, nome: 'JORGE ROBERTO DOS REIS SGUAREZI' }
+TextRow { idcliente: 7118, nome: 'MASSAF' }
+TextRow { idcliente: 7119, nome: 'VLADIMIR MEIRELES FILHO' }
+TextRow { idcliente: 7120, nome: 'GLEYDSON B NOBRE' }
+TextRow { idcliente: 7121, nome: 'LILIANA MARTINEZ SANCHEZ' }
+TextRow { idcliente: 7123, nome: 'EMANUELLA COSTA DA ROCHA' }
+TextRow { idcliente: 7124, nome: 'TALVANE HORTEGAL' }
+TextRow { idcliente: 7128, nome: 'PAULO SERGIO ALVES DE ARAUJO' }
+TextRow { idcliente: 7129, nome: 'FRANCISCO GOMES DA SILVA' }
+TextRow { idcliente: 7132, nome: 'LUCIANO OKAWA' }
+TextRow {
+  idcliente: 7133,
+  nome: 'CCSS - HOSPITAL SAN FRANCISCO DE ASIS' }
+TextRow {
+  idcliente: 7136,
+  nome: 'ENDOGERAIS EQUIPAMENTOS MEDICOS LTDA' }
+TextRow { idcliente: 7137, nome: 'HOSPITAL SAN FRANCISCO DE ASIS' }
+TextRow { idcliente: 7139, nome: 'DANIEL DELGADO FREIRE' }
+TextRow { idcliente: 7141, nome: 'ADEMAR DEVENS' }
+TextRow { idcliente: 7144, nome: 'CLINICA ANDROS' }
+TextRow { idcliente: 7150, nome: 'BRUNO MORAES TORRES' }
+TextRow { idcliente: 7153, nome: 'ISAAC TAYAH' }
+TextRow { idcliente: 7154, nome: 'RENATO LOVATO MELO' }
+TextRow {
+  idcliente: 7155,
+  nome: 'INSTITUTO DE COLOPROCTOLOGIA DE GOIANIA LTDA' }
+TextRow { idcliente: 7157, nome: 'SIMTEC' }
+TextRow { idcliente: 7159, nome: 'FERNANDO FALAVIGNA' }
+TextRow { idcliente: 7161, nome: 'ZSCAN SOFTWARE' }
+TextRow { idcliente: 7165, nome: 'BRUNO FABRICIO AVILA PINHEIRO' }
+TextRow { idcliente: 7169, nome: 'FRANCISCO ALVES ARANTES' }
+TextRow {
+  idcliente: 7176,
+  nome: 'BRASIL MEMORIAL EMPREENDIMENTOS E PARTICIPACOES S/A' }
+TextRow { idcliente: 7177, nome: 'SAO LUIS GASTROCENTRO LTDA' }
+TextRow { idcliente: 7178, nome: 'MASSAF' }
+TextRow { idcliente: 7179, nome: 'MARCELO MACEDO MARTINS NETO' }
+TextRow { idcliente: 7181, nome: 'SERGIO A. BARRICHELLO JR' }
+TextRow { idcliente: 7182, nome: 'RAFAEL SEABRA SILVA CUNHA' }
+TextRow { idcliente: 7185, nome: 'DIAGNOSTIKA' }
+TextRow {
+  idcliente: 7186,
+  nome: 'CLINICA OTOLIFE SERVICOS MEDICOS LTDA' }
+TextRow { idcliente: 7188, nome: 'JOAO PAULO DE SOUZA' }
+TextRow { idcliente: 7189, nome: 'GASTROSAOLUIS' }
+TextRow { idcliente: 7190, nome: 'JAIRO ZMED' }
+TextRow { idcliente: 7192, nome: 'ANTONIO CELSO MORAES' }
+TextRow { idcliente: 7193, nome: 'ANDREZA REGINA DE BRITO' }
+TextRow { idcliente: 7194, nome: 'RENALDO JOSE PIMENTA' }
+TextRow { idcliente: 7195, nome: 'VICTOR PEREIRA FRANCO' }
+TextRow { idcliente: 7196, nome: 'JOAO LEONARDO DINIZ LOPES' }
+TextRow { idcliente: 7199, nome: 'CARLOS ORTIZ CASTRO' }
+TextRow { idcliente: 7200, nome: 'O E G SERVICOS MEDICOS' }
+TextRow { idcliente: 7202, nome: 'SAUDE FRAIBURGO' }
+TextRow { idcliente: 7203, nome: 'EDUARDO VIRTUAL MACHINE' }
+TextRow {
+  idcliente: 7204,
+  nome: 'CENTRO DE VIDEO-ENDOSCOPIA SAO PAULO' }
+TextRow { idcliente: 7205, nome: 'MARIA CLARA RIOS' }
+TextRow { idcliente: 7207, nome: 'CLINICA CENTRAL LTDA' }
+TextRow {
+  idcliente: 7208,
+  nome: 'CLINAD-CLINICA DO APARELHO DIGESTIVO' }
+TextRow { idcliente: 7213, nome: 'SANDRO MACHADO MENDONCA' }
+TextRow { idcliente: 7214, nome: 'CLINICA POPULAR CATARINA PORTO' }
+TextRow { idcliente: 7216, nome: 'APICE HOSPITAL DIA' }
+TextRow { idcliente: 7217, nome: 'CLEIDSON TESTE 01' }
+TextRow { idcliente: 7218, nome: 'CLEIDSON TESTE 02' }
+TextRow { idcliente: 7219, nome: 'RONALDO CAMPANHA WANDERLEY JUNIOR' }
+TextRow { idcliente: 7222, nome: 'DR. ENRICO DI VAIO' }
+TextRow { idcliente: 7223, nome: 'CLINICA INFANTIL DE CERES' }
+TextRow { idcliente: 7224, nome: 'CLEIDSON 6' }
+TextRow { idcliente: 7227, nome: 'GLAUCO VALERIO LADEIRA DOS SANTOS' }
+TextRow { idcliente: 7230, nome: 'CLINEL' }
+TextRow { idcliente: 7231, nome: 'LUIZ HENRIQUE MAZZONETTO MESTIERI' }
+TextRow { idcliente: 7232, nome: 'ROBERTO NICOLA FRATARI' }
+TextRow { idcliente: 7234, nome: 'JEAN CARLOS' }
+TextRow { idcliente: 7235, nome: 'HOSPITAL UNIVERSITARIO OSWALDO CRUZ' }
+TextRow { idcliente: 7236, nome: 'ELIANE ALVES DE LIMA' }
+TextRow {
+  idcliente: 7237,
+  nome: 'CASA DE SAUDE E MATERNIDADE TEREZINHA DE JESUS' }
+TextRow { idcliente: 7238, nome: 'ORTOSPORT CLINICA MEDICA LTDA' }
+TextRow { idcliente: 7241, nome: 'ELZA CARVALHO SANT ANA DE ALMEIDA' }
+TextRow { idcliente: 7243, nome: 'MUNICIPIO DE COREMAS ' }
+TextRow { idcliente: 7244, nome: 'JORGE FABRICIO MANSOUR' }
+TextRow { idcliente: 7245, nome: 'ALEX CURI' }
+TextRow { idcliente: 7246, nome: 'SERGIO LUIS - ESTRELA HOSPITALAR' }
+TextRow { idcliente: 7247, nome: 'FERNANDO PEREIRA DA SILVA' }
+TextRow { idcliente: 7248, nome: 'HERQUIMAS PEREIRA' }
+TextRow { idcliente: 7249, nome: 'HEDILA N PAIVA MENDES' }
+TextRow {
+  idcliente: 7250,
+  nome: 'CEVESP CENTRO DE VIDEO ENDOSCOPIA SAO PAULO' }
+TextRow { idcliente: 7252, nome: 'EUGENIO SAMPAIO DE BARROS' }
+TextRow { idcliente: 7253, nome: 'ROGERIO SANTOS' }
+TextRow { idcliente: 7254, nome: 'MARCOS MACEDO MARTINS NETO' }
+TextRow { idcliente: 7255, nome: 'JANIO DE OLIVEIRA MENDES' }
+TextRow { idcliente: 7256, nome: 'WILMAR JUNIO PEREIRA ARAUJO' }
+TextRow { idcliente: 7257, nome: 'PAULA CRISTINA NOGUEIRA' }
+TextRow { idcliente: 7258, nome: 'MIAMI - ZSCAN SOFTWARE ' }
+TextRow { idcliente: 7259, nome: 'RODRIGO VELASQUEZ' }
+TextRow { idcliente: 7260, nome: 'CLINICA MEDICA UNICORPUS' }
+TextRow { idcliente: 7261, nome: 'JOAO SERAFIM DA CRUZ NETO' }
+TextRow {
+  idcliente: 7262,
+  nome: 'GASTROENTEROLOGIA ALVARADO Y NUNEZ SA' }
+TextRow { idcliente: 7263, nome: 'DR. RICARDO SUENAGA' }
+TextRow {
+  idcliente: 7264,
+  nome: 'MULTICLINICA CLINICA MED DIAGNOSE LTDA' }
+TextRow { idcliente: 7265, nome: 'EDUARDO ZSCAN' }
+TextRow { idcliente: 7266, nome: 'JORGE MELO' }
+TextRow {
+  idcliente: 7267,
+  nome: 'JOSE CLAUDIO ARAUJO FONTENELE JUNNIOR' }
+TextRow {
+  idcliente: 7268,
+  nome: 'ANDREA KARINA SANTANA FONTES MENEZES' }
+TextRow { idcliente: 7269, nome: 'DANILO BORGES NOGUEIRA' }
+TextRow { idcliente: 7271, nome: 'HOSPITAL FEDERAL DA LAGOA' }
+TextRow {
+  idcliente: 7272,
+  nome: 'INSTITUTO DE GASTROENTEREOLOGIA DE TAGUATINGA' }
+TextRow {
+  idcliente: 7273,
+  nome: 'CENTRO ESPECIALIZADO DE CIRURGIA DE CABECA E PESCOCO' }
+TextRow { idcliente: 7275, nome: 'MARCELO ZSCAN' }
+TextRow { idcliente: 7276, nome: 'JEAN CARLOS' }
+TextRow { idcliente: 7277, nome: 'JOAO ALVES DE ALBUQUERQUE FILHO' }
+TextRow { idcliente: 7278, nome: 'UNIMAGEM LTDA' }
+TextRow {
+  idcliente: 7279,
+  nome: 'DOPPLER ECO-SOM DIAGNOSTICO POR IMAGEM LTDA-ME' }
+TextRow { idcliente: 7280, nome: 'BENEDITO BORGES DE ALMEIDA FILHO' }
+TextRow { idcliente: 7281, nome: 'VIRTUAL 5' }
+TextRow { idcliente: 7283, nome: 'CENTRO DE ENDOSCOPIA DIG. SC. S/S' }
+TextRow {
+  idcliente: 7284,
+  nome: 'FUND INST DE MOLESTIAS DO APARELHO DIGESTIVO E DA NUTRICAO' }
+TextRow { idcliente: 7285, nome: 'MARCELO MACEDO MARTINS NETO' }
+TextRow { idcliente: 7286, nome: 'FERNANDA SILVEIRA CHRISPIM' }
+TextRow { idcliente: 7287, nome: 'UNIENDO - ENDOSCOPIA DIGESTIVA ' }
+TextRow { idcliente: 7288, nome: 'LAUANGEL VIEIRA FREZZA' }
+TextRow { idcliente: 7289, nome: 'ROSANA MOREIRA BORGUEZ' }
+TextRow { idcliente: 7290, nome: 'CENTRO DE DIAGNOSTICO E CIRURGIA' }
+TextRow { idcliente: 7291, nome: 'PRIMORDIA MEDICINA REPRODUTIVA' }
+TextRow { idcliente: 7292, nome: 'THAIS VINHAL COSTA' }
+TextRow {
+  idcliente: 7293,
+  nome: 'SORAYA ADRIANA GALVAO TEIXEIRA ALVES' }
+TextRow { idcliente: 7294, nome: 'JOSE GERALDO SILVA' }
+TextRow { idcliente: 7295, nome: 'ZIONTECH PROJETOS ' }
+TextRow { idcliente: 7296, nome: 'RICARDO GUSMAO MOURA' }
+TextRow { idcliente: 7297, nome: 'SERGIO RICARDO BRAGA DE RESENDE' }
+TextRow { idcliente: 7298, nome: 'ADEILDO JOSE FERREIRA DA SILVA' }
+TextRow { idcliente: 7299, nome: 'PAULO ANTONIO BORGES HOMEM' }
+TextRow { idcliente: 7300, nome: 'MARAPENDI SERVICOS MEDICOS' }
+TextRow { idcliente: 7301, nome: 'ALINE JORGE GALLEGO' }
+TextRow { idcliente: 7302, nome: 'GERONIMO MANOEL DA SILVA' }
+TextRow { idcliente: 7303, nome: 'PROJETOS.COM E SERVICOS LTDA' }
+TextRow {
+  idcliente: 7304,
+  nome: 'SPDM - HOSPITAL MUNICIPAL DR. JOSE DE CARVALHO FLORENCE' }
+TextRow {
+  idcliente: 7305,
+  nome: 'FRANCISCO DE OLIVEIRA LIMA FILHO CONSULTORIO' }
+TextRow { idcliente: 7306, nome: 'ERICO DJAN CORTE DE ALENCAR' }
+TextRow { idcliente: 7307, nome: 'RAQUEL SIQUEIRA DA PENHA' }
+TextRow {
+  idcliente: 7308,
+  nome: 'ANDREA KARINA SANTANA FONTES MENEZES' }
+TextRow { idcliente: 7309, nome: 'WANDER ICASSATTI  MASCARENHAS' }
+TextRow { idcliente: 7310, nome: 'AUREO COLOMBI CANGUSSU' }
+TextRow { idcliente: 7311, nome: 'ADOLFO LIMA DE SOUSA ARAUJO' }
+TextRow { idcliente: 7312, nome: 'FREDERICO PRATES CORREA DA COSTA' }
+TextRow { idcliente: 7313, nome: 'WILSON NEVIS CALAZANS' }
+TextRow { idcliente: 7314, nome: 'HOSPITAL SAN RAFAEL DE ALAJUELA' }
+TextRow { idcliente: 7315, nome: 'MARCELO SERGIO DE ARAUJO BARROS' }
+TextRow { idcliente: 7316, nome: 'PEDRO CEZAR DE ASSUNCAO GONZALES' }
+TextRow { idcliente: 7317, nome: 'MARIA ANGELICA MAIA GAIOTTO' }
+TextRow { idcliente: 7318, nome: 'MARCO AURELIO DE ASSIS' }
+TextRow { idcliente: 7319, nome: 'BRUNA SCHWAN GUERINI' }
+TextRow { idcliente: 7320, nome: 'HOSPTAL SAN RAFAEL DE ALAJUELA' }
+TextRow {
+  idcliente: 7321,
+  nome: 'AURORA DIAGNOSTICO - OUVIDO NARIZ GARGANTA S/C LTDA' }
+TextRow { idcliente: 7322, nome: 'CELSO ABRAO DOMINGOS NAME JUNIOR' }
+TextRow { idcliente: 7323, nome: 'RICARDO CORUJEIRA' }
+TextRow { idcliente: 7324, nome: 'SAO LUIS GASTROCENTRO' }
+TextRow { idcliente: 7325, nome: 'MARIA CACIA RAIMUNDA SILVA ROCHA' }
+TextRow { idcliente: 7326, nome: 'RENATA GONTIJO AMIL' }
+TextRow { idcliente: 7327, nome: 'ALEX CURI' }
+TextRow { idcliente: 7328, nome: 'JOSUE GOMES C. LEITE' }
+TextRow { idcliente: 7329, nome: 'ALEXANDRE FRIEDRICH POSSER' }
+TextRow { idcliente: 7330, nome: 'DILSON RIBEIRO DE ALMEIDA' }
+TextRow { idcliente: 7332, nome: 'MARCUS ANTONIO BARBOSA PEIXOTO LTDA' }
+TextRow {
+  idcliente: 7333,
+  nome: 'HOSPITAL MUNICIPAL JOAO ELISIO DE HOLANDA' }
+TextRow { idcliente: 7334, nome: 'ADALBERTO CESARIO PEREIRA JR' }
+TextRow { idcliente: 7335, nome: 'ROMULO PEREIRA MAIA' }
+TextRow { idcliente: 7336, nome: 'ADYR JSE SUZIN' }
+TextRow { idcliente: 7337, nome: 'ROSEMARY SCHMIDT' }
+TextRow { idcliente: 7338, nome: 'PAULO FREDERICO MATSURA' }
+TextRow {
+  idcliente: 7339,
+  nome: 'G FALCAO RIBEIRO FERREIRA ENDOSCOPIA' }
+TextRow { idcliente: 7340, nome: 'DENNIS BASTOS' }
+TextRow { idcliente: 7341, nome: 'LEONARDO BAYLAO NIGRE' }
+TextRow { idcliente: 7342, nome: 'ANTONIO CARLOS MATTAR' }
+TextRow { idcliente: 7343, nome: 'MANOEL LEMES' }
+TextRow {
+  idcliente: 7344,
+  nome: 'MMC SAUDE OCUPACIONAL E OTORRINOLARINGOLOGIA' }
+TextRow { idcliente: 7345, nome: 'CLAUDIO DE PAULA SANTANA' }
+TextRow { idcliente: 7346, nome: 'EDILSON SARKIS GONCALVES' }
+TextRow { idcliente: 7347, nome: 'ANTHONY A STARPOLI MD' }
+TextRow { idcliente: 7348, nome: 'HOSPITAL SAN RAFAEL DE ALAJUELA' }
+TextRow { idcliente: 7351, nome: ' ANA LIGIA MONTERO' }
+TextRow { idcliente: 7352, nome: 'CEDIME' }
+TextRow { idcliente: 7353, nome: 'RENAN WROBE' }
+TextRow { idcliente: 7354, nome: 'PAULO PIRES DE MELLO' }
+TextRow { idcliente: 7355, nome: 'ERIKA NOBREGA HERNKES' }
+TextRow { idcliente: 7356, nome: 'GEORGE SCHREIBER FILHO' }
+TextRow { idcliente: 7357, nome: 'HOSPITAL IRMA DULCE' }
+TextRow { idcliente: 7358, nome: 'ARIEL GUSTAVO SCAFURI' }
+TextRow { idcliente: 7359, nome: 'ROSAMARIA RIBEIRO CARACAS' }
+TextRow { idcliente: 7360, nome: 'SIDNEY ROBERTO NADAL' }
+TextRow { idcliente: 7361, nome: 'MARCIO MURILO SOARES MARQUES' }
+TextRow { idcliente: 7362, nome: 'LEANDRO GUGEL' }
+TextRow { idcliente: 7363, nome: 'CEDI CENTRO DE ENDOSCOPIA ICARAI' }
+TextRow { idcliente: 7364, nome: 'MARUSKA SANTOS' }
+TextRow { idcliente: 7365, nome: 'JOSE ALBERTO MAIA MOTA' }
+TextRow { idcliente: 7366, nome: 'DR. HILTON JUSTINO DA SILVA' }
+TextRow { idcliente: 7367, nome: 'MAURO COELHO INNOCENCIO' }
+TextRow { idcliente: 7368, nome: 'FRANCISCO EDUARDO M OLIVEIRA' }
+TextRow { idcliente: 7369, nome: 'SANTA HELENA DIAS DÂ´AVILA' }
+TextRow { idcliente: 7370, nome: 'SMS BELO ORIENTE/MG' }
+TextRow { idcliente: 7371, nome: 'EDUARDO BON RAMIREZ ' }
+TextRow { idcliente: 7372, nome: 'RONALDO DUTRA FONSECA' }
+TextRow { idcliente: 7373, nome: 'MATHEUS CANDIDO MENESES' }
+TextRow { idcliente: 7374, nome: 'ANDREA BERDU MADUREIRA COUTINHO' }
+TextRow { idcliente: 7375, nome: 'MARCO ANTONIO DELGADO FERRAZ' }
+TextRow {
+  idcliente: 7376,
+  nome: 'BRUNO MARCOS ZEPONI FERNANDES DE MELLO' }
+TextRow { idcliente: 7377, nome: 'BELCHIOR BARBALHO SANTANA' }
+TextRow { idcliente: 7378, nome: 'DANIEL MOURA PARENTE' }
+TextRow {
+  idcliente: 7379,
+  nome: 'INSTITUTO PERNANBUCADO DE ASSINTENCIA E SAUDE' }
+TextRow {
+  idcliente: 7380,
+  nome: 'IMAD INSTITUTO MEDICO DO APARELHO DIGESTIVO' }
+TextRow { idcliente: 7381, nome: 'HOSPITAL DE DOMINGOS MARTINS' }
+TextRow { idcliente: 7382, nome: 'HOSPITAL SANTA TEREZINHA' }
+TextRow { idcliente: 7383, nome: 'DENILTON VILLANI' }
+TextRow { idcliente: 7384, nome: 'CLINICA PROCURA' }
+TextRow { idcliente: 7385, nome: 'DAYRA CANDIDO CARDOSO' }
+TextRow {
+  idcliente: 7386,
+  nome: 'ENDOSERV ENDOSCOPIA E GASTROENTEROLOGIA LTDA' }
+TextRow { idcliente: 7387, nome: 'BENICIO BOIDA DE ANDRADE' }
+TextRow { idcliente: 7388, nome: 'LIA DA COSTA AFFONSO' }
+TextRow { idcliente: 7389, nome: 'IGOR PEREIRA DE SA FIGUEIREDO' }
+TextRow { idcliente: 7390, nome: 'ROBERTO CRUZ SIBAJA' }
+TextRow { idcliente: 7391, nome: 'ALBERTO FACURY GASPAR' }
+TextRow { idcliente: 7392, nome: 'RICARDO DE ALMEIDA QUINTAIROS' }
+TextRow { idcliente: 7393, nome: 'RAQUEL CHARTUNI PEREIRA TEIXEIRA' }
+TextRow { idcliente: 7394, nome: 'CEDIME' }
+TextRow { idcliente: 7395, nome: 'GILSON DE SOUSA KYT' }
+TextRow { idcliente: 7396, nome: 'MARIA DA CONCEICAO MOTA DE QUIEROZ' }
+TextRow {
+  idcliente: 7397,
+  nome: 'CENTRO DE ESPECIALIDADES MEDICAS - CEMB' }
+TextRow { idcliente: 7398, nome: 'GUILLERMO GARCIA' }
+TextRow { idcliente: 7399, nome: 'FABIO WANDERLEY FREITAS' }
+TextRow { idcliente: 7400, nome: 'GASTROSCOPE' }
+TextRow { idcliente: 7403, nome: 'DILSON RIBEIRO DE ALMEIDA' }
+TextRow { idcliente: 7404, nome: 'ROGERIO SANTOS' }
+TextRow { idcliente: 7405, nome: 'FLAVIO MENDES MAFRA' }
+TextRow { idcliente: 7406, nome: 'PAULO RAMPIM' }
+TextRow { idcliente: 7407, nome: 'SANDRO MACHADO MENDONCA' }
+TextRow { idcliente: 7408, nome: 'FABRICIO AYRES ESTORARI' }
+TextRow { idcliente: 7409, nome: 'PAUVELS & FREIRE LTDA' }
+TextRow { idcliente: 7410, nome: 'MARIA JOSE CARVALHO DE ABREU RAMOS' }
+TextRow { idcliente: 7411, nome: 'NEI DANILO BENETTI JUNIOR' }
+TextRow { idcliente: 7412, nome: 'GASTRO CLINICA' }
+TextRow { idcliente: 7413, nome: 'GODOFREDO CAMPOS BORGES' }
+TextRow {
+  idcliente: 7414,
+  nome: 'ENDOGASTRUS  - CLINICA DO APARELHO DIGESTIVO' }
+TextRow { idcliente: 7415, nome: 'ANDRESSA VOLPATO LIMA' }
+TextRow {
+  idcliente: 7416,
+  nome: 'ENDOGASTRUS- CLINICA DO APARELHO DIGESTIVO' }
+TextRow { idcliente: 7417, nome: 'CAIO CRUZ ARAUJO' }
+TextRow {
+  idcliente: 7418,
+  nome: 'FUNDO APOIO HOSP CLIN UFG - MAT D IRIS' }
+TextRow { idcliente: 7419, nome: 'CEZARIA, TRICHES E CIA LTDA' }
+TextRow {
+  idcliente: 7420,
+  nome: 'ENDOGASTRUS CLINICA DE ENDOSCOPIA DIGESTIVA S/C LTDA.' }
+TextRow { idcliente: 7421, nome: 'MAURELIO DE LIMA BATISTA RIBEIRO' }
+TextRow { idcliente: 7422, nome: 'GRIPP CLIN SERVICOS MEDICOS' }
+TextRow { idcliente: 7423, nome: 'MANIEL AGUILAR ORTIZ (IZCALLI SA)' }
+TextRow {
+  idcliente: 7424,
+  nome: 'HOSPITAL E MATERNIDADE SAO PAULO LTDA' }
+TextRow { idcliente: 7425, nome: 'LUIS ALBERTO OKANO' }
+TextRow { idcliente: 7426, nome: 'HOSPITAL SAO PAULO LTDA' }
+TextRow {
+  idcliente: 7427,
+  nome: 'CESAR ALGUSTO DA FONSECA LIMA AMORIM ' }
+TextRow { idcliente: 7428, nome: 'MARIANA CONRADO ELOY' }
+TextRow { idcliente: 7429, nome: 'ANTONIO PINHEIRO JUNIOR' }
+TextRow { idcliente: 7430, nome: 'LEANDRO AZEVEDO CAMARGO' }
+TextRow { idcliente: 7431, nome: 'INSTITUTO DO RIM DE GOIANIA' }
+TextRow {
+  idcliente: 7432,
+  nome: 'FUNDACAO PROF.MARTINIANO FERNANDES - IMIP HOSPITALAR' }
+TextRow { idcliente: 7433, nome: 'GUSTAVO ANDRADE FRAGA' }
+TextRow { idcliente: 7434, nome: 'MAURICIO COSTA E PEIXOTO' }
+TextRow { idcliente: 7435, nome: 'GUILHERME LUIS DA SILVA FRANCHE' }
+TextRow { idcliente: 7436, nome: 'CLARISSE CASALI HAMPL' }
+TextRow {
+  idcliente: 7437,
+  nome: 'CLINICA E LABORATORIO HEMODIAGNOSTICO LTDA' }
+TextRow { idcliente: 7438, nome: 'MARCIO DE ALBUQUERQUE BETIOL' }
+TextRow { idcliente: 7439, nome: 'MARCUS TULIO BASSUL HADDAD FILHO' }
+TextRow { idcliente: 7440, nome: 'LAERTE CHEDIAK JUNIOR' }
+TextRow { idcliente: 7441, nome: 'ALINE BESSA DE OLIVEIRA' }
+TextRow { idcliente: 7442, nome: 'JOSE AMERICO SIQUEIRA' }
+TextRow { idcliente: 7443, nome: 'ALBERTO BARBOSA CORREA' }
+TextRow { idcliente: 7444, nome: 'ANDRE DUPRAT' }
+TextRow { idcliente: 7445, nome: 'MARCOS SILVA DE MORAES' }
+TextRow { idcliente: 7446, nome: 'CAD-CLINICA DO APARELHO DIGESTIVO' }
+TextRow { idcliente: 7447, nome: 'ALBERTO IORIO ARRUZZO' }
+TextRow { idcliente: 7448, nome: 'FRANCISCO RODRIGUES LOPES ' }
+TextRow { idcliente: 7449, nome: 'JIULIANO R. FALCAO' }
+TextRow { idcliente: 7450, nome: 'PAULO GOMES DE LIMA' }
+TextRow { idcliente: 7451, nome: 'PABLINE BARBOSA LIMA ALMEIDA' }
+TextRow {
+  idcliente: 7452,
+  nome: 'GASTROCLINICA - CENTRO MÃ©DICO SIRIUS' }
+TextRow { idcliente: 7453, nome: 'HOSPITAL SAO CAMILO' }
+TextRow { idcliente: 7454, nome: 'UNIMED MACAPA' }
+TextRow { idcliente: 7456, nome: 'LUCIO ROBSON DE OLIVEIRA' }
+TextRow { idcliente: 7457, nome: 'LUIZ FERNANDES BORGES NETO' }
+TextRow { idcliente: 7458, nome: 'GUSTAVO ELIAS JOSE' }
+TextRow { idcliente: 7459, nome: 'FLAVIO FERREIRA NOGUEIRA' }
+TextRow { idcliente: 7460, nome: 'RUBENS DE OLIVEIRA BRITO' }
+TextRow { idcliente: 7461, nome: 'ZMED' }
+TextRow { idcliente: 7462, nome: 'ORLANDO CASTILLERO' }
+TextRow { idcliente: 7463, nome: 'CARLOS ROGERIO MOREIRA' }
+TextRow { idcliente: 7464, nome: 'JOSE OLIVEIRA CAVALCANTE' }
+TextRow { idcliente: 7465, nome: 'FERNANDO PERES DA SILVA' }
+TextRow { idcliente: 7466, nome: 'UNIMED NATAL' }
+TextRow { idcliente: 7467, nome: 'EIDER BARRETO DE MEDEIROS' }
+TextRow { idcliente: 7468, nome: 'ROSELI BORASCHI' }
+TextRow { idcliente: 7469, nome: 'ENECY LEMOS CALIXTO FILHO' }
+TextRow { idcliente: 7470, nome: 'ORSON NORIO TAKEMOTO' }
+TextRow { idcliente: 7471, nome: 'BEZZAN E PISI SERVICOS MEDICOS SS' }
+TextRow { idcliente: 7472, nome: 'ALBERTO PAGES ZAMORA' }
+TextRow { idcliente: 7473, nome: 'WILLIAM PIEDRA' }
+TextRow { idcliente: 7474, nome: 'WILLIAM PIEDRA' }
+TextRow {
+  idcliente: 7475,
+  nome: 'CLINICA DO APARELHO DIGESTIVO DR. HUGO SCHUNEMANN' }
+TextRow { idcliente: 7476, nome: 'ADEMAR AURELIANO DUARTE' }
+TextRow { idcliente: 7477, nome: 'EDIR DE SOUZA PORTO JUNIOR' }
+TextRow { idcliente: 7478, nome: 'SALUSTIANO GABRIEL NETO' }
+TextRow { idcliente: 7479, nome: 'EVANDRO MIRANDA COELHO JUNIOR' }
+TextRow { idcliente: 7480, nome: 'EXPEDITO DE ALMEIDA SOARES' }
+TextRow { idcliente: 7481, nome: 'MARCO AURÃ©LIO DÂ´ASSUNCAO' }
+TextRow { idcliente: 7482, nome: 'IMEDIX SRL' }
+TextRow { idcliente: 7483, nome: 'JOSE ALEXANDRE MEDICIS DA SILVEIRA' }
+TextRow { idcliente: 7484, nome: 'LET CARE SERVICOS MEDICOS LTDA' }
+TextRow {
+  idcliente: 7485,
+  nome: 'ENDOCOR DIAGNOSTICOS E SERVICOS MEDICOS LTDA' }
+TextRow { idcliente: 7486, nome: 'MARIA LUIZA MONTEIRO NEGRAO' }
+TextRow { idcliente: 7487, nome: 'MAURO GESTER DA FONSECA' }
+TextRow { idcliente: 7488, nome: 'JOAO ANTONIO DA SILVA NETO' }
+TextRow { idcliente: 7489, nome: 'JOSE OTAVIO RIBEIRO CRUZ FILHO' }
+TextRow { idcliente: 7490, nome: 'NOVA DIAGNOSTICO POR IMAGEM' }
+TextRow { idcliente: 7491, nome: 'CAROLINE EVY VASCONCELOS' }
+TextRow { idcliente: 7492, nome: 'VALMIR HILARIO SILVA' }
+TextRow { idcliente: 7493, nome: 'BRUNO SOUZA OLIVEIRA' }
+TextRow { idcliente: 7494, nome: 'MARELO ANTUNES CHICO' }
+TextRow { idcliente: 7495, nome: 'UROPROCT' }
+TextRow { idcliente: 7496, nome: 'SEUL SERVICOS MEDICOS LTDA' }
+TextRow { idcliente: 7497, nome: 'GRIPP CLIN SERVICOS MEDICOS' }
+TextRow { idcliente: 7498, nome: 'GASTRO CENTRO' }
+TextRow { idcliente: 7499, nome: 'PROCAD' }
+TextRow { idcliente: 7500, nome: 'JOAO MARCELLO DEDA E GUEDES' }
+TextRow {
+  idcliente: 7501,
+  nome: 'CENTRO DE MEDICINA NUCLEAR DA GUANABARA' }
+TextRow {
+  idcliente: 7502,
+  nome: 'HOSPITAL RAFAEL ANGEL CALDERON GUARDIA' }
+TextRow { idcliente: 7503, nome: 'SUSANA DYTZ FAGUNDES' }
+TextRow { idcliente: 7504, nome: 'CLINAD' }
+TextRow { idcliente: 7505, nome: 'MONIK KELLY PEREIRA COSTA MORAES' }
+TextRow { idcliente: 7506, nome: 'POLICLINICA ITAPUA AMBISEG LTDA' }
+TextRow { idcliente: 7507, nome: 'GILBERT SIMONI, MD' }
+TextRow { idcliente: 7508, nome: 'STENIO ROBERTO DOS SANTOS' }
+TextRow { idcliente: 7509, nome: 'JOAO PAULO DE SOUZA' }
+TextRow { idcliente: 7510, nome: 'ANSONIC DIAGNOSTICOS MEDICOS LTDA' }
+TextRow { idcliente: 7511, nome: 'ZMED MULTIVIDEO' }
+TextRow { idcliente: 7512, nome: 'EDUARDO ISAAC NISHIMOTO' }
+TextRow {
+  idcliente: 7513,
+  nome: 'HOSPITAL E MATERNIDADE JARDIM AMERICA LTDA' }
+TextRow { idcliente: 7514, nome: 'MARIA DAS GRACAS SANTOS PINHEIRO' }
+TextRow { idcliente: 7515, nome: 'MARIA DAS GRACAS SANTOS PINHEIRO' }
+TextRow { idcliente: 7516, nome: 'MARCELO PANDOLFI BASSO' }
+TextRow { idcliente: 7517, nome: 'POLICLINICA ITAPUA' }
+TextRow { idcliente: 7518, nome: 'LETACIO JOSE FREIRE DOS SANTOS' }
+TextRow {
+  idcliente: 7519,
+  nome: 'MARGARETH SENTO SE CORDEIRO DE OLIVEIRA' }
+TextRow { idcliente: 7520, nome: 'LASARO LAIGNIER ALVES PINTO' }
+TextRow { idcliente: 7521, nome: 'LORENA MACHADO DE SOUZA LOURENCO' }
+TextRow { idcliente: 7522, nome: 'ZSCAN SOFWARE' }
+TextRow { idcliente: 7523, nome: 'JOAO LEAO PINTO NETO' }
+TextRow { idcliente: 7524, nome: 'RENATO MADRID BALDASSARE' }
+TextRow { idcliente: 7525, nome: 'SPAZZIO MULHER SERVICOS MEDICOS EPP' }
+TextRow { idcliente: 7526, nome: 'EDUARDO RACHMAN VIEGAS' }
+TextRow { idcliente: 7527, nome: 'PAULO ROBERTO DURO GUIMARAES' }
+TextRow { idcliente: 7528, nome: 'GABRIEL CARNEIRO VIEIRA ' }
+TextRow { idcliente: 7529, nome: 'EVANDRO MIRANDA COELHO JUNIOR' }
+TextRow { idcliente: 7530, nome: 'ZSCAN SOFTWARE' }
+TextRow { idcliente: 7531, nome: 'RICK AUGUSTO LAURIA DA COSTA' }
+TextRow { idcliente: 7532, nome: 'LUIZ GONCALVES DA SILVA JUNIOR' }
+TextRow { idcliente: 7533, nome: 'ANTONIO CANDIDONEVES NETO' }
+TextRow { idcliente: 7534, nome: 'CLINICA DIAGNOSE' }
+TextRow { idcliente: 7535, nome: 'LUIZ FERNANDO MARTINS DE OLIVEIRA' }
+TextRow { idcliente: 7536, nome: 'SINVAL DOS PASSOS LYRA ' }
+TextRow { idcliente: 7537, nome: 'GERARDO AVENDANO ALVARADO' }
+TextRow { idcliente: 7538, nome: 'HELDER SILVA BONFIM' }
+TextRow { idcliente: 7539, nome: 'FREDERICO MISCIASCI GUIMARAES' }
+TextRow { idcliente: 7540, nome: 'DMCF COMERCIAL CIRURGICA LTDA' }
+TextRow { idcliente: 7541, nome: 'DMCF COMERCIAL CIRURGICA LTDA' }
+TextRow { idcliente: 7542, nome: 'LUCIANO OKAWA' }
+TextRow { idcliente: 7545, nome: 'EQUIPOS MEDICOS ZEPEDA' }
+TextRow { idcliente: 7546, nome: 'MASSAF' }
+TextRow { idcliente: 7547, nome: 'EQUIPOS MEDICOS ZEPEDA' }
+TextRow { idcliente: 7548, nome: 'CLEIDSON' }
+TextRow { idcliente: 7549, nome: 'RICARDO CONTAO' }
+TextRow { idcliente: 7550, nome: 'ADRIANO TESTE' }
+TextRow { idcliente: 7551, nome: 'ZSCAN SOFTWARE - SONY VAIO' }
+TextRow { idcliente: 7552, nome: 'MICHEL BELUCHE' }
+TextRow { idcliente: 7553, nome: 'MARCO AURELIO PEREIRA GOMES' }
+TextRow { idcliente: 7554, nome: 'MARTA PINHEIRO BARROS' }
+TextRow { idcliente: 7555, nome: 'ENDOGERAIS' }
+TextRow { idcliente: 7556, nome: 'UROGASTRO ' }
+TextRow { idcliente: 7557, nome: 'DR. ALVARO MASSAO MORISSUGUI' }
+TextRow { idcliente: 7558, nome: 'MARCOS CASERTA FARIAS' }
+TextRow { idcliente: 7559, nome: 'JORGE ROSADO' }
+TextRow { idcliente: 7560, nome: 'DEBORA SANTOS DOS SANTOS' }
+TextRow { idcliente: 7561, nome: 'MARCIO PEDRO MARTINS' }
+TextRow { idcliente: 7562, nome: 'KLEISON RESENDE SANTANA' }
+TextRow {
+  idcliente: 7563,
+  nome: 'FELIPE ALVES MOTA REBELLO DE MENDONCA' }
+TextRow { idcliente: 7564, nome: 'DELMAR FLORENCIO' }
+TextRow {
+  idcliente: 7565,
+  nome: 'GUILERME ORLANDO FONSECA FERREIRA FILHO' }
+TextRow { idcliente: 7566, nome: 'IML' }
+TextRow { idcliente: 7567, nome: 'DARLANNE MARA GOMES SANTOS' }
+TextRow { idcliente: 7568, nome: 'YULO CÉSARE DE CASTRO ALVES' }
+TextRow { idcliente: 7569, nome: 'RICARDO GUSMAO MOURA' }
+TextRow { idcliente: 7570, nome: 'HOSPITAL TARQUINIO LOPES FILHO' }
+TextRow {
+  idcliente: 7571,
+  nome: 'MARCO AURELIO FRANCO DE GODOY BELFORT' }
+TextRow { idcliente: 7572, nome: 'LIANE REGO' }
+TextRow { idcliente: 7573, nome: 'RONALDO F GUIMARAES' }
+TextRow { idcliente: 7574, nome: 'CELSO EDUARDO MARTUCCI JUNIOR' }
+TextRow { idcliente: 7575, nome: 'CARLOS EDUARDO LUNA RIBEIRO LIRA' }
+TextRow { idcliente: 7576, nome: 'MASSAHIRO ONO ' }
+TextRow { idcliente: 7577, nome: 'IML ANAPOLIS' }
+TextRow { idcliente: 7578, nome: 'LUIZ EDUARDO CORREIA MIRANDA' }
+TextRow { idcliente: 7579, nome: 'LUIZ GUSTAVO TAMEZAVA PITARELO' }
+TextRow { idcliente: 7580, nome: 'ALCEMAR DA SILVA ALMEIDA' }
+TextRow { idcliente: 7581, nome: 'ABIUD PONCIANO DIAS JUNIOR' }
+TextRow { idcliente: 7582, nome: 'IML LUZIANIA' }
+TextRow { idcliente: 7583, nome: 'NORBERTO KATSUMI OSAKI' }
+TextRow { idcliente: 7584, nome: 'ALEXANDRE DA CRUZ SANTOS' }
+TextRow { idcliente: 7585, nome: 'GALBA FIGUEIREDO RIBEIRO' }
+TextRow {
+  idcliente: 7586,
+  nome: 'INSTITUTO DE UROLOGIA E GASTROCIRURGIA DE SAO VICENTE' }
+TextRow { idcliente: 7587, nome: 'MASSAF' }
+TextRow { idcliente: 7588, nome: 'CLINICA VITAE LTDA.' }
+TextRow {
+  idcliente: 7589,
+  nome: 'MARIA CAROLINA COUTINHO XAVIER SOARES' }
+TextRow { idcliente: 7590, nome: 'ADALBERTO TADEU CABRAL' }
+TextRow { idcliente: 7591, nome: 'ZEPEDA' }
+TextRow { idcliente: 7592, nome: 'ZSCAN' }
+TextRow { idcliente: 7593, nome: 'CLAUDIA LOJA GONCALO' }
+TextRow { idcliente: 7594, nome: 'RENATA OLIVEIRA RESENDE FONSECA' }
+TextRow { idcliente: 7595, nome: 'MARCIO TEIXEIRA LEONARDO' }
+TextRow { idcliente: 7596, nome: 'ANNA KARINNE CABRAL VALLENTIM' }
+TextRow { idcliente: 7597, nome: 'AILTON JOSE DE OLIVEIRA' }
+TextRow { idcliente: 7598, nome: 'SIDNEI DE OLIVEIRA BERNABE' }
+TextRow { idcliente: 7599, nome: 'VALDEVINO ALVES DE MELO JUNIOR' }
+TextRow {
+  idcliente: 7600,
+  nome: 'ANDRADE CLINICA DE GASTROENTEROLOGIA' }
+TextRow { idcliente: 7601, nome: 'ANTONIO MAURO DA COSTA' }
+TextRow { idcliente: 7602, nome: 'LAECIO BARROS MACEDO JUNIOR' }
+TextRow { idcliente: 7603, nome: 'LEDA MARIA DE MATTOS E SILVA' }
+TextRow { idcliente: 7604, nome: 'LAUREEN VALERIO VALERIO' }
+TextRow { idcliente: 7605, nome: 'ALBERTO ALVES DE OLIVEIRA' }
+TextRow { idcliente: 7606, nome: 'POLICLINICA ITAPUA' }
+TextRow { idcliente: 7607, nome: 'MARIA CRISTINA' }
+TextRow { idcliente: 7608, nome: 'MIRIAM RIBEIRO GOMES' }
+TextRow { idcliente: 7609, nome: 'ADELCO MOTA CARVALHO FILHO' }
+TextRow { idcliente: 7610, nome: 'GETERSON BEZERRA MOREIRA' }
+TextRow { idcliente: 7611, nome: 'CLINICA MEDICA BORGES' }
+TextRow { idcliente: 7612, nome: 'SERGIO DIAS POLO' }
+TextRow {
+  idcliente: 7613,
+  nome: 'LABOR DIAGNOSTICO E MEDICINA DO TRABALHO LTDA ME' }
+TextRow { idcliente: 7614, nome: 'ANDRE GUSTAVO DE PAULA ALVARENGA' }
+TextRow { idcliente: 7615, nome: 'THIAGO DE BORTOLI NOGUEIRA' }
+TextRow { idcliente: 7616, nome: 'OLENTINO GONCALVES DE MENEZES' }
+TextRow { idcliente: 7617, nome: 'MARTA CRISTINA GOMES DAVID' }
+TextRow { idcliente: 7618, nome: 'ESPACO MEDICO LTDA' }
+TextRow { idcliente: 7619, nome: 'HOSPITAL DE VALLENAR' }
+TextRow {
+  idcliente: 7620,
+  nome: 'CENTRO HOSPITALAR SAO FRANSCISCO LTDA' }
+TextRow { idcliente: 7621, nome: 'MASSAF' }
+TextRow { idcliente: 7622, nome: 'RENATO WESTER SIQUEIRA BARBOSA' }
+TextRow { idcliente: 7623, nome: 'TATIANA ALMEIDA' }
+TextRow { idcliente: 7624, nome: 'ERICO LAWRENCE' }
+TextRow { idcliente: 7625, nome: 'ERICO LAWRENCE' }
+TextRow {
+  idcliente: 7626,
+  nome: 'SOUTHERN CALIFORNIA HOSPITAL AT HOLLYWOOD' }
+TextRow { idcliente: 7627, nome: 'MARCO ANTONIO GOLART' }
+TextRow { idcliente: 7628, nome: 'GATRODIAGES' }
+TextRow { idcliente: 7629, nome: 'IULHA GARCIA KYT' }
+TextRow { idcliente: 7630, nome: 'ODAIR JOSE DE ASSIS' }
+TextRow { idcliente: 7631, nome: 'OLENTINO GONCALVES DE MENEZES' }
+TextRow { idcliente: 7632, nome: 'GEDIAO CESAR SERAPHIN' }
+TextRow { idcliente: 7633, nome: 'CLINICA VITAE LTDA.' }
+TextRow { idcliente: 7634, nome: 'RAMODNIL DE MOURA SANTOS' }
+TextRow { idcliente: 7635, nome: 'ANDRE ENGELHARDT LORENZONI' }
+TextRow { idcliente: 7636, nome: 'JOSE ANTONIO DA NOBREGA' }
+TextRow { idcliente: 7637, nome: 'KELVE JANNED DOS PASSOS FERREIRA' }
+TextRow { idcliente: 7638, nome: 'MARCOS COLIN JUNIOR' }
+TextRow { idcliente: 7639, nome: 'THYAGO LUIZ CAMARGO' }
+TextRow { idcliente: 7640, nome: 'GASTROCENTER ANDERSON SEPULVIDA' }
+TextRow { idcliente: 7641, nome: 'GILMAR BATISTA COUTINHO DA SILVA' }
+TextRow { idcliente: 7642, nome: 'CLINICA IBED' }
+TextRow { idcliente: 7643, nome: 'FABIANA COUTO DE MELO MIGIYAMA' }
+TextRow { idcliente: 7644, nome: 'CARLOS PATINO' }
+TextRow { idcliente: 7645, nome: 'GASTROCLINICA DE SANTAREM' }
+TextRow { idcliente: 7646, nome: 'JOSE BONFIM BIZERRA' }
+TextRow { idcliente: 7647, nome: 'MANOEL CARLOS BATISTA' }
+TextRow { idcliente: 7648, nome: 'ALDO SARDINHA CUNHA NETO' }
+TextRow { idcliente: 7649, nome: 'ANDERSON FREITAS DA SILVA' }
+TextRow { idcliente: 7650, nome: 'FABIO MARCONDES BRASILEIRO' }
+TextRow { idcliente: 7651, nome: 'ACG SERVICOS MEDICOS' }
+TextRow { idcliente: 7652, nome: 'CLINICA MAGALLANES' }
+TextRow { idcliente: 7653, nome: 'MOB SERVICOS MEDICOS' }
+TextRow { idcliente: 7654, nome: 'ZSCAN SOFTWARE' }
+TextRow { idcliente: 7655, nome: 'WANER JOSEFA DE QUEIROZ MOURA' }
+TextRow { idcliente: 7656, nome: 'CLINICA DE CIRURGIA GERAL LTDA' }
+TextRow { idcliente: 7657, nome: 'JOHN MORA CHAVARRIA' }
+TextRow { idcliente: 7658, nome: 'CARLOS EDUARDO ALVES ZANGIROLAMI' }
+TextRow { idcliente: 7659, nome: 'LUIZ GUSTAVO RABONI PALMA' }
+TextRow { idcliente: 7660, nome: 'MARINA FAISTAUER' }
+TextRow { idcliente: 7661, nome: 'PREFEITURA MUNICIPAL DE SANTA LUZIA' }
+TextRow { idcliente: 7662, nome: 'EDSON MARTINS MOURA' }
+TextRow { idcliente: 7663, nome: 'ASSOCIACAO MATOGROSSENSE DE MT' }
+TextRow { idcliente: 7664, nome: 'DEMETRIO LOPES RODRIGUES NETO' }
+TextRow { idcliente: 7665, nome: 'ICARO VINICIUS DE SOUZA NASCIMENTO' }
+TextRow { idcliente: 7666, nome: 'LUIZ ROBERTO SILVA FILHO' }
+TextRow { idcliente: 7667, nome: 'ACOR CLINICA MEDICA LTDA.' }
+TextRow { idcliente: 7668, nome: 'SARUZA SILVA FERREIRA DA COSTA' }
+TextRow { idcliente: 7669, nome: 'TANIA KARINA GALINDO FALCAO GOMES' }
+TextRow { idcliente: 7670, nome: 'ALEX CURI' }
+TextRow { idcliente: 7671, nome: 'IULHA GARCIA KYT' }
+TextRow { idcliente: 7672, nome: 'ALEX ACOSTA' }
+TextRow { idcliente: 7673, nome: 'MAURO SERGIO DE OLIVEIRA MIRANDA' }
+TextRow {
+  idcliente: 7674,
+  nome: 'INSTITUTO DE GASTROENTEROLOGIA DE RORAIMA' }
+TextRow { idcliente: 7675, nome: 'ANA CRISTINA ZONATO' }
+TextRow { idcliente: 7676, nome: 'ROGER LUIZ DE OLVIEIRA COSTA' }
+TextRow { idcliente: 7677, nome: 'CARLOS AUGUSTO BEYRUTH BORGES' }
+TextRow { idcliente: 7678, nome: 'ANA CLAUDIA BARROS DA SILVA VIEIRA' }
+TextRow { idcliente: 7679, nome: 'ITAMAR AUGUSTO NONATO DE OLIVEIRA' }
+TextRow { idcliente: 7680, nome: 'MARCUS TULIO BASSUL HADDAD FILHO' }
+TextRow { idcliente: 7681, nome: 'MAURO SERGIO DE OLIVEIRA MIRANDA' }
+TextRow { idcliente: 7682, nome: 'OTO GRUPO LTDA' }
+TextRow { idcliente: 7683, nome: 'IANDRA ALVES FERREIRA P. FONSECA' }
+TextRow { idcliente: 7684, nome: 'ROGERIO LUCENA' }
+TextRow { idcliente: 7685, nome: 'ELCIO CARLOS HENRIQUE DA SILVA' }
+TextRow {
+  idcliente: 7686,
+  nome: 'CLINICA DR EVANDRO RIBEIRO DE OLIVEIRA' }
+TextRow { idcliente: 7687, nome: 'ALEXANDRE CESAR MARTINS FONSECA' }
+TextRow { idcliente: 7688, nome: 'ALINNE LAIS BESSA MAIA' }
+TextRow { idcliente: 7689, nome: 'CLINICA DR EVANDRO RIBEIRO' }
+TextRow { idcliente: 7690, nome: 'MINERVA OLIVEIRA DE SANTANA' }
+TextRow { idcliente: 7691, nome: 'HOSPITAL GUSTAVO FRICKE' }
+TextRow { idcliente: 7692, nome: 'MARCIA PINHO' }
+TextRow { idcliente: 7693, nome: 'MARCO TULIO MELLO DE PAULA RIBEIRO' }
+TextRow { idcliente: 7694, nome: 'ZSCAN SOFTWARE' }
+TextRow {
+  idcliente: 7695,
+  nome: 'ALIANCA INSTITUTO DE ONCOLOGIA S/S LTDA' }
+TextRow { idcliente: 7696, nome: 'EDVALDO SILVA LIMA' }
+TextRow { idcliente: 7697, nome: 'JOSE BERNARDO CARVALHO DE ANDRADE' }
+TextRow { idcliente: 7698, nome: 'THIAGO AREA LEAO BRITO' }
+TextRow { idcliente: 7699, nome: 'MARIANA KREIBICH' }
+TextRow { idcliente: 7700, nome: 'FILIPE DE BUSTAMANTE CARIM' }
+TextRow { idcliente: 7701, nome: 'LUIZ ROBERTO SILVA FILHO' }
+TextRow { idcliente: 7702, nome: 'LUIZ ROBERTO SILVA FILHO' }
+TextRow { idcliente: 7703, nome: 'JOAO DE SIQUEIRA NETO' }
+TextRow { idcliente: 7704, nome: 'RICARDO LUBA' }
+TextRow { idcliente: 7705, nome: 'JONATHAN FUSCO' }
+TextRow { idcliente: 7706, nome: 'DR. LINCOLN NORIMASSA YOSHIDA' }
+TextRow { idcliente: 7707, nome: 'FLAVIO AKIRA SAKAE' }
+TextRow { idcliente: 7708, nome: 'ZEPEDA' }
+TextRow { idcliente: 7709, nome: 'DANIELA MARIA BILLER TEIXEIRA' }
+TextRow { idcliente: 7710, nome: 'LUIZ FERNANDO CAPUTO' }
+TextRow { idcliente: 7711, nome: 'OSWALDO COLOMBINI NETO' }
+TextRow { idcliente: 7712, nome: 'HECTOR ADOLFO POLANIA' }
+TextRow { idcliente: 7713, nome: 'ZEPEDA' }
+TextRow { idcliente: 7714, nome: 'victor carrasco' }
+TextRow { idcliente: 7715, nome: 'HUMBERTO JOSE REBOUCAS LAUTON' }
+TextRow { idcliente: 7716, nome: 'Ana Elisa Dias' }
+TextRow { idcliente: 7717, nome: 'MARI NEIDE AUSANI' }
+TextRow { idcliente: 7718, nome: 'ORLANDO MARLOS OLIVEIRA' }
+TextRow { idcliente: 7719, nome: 'GILBERTO QUARESMA FILHO' }
+TextRow { idcliente: 7720, nome: 'AltaSalud' }
+TextRow { idcliente: 7721, nome: 'Marcio Pereira Marreiros' }
+TextRow { idcliente: 7722, nome: 'ELVIRA B. DOS REIS DA SILVA' }
+TextRow { idcliente: 7723, nome: 'REILA SILVA PEREIRA AIRES' }
+TextRow { idcliente: 7724, nome: 'Bruno Sander' }
+TextRow { idcliente: 7725, nome: 'Natalia Bastos Tinoco' }
+TextRow { idcliente: 7726, nome: 'GUTTENBERG RODRIGUES PEREIRA PRIMO' }
+TextRow { idcliente: 7727, nome: 'MARLENE SALETE NADIN' }
+TextRow { idcliente: 7728, nome: 'Hope Ottorino' }
+TextRow { idcliente: 7729, nome: 'ELTON HUGO MAIA TEIXEIRA' }
+TextRow { idcliente: 7730, nome: 'ERIK DE FREITAS FORTES BUSTAMANTE' }
+TextRow { idcliente: 7731, nome: 'Paula Barboza Carneiro Penna Chaves' }
+TextRow { idcliente: 7732, nome: 'SOPORTE Y POST VENTAS ZEPEDA' }
+TextRow { idcliente: 7733, nome: 'Demo' }
+TextRow { idcliente: 7734, nome: 'Grace Fabiola de Oliveira' }
+TextRow { idcliente: 7735, nome: 'Luciane Lotti Fonseca ' }
+TextRow { idcliente: 7736, nome: 'Adriana Maia de Almeida Martinez' }
+TextRow { idcliente: 7737, nome: 'TECIO ARAUJO DE COUTO' }
+TextRow { idcliente: 7738, nome: 'Clinica Universitaria' }
+TextRow { idcliente: 7739, nome: 'Claudio Renato Barros Carneiro' }
+TextRow { idcliente: 7740, nome: 'Jimmy Albeto de Brito' }
+TextRow { idcliente: 7741, nome: 'LEANDRA CAMPOS BARBOSA' }
+TextRow {
+  idcliente: 7742,
+  nome: 'lumen endoscopia e clinica do aparelho digestivo' }
+TextRow { idcliente: 7743, nome: 'Flavio Luis Almeida' }
+TextRow { idcliente: 7744, nome: 'Newton Murillo ' }
+TextRow { idcliente: 7745, nome: 'Davies Lagos ++zepeda' }
+TextRow {
+  idcliente: 7746,
+  nome: 'LUISA MARILLAC RAMOS LACERDA DE ANDRADE' }
+TextRow { idcliente: 7747, nome: 'Victor Carrasco ++zepeda' }
+TextRow { idcliente: 7748, nome: 'SABRINA IARA DE MELLO' }
+TextRow { idcliente: 7749, nome: 'Giselle Fachetti Machado' }
+TextRow { idcliente: 7750, nome: 'Jéfferson Tomofumi Takasaki' }
+TextRow { idcliente: 7751, nome: 'Natalia Raffoul Mafuz' }
+TextRow { idcliente: 7752, nome: 'Zepeda' }
+TextRow { idcliente: 7753, nome: 'Luis Rodriguez' }
+TextRow { idcliente: 7754, nome: 'Gastronew' }
+TextRow { idcliente: 7757, nome: 'Hospital torax' }
+TextRow { idcliente: 7758, nome: 'Kenia Machadi' }
+TextRow { idcliente: 7759, nome: 'Caroline Basei ME' }
+TextRow { idcliente: 7760, nome: 'ADALBERTO PANKO' }
+TextRow { idcliente: 7761, nome: 'Kelly Christie Gomes Flausino' }
+TextRow { idcliente: 7763, nome: 'Adriano Costa e Souza' }
+TextRow { idcliente: 7764, nome: 'Adriano Costa e Souza' }
+TextRow { idcliente: 7765, nome: 'Clinica Vitae LTDA' }
+TextRow {
+  idcliente: 7766,
+  nome: 'FUNDACAO PROFESSOR MARTINIANO FERNANDES' }
+TextRow { idcliente: 7767, nome: 'Alexandre da Silva Campos' }
+TextRow { idcliente: 7768, nome: 'jose luiz bernardes' }
+TextRow { idcliente: 7769, nome: 'alejandro' }
+TextRow { idcliente: 7770, nome: 'Bastian Melendez Tecnico ++zepeda' }
+TextRow { idcliente: 7771, nome: 'andre vilela martins de oliveira' }
+TextRow { idcliente: 7772, nome: 'Helton jose de oliveira mesquita' }
+TextRow { idcliente: 7773, nome: 'Ylsef Karlo Nunes Beserra' }
+TextRow { idcliente: 7774, nome: 'DEUGECY ALVES DINIZ AIRES' }
+TextRow { idcliente: 7775, nome: 'OSANA SANCHES FROZI' }
+TextRow { idcliente: 7776, nome: 'cliinica amparo' }
+TextRow { idcliente: 7777, nome: 'Gill Cesar Ferreira de Freitas' }
+TextRow { idcliente: 7778, nome: 'Tecnolab Medicina Diagnostica S/A' }
+TextRow { idcliente: 7779, nome: 'REINALDO DE FARIA LIMA' }
+TextRow {
+  idcliente: 7780,
+  nome: 'Euripedes Barsanulfo Borges dos Reis' }
+TextRow { idcliente: 7781, nome: 'Endoscopia' }
+TextRow { idcliente: 7782, nome: 'ANDERSON CARLOS GARCIA' }
+TextRow { idcliente: 7783, nome: 'Zamir Anjos' }
+TextRow { idcliente: 7784, nome: 'Thales Ortega' }
+TextRow { idcliente: 7785, nome: 'THALES ORETEGA' }
+TextRow { idcliente: 7786, nome: 'Jael Muller Correa' }
+TextRow { idcliente: 7787, nome: 'MARCO AURELIO CAMPANA MOREIRA' }
+TextRow {
+  idcliente: 7788,
+  nome: 'INSTITUTO DE OTORRINOLARINGOLOGIA F&S LTDA' }
+TextRow { idcliente: 7789, nome: 'william macedo lima' }
+TextRow { idcliente: 7790, nome: 'walber rodrigues da cruz' }
+TextRow { idcliente: 7791, nome: 'SIMONE MARIA GARCEZ DE MELO' }
+TextRow { idcliente: 7792, nome: 'KAIRO BARCELOS' }
+TextRow { idcliente: 7793, nome: 'Gastro MD' }
+TextRow { idcliente: 7794, nome: 'Armando Quimquim' }
+TextRow { idcliente: 7795, nome: 'MARCELO ZSCAN' }
+TextRow { idcliente: 7796, nome: 'CRISTIANO RUSCHEL' }
+TextRow { idcliente: 7797, nome: 'marcelo Zscan Plus' }
+TextRow { idcliente: 7798, nome: 'TECLAB MEDICINA DIAGNOSTICA SA' }
+TextRow { idcliente: 7799, nome: 'Clinica Magallanes' }
+TextRow { idcliente: 7800, nome: 'Foothill Regional Medical Center' }
+TextRow { idcliente: 7801, nome: 'FRANCISCO ALBINO REBOUCAS JUNIOR' }
+TextRow {
+  idcliente: 7802,
+  nome: 'POLICLINICA JOSE GILVAN LEITE SAMPAIO' }
+TextRow { idcliente: 7803, nome: 'ADLM SERVICOS MEDICOS S/C LTDA' }
+TextRow { idcliente: 7804, nome: 'Gastroclinica de Barra mansa' }
+TextRow { idcliente: 7805, nome: 'Guilherme Braz Macedo ' }
+TextRow { idcliente: 7806, nome: 'Noeli Aparecida Faria' }
+TextRow { idcliente: 7807, nome: 'Dr. Paulo Ricardo Ramos Mendonca ' }
+TextRow { idcliente: 7808, nome: 'RAQUEL ROCHA MACHADO' }
+TextRow { idcliente: 7809, nome: 'NeoMed' }
+TextRow { idcliente: 7810, nome: 'Hospital de Antofagasta' }
+TextRow { idcliente: 7811, nome: 'Ana Luiza Araujo de Oliveira' }
+TextRow { idcliente: 7812, nome: 'PATRICIA GALACINI MASSARI' }
+TextRow { idcliente: 7813, nome: 'Hospital de victoria' }
+TextRow { idcliente: 7814, nome: 'Prefeitura Municipal de Taquarituba' }
+TextRow { idcliente: 7815, nome: 'POLYANA DE VARGAS TEIXEIRA' }
+TextRow { idcliente: 7816, nome: 'TECLAB MEDICINA DIAGNOSTICA SA' }
+TextRow {
+  idcliente: 7817,
+  nome: 'CLINICA DRA JUNIA OLIVEIRA LAPERTOSA' }
+TextRow { idcliente: 7818, nome: 'vicente pires' }
+TextRow {
+  idcliente: 7819,
+  nome: 'CLINICA DRA JUNIA OLIVEIRA LAPERTOSA' }
+TextRow { idcliente: 7820, nome: 'SCHEILA KATIA CALDAS S. AMADO' }
+TextRow { idcliente: 7821, nome: 'THYAGO LUIZ CAMARGO' }
+TextRow { idcliente: 7822, nome: 'Rene Ramos Pinheiro' }
+TextRow { idcliente: 7823, nome: 'CRISTIANE SANTOS' }
+TextRow { idcliente: 7824, nome: 'Aurelio Batista Pereira' }
+Registering endpoint: /
+Registering endpoint: /um
+Registering endpoint: /dois
+Registering endpoint: /tres
+Registering endpoint: /clientes
+Registering endpoins: /cliente/:idcliente
+Servidor iniciado em localhost:8888. Ctrl+C para encerrar!
+Registering endpoint: /
+Registering endpoint: /um
+Registering endpoint: /dois
+Registering endpoint: /tres
+Registering endpoint: /clientes
+Registering endpoins: /cliente/:idcliente
+Servidor iniciado em localhost:8888. Ctrl+C para encerrar!
+Registering endpoint: /
+Registering endpoint: /um
+Registering endpoint: /dois
+Registering endpoint: /tres
+Registering endpoint: /clientes
+Registering endpoins: /cliente/:idcliente
+Servidor iniciado em localhost:8888. Ctrl+C para encerrar!
+connected as id null
+connected as id 43
+connected as id 43
+connected as id 43
+connected as id 43
+connected as id 43
+connected as id 43
+connected as id 43
+connected as id 43
+connected as id 43
+connected as id 43
+connected as id 43
+connected as id 43
+connected as id 43
+connected as id 43
+connected as id 43
+connected as id 43
+connected as id 43
+connected as id 43
+connected as id 43
+connected as id 43
+connected as id 43
+connected as id 43
+connected as id 43
+connected as id 43
+connected as id 43
+Registering endpoint: /
+Registering endpoint: /um
+Registering endpoint: /dois
+Registering endpoint: /tres
+Registering endpoint: /clientes
+Registering endpoins: /cliente/:idcliente
+Registering endpoint: /
+Registering endpoint: /um
+Registering endpoint: /dois
+Registering endpoint: /tres
+Registering endpoint: /clientes
+Registering endpoins: /cliente/:idcliente
+Registering endpoint: /
+Registering endpoint: /um
+Registering endpoint: /dois
+Registering endpoint: /tres
+Registering endpoint: /clientes
+Registering endpoins: /cliente/:idcliente
+Example app listening at http://:::8888
+connected as id null
+Registering endpoint: /
+Registering endpoint: /um
+Registering endpoint: /dois
+Registering endpoint: /tres
+Registering endpoint: /clientes
+Registering endpoins: /cliente/:idcliente
+Example app listening at http://:::8888
+connected as id null
+Registering endpoint: /
+Registering endpoint: /um
+Registering endpoint: /dois
+Registering endpoint: /tres
+Registering endpoint: /clientes
+Registering endpoins: /cliente/:idcliente
+Example app listening at http://:::8888
+connected as id null
+connected as id 4
+connected as id 4
+connected as id 4
+TextRow {
+  idcliente: 7801,
+  nome: 'FRANCISCO ALBINO REBOUCAS JUNIOR',
+  bucket: 'zscan1-sp',
+  nrserie: '9947-7180-18',
+  documento: '184695110001-12',
+  telefone1: '62 91437435',
+  telefone2: '62 91437435',
+  telefone3: '',
+  email: 'francisco.reboucasjr@gmail.com',
+  email2: null,
+  endereco1: 'AVENIDA ITAPURA ,9 A13',
+  endereco2: 'VILA MANCHESTER',
+  cidade: 'SENADOR CANEDO',
+  estado: 'GOIAS',
+  pais: 'Brasil',
+  cep: '75250-000',
+  idioma: 'pt_BR',
+  importado: null,
+  latitude: null,
+  longitude: null,
+  ImportPostgres: null,
+  CidadeEncontrada: null }
